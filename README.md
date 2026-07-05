@@ -12,11 +12,11 @@ resource-library/
     config/         hand-edited files: categories.json, tag_vocabulary.json
     processed/      final resources.json + embeddings.bin/.json — the real "database"
   scripts/          the rebuild pipeline (see below)
-  site/             the actual website — open site/index.html or serve this folder
+  docs/             the actual website — open docs/index.html or serve this folder
     data/           a synced copy of data/processed + data/config, fetched by the browser
 ```
 
-**The site only ever reads from `site/data/`.** Everything upstream of that (`data/raw`, `data/blurbs`, `data/processed`) is the pipeline that produces it. If you edit `site/data/*.json` directly, your changes will be silently overwritten next time the pipeline runs — always edit the source (spreadsheet, `data/config/*.json`) and re-run the pipeline instead.
+**The site only ever reads from `docs/data/`.** Everything upstream of that (`data/raw`, `data/blurbs`, `data/processed`) is the pipeline that produces it. If you edit `docs/data/*.json` directly, your changes will be silently overwritten next time the pipeline runs — always edit the source (spreadsheet, `data/config/*.json`) and re-run the pipeline instead.
 
 ## Updating the dataset (the normal workflow)
 
@@ -32,7 +32,7 @@ This runs five steps in order:
 2. **`npm run dedup`** — collapses resources that share a normalized URL (same page listed under multiple tabs/categories) into one record, merging their categories together. Writes `data/raw/live_deduped.json`.
 3. **`npm run merge-blurbs`** — merges the AI-written blurb/tag/type enrichment (`data/blurbs/output/batch_*.json`) into the deduped data, normalizes resource-type labels into one consistent set, and does a final pass collapsing near-duplicate URLs that differ only by tracking parameters (`?utm_source=...` etc). Writes `data/processed/resources.json` — this is the canonical dataset.
 4. **`npm run embed`** — computes a search vector for every resource using the same small AI model (`Xenova/all-MiniLM-L6-v2`) the browser uses at search time, so they're comparable. Writes `data/processed/embeddings.bin` + `embeddings_meta.json`.
-5. **`npm run sync-site-data`** — copies the finished dataset + config into `site/data/`, which is what the live site actually fetches.
+5. **`npm run sync-site-data`** — copies the finished dataset + config into `docs/data/`, which is what the live site actually fetches.
 
 Each step can also be run on its own (useful if you only changed `data/config/categories.json`, for instance — just re-run `npm run sync-site-data`).
 
@@ -68,7 +68,7 @@ This only computes vectors for resources whose text has changed since the last e
 The site is plain static files — any local web server works (it won't run correctly from `file://` because the browser blocks `fetch()` of local JSON over that protocol). Easiest option:
 
 ```
-npx serve site
+npx serve docs
 ```
 
 Then open the URL it prints (usually `http://localhost:3000`).
@@ -76,10 +76,10 @@ Then open the URL it prints (usually `http://localhost:3000`).
 ## Deploying to GitHub Pages
 
 1. Push this repository to GitHub.
-2. In the repo's Settings → Pages, set the source to the `site/` folder on your main branch (or copy `site/`'s contents to the repo root / a `gh-pages` branch — either works).
+2. In the repo's Settings → Pages, set the source to the `docs/` folder on your main branch. (GitHub Pages only supports the repo root or a `/docs` folder for the "deploy from a branch" option — that's why the site lives in `docs/` instead of `site/`.)
 3. GitHub will publish it at `https://<username>.github.io/<repo-name>/`.
 
-No build step is required — `site/` is deployed as-is.
+No build step is required — `docs/` is deployed as-is.
 
 ## Search: how it works
 
