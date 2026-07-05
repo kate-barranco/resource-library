@@ -1,0 +1,346 @@
+[
+  {
+    "id": "CFT-0666",
+    "blurb": "A research report from Project Unloaded presenting findings on how gun violence and gun culture intersect with Gen Z mental health, drawn from surveys of young people's attitudes toward firearms.",
+    "tags": ["Gen Z", "Gun Violence", "Mental Health", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Publisher (Project Unloaded) is identifiable from the URL, but the exact scope of the findings is inferred from the title and filename."
+  },
+  {
+    "id": "CFT-0667",
+    "blurb": "A Flickr photo album documenting the 2024 White House Youth Summit, an event convening young people around civic engagement and youth-driven policy priorities.",
+    "tags": ["Gen Z", "Civic Life"],
+    "type_display": "Photo Gallery",
+    "confidence": "low",
+    "ambiguous_note": "This is a photo album rather than a written resource, so its specific content and speakers can't be confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0668",
+    "blurb": "A rebuttal-style essay methodically working through thirteen alternative explanations for the teen mental health crisis — from social media literacy to economic anxiety — and arguing that none adequately explain the data as well as the phone-based theory.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "The Substack post's author/publication isn't named in the title, so the argument is inferred from the title's framing."
+  },
+  {
+    "id": "CFT-0669",
+    "blurb": "A Search Institute post arguing that strong, sustained relationships — not programs alone — are the critical ingredient in helping young people thrive.",
+    "tags": ["Youth Wellbeing", "Intergenerational", "Framework"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0670",
+    "title_clean": "Designing for Youth Around Autonomy, Inclusion, and Safety (Responsible Tech DC Panel)",
+    "blurb": "A panel discussion from Responsible Tech DC on how designers and technologists can balance young users' autonomy, inclusion, and safety when building digital products for youth.",
+    "tags": ["Youth Co-Design", "Responsible Tech", "AI & Technology"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0671",
+    "blurb": "A Search Institute piece making the case for treating young people as capable leaders now, rather than leaders-in-waiting, and outlining what adults must do to make room for that leadership.",
+    "tags": ["Youth Co-Design", "Leadership", "Intergenerational"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0672",
+    "title_clean": "Developmental Assets Framework",
+    "blurb": "Search Institute's widely used framework of internal and external assets — from supportive relationships to a sense of purpose — that research links to young people's healthy development and thriving.",
+    "tags": ["Framework", "Youth Wellbeing", "Youth Co-Design"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0673",
+    "title_clean": "Developmental Relationships",
+    "blurb": "Search Institute's framework describing the specific actions — expressing care, challenging growth, sharing power — that make relationships developmental for young people.",
+    "tags": ["Framework", "Youth Wellbeing", "Intergenerational"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0674",
+    "blurb": "A retrospective on a decade of Search Institute's Developmental Relationships framework, tracing how the model has shaped youth-serving practice and what it reveals about the roots of positive youth development.",
+    "tags": ["Framework", "Youth Wellbeing", "Intergenerational"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0675",
+    "title_clean": "The Student Voice Toolkit",
+    "blurb": "A Search Institute toolkit offering practical exercises and prompts for educators and organizations looking to meaningfully elevate student voice in decision-making.",
+    "tags": ["Facilitation Tool", "Youth Co-Design", "Civic Life"],
+    "type_display": "Facilitation Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0676",
+    "blurb": "A Georgetown Global Children publication arguing for centering children's and young people's own perspectives across research design, policymaking, and program practice.",
+    "tags": ["Youth Co-Design", "Policy Innovation", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "The title is a general call to action; the exact recommendations and format (report vs. brief) aren't confirmable without opening the PDF."
+  },
+  {
+    "id": "CFT-0677",
+    "title_clean": "Youth Mental Health and Substance Use Task Force: Delivery System Redesign",
+    "blurb": "A Bipartisan Policy Center task force report proposing how to redesign the youth mental health and substance use care delivery system to better reach adolescents and young adults.",
+    "tags": ["Mental Health", "Policy Innovation", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0678",
+    "blurb": "A Washington Post interactive feature exploring how Gen Z thinks about voting and political power, built around the generation's own words on why they won't be ignored.",
+    "tags": ["Gen Z", "Civic Life", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0679",
+    "blurb": "A newsletter piece unpacking how Democratic strategists are trying to reach 'Zoomer' voters, drawing on the FWIW research series on young Americans' political attitudes.",
+    "tags": ["Gen Z", "Democracy", "Civic Life"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "The specific strategy details referenced are inferred from the title and can't be fully confirmed without the underlying FWIW data."
+  },
+  {
+    "id": "CFT-0680",
+    "blurb": "A piece from The Up And Up newsletter examining what actually drives young voters to the polls, finding a mix of anxiety about the future and genuine hope for change.",
+    "tags": ["Gen Z", "Democracy", "Hope & Empowerment"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0681",
+    "blurb": "A report titled 'Our Future Agenda' outlining priorities and recommendations meant to shape the future direction of youth-focused policy or programming.",
+    "tags": ["Futures Thinking", "Gen Z", "Youth Co-Design"],
+    "type_display": "Report",
+    "confidence": "low",
+    "ambiguous_note": "The publishing organization ('River Path') and the report's specific scope aren't identifiable from the title alone."
+  },
+  {
+    "id": "CFT-0682",
+    "blurb": "A systematic review synthesizing research on the relationship between opioid misuse and suicide-related outcomes among adolescents and young adults.",
+    "tags": ["Mental Health", "Academic Research", "Youth Wellbeing"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0683",
+    "blurb": "A Dazed piece reporting on research finding that Gen Z is moving away from casual hookup culture in favor of more intentional relationships.",
+    "tags": ["Gen Z", "Identity & Culture", "Gender & Sexuality"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0684",
+    "blurb": "A BBC feature on the resurgence of speed dating among Gen Z, who are increasingly trading swipe-based apps for in-person, low-stakes ways to meet people.",
+    "tags": ["Gen Z", "Identity & Culture", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0685",
+    "blurb": "A Times feature reporting on survey data showing strikingly low happiness levels among Gen Z adults, linking the decline to debt, job insecurity, and mental illness.",
+    "tags": ["Gen Z", "Mental Health", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0686",
+    "blurb": "A Mashable piece on how Gen Z turns to social platforms to self-diagnose mental health and neurodivergent conditions, and what that means for how they seek help.",
+    "tags": ["Social Media & Attention Economy", "Mental Health", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0687",
+    "blurb": "A video exploring the scale of loneliness among Millennials and Gen Z, and what's driving a generational disconnect despite being more digitally connected than ever.",
+    "tags": ["Loneliness", "Gen Z", "Mental Health"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "The specific host/channel and its argument aren't named in the title, so the framing is inferred."
+  },
+  {
+    "id": "CFT-0688",
+    "title_clean": "Assessment of Children's Needs in London (Data Visualization)",
+    "blurb": "A LinkedIn post sharing a circular data visualization mapping children's needs and services across London.",
+    "tags": ["Youth Wellbeing", "Impact Measurement"],
+    "type_display": "Social Media Post",
+    "confidence": "low",
+    "ambiguous_note": "Original title is a casual social post ('VERY COOL GRAPHIC') with no description of the underlying data source or methodology."
+  },
+  {
+    "id": "CFT-0689",
+    "blurb": "A Drexel University news piece examining the reliability of autism-related information circulating on TikTok, and why some viral claims don't hold up.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0690",
+    "title_clean": "Gen Z vs the Gerontocracy: Reclaiming America's Future (SXSW 2025 Panel)",
+    "blurb": "An SXSW 2025 panel session on generational power imbalances in American politics, exploring how Gen Z might challenge an aging political establishment to reclaim a stake in the country's future.",
+    "tags": ["Gen Z", "Intergenerational", "Democracy"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "This is a schedule listing; the panelists and specific arguments made aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0691",
+    "blurb": "An Ogilvy report mapping the economic pressures — debt, housing, job insecurity — reshaping Gen Z's financial outlook and spending behavior.",
+    "tags": ["Gen Z", "Economy & Wellbeing"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Specific findings are inferred from the title; the report's exact data sources aren't confirmable without opening the PDF."
+  },
+  {
+    "id": "CFT-0692",
+    "blurb": "A Fast Company piece arguing that short-form viral video has replaced appointment television as Gen Z's dominant media habit.",
+    "tags": ["Gen Z", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0693",
+    "title_clean": "What Young Leaders Want — and Don't Want — from Older Allies",
+    "blurb": "A CoGenerate piece drawing on young leaders' own accounts of what meaningful intergenerational allyship looks like — and the well-intentioned habits that undermine it.",
+    "tags": ["Intergenerational", "Leadership", "Youth Co-Design"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0694",
+    "title_clean": "What Does Personal Development Look Like for Generation Z?",
+    "blurb": "A Medium essay reflecting on how Gen Z approaches personal growth and self-improvement differently than prior generations, shaped by digital culture and shifting expectations.",
+    "tags": ["Gen Z", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "This is a personal/independent blog post; its specific arguments are inferred from the title alone."
+  },
+  {
+    "id": "CFT-0695",
+    "blurb": "The 50th edition of Harvard's Youth Poll, a long-running survey tracking young Americans' political attitudes, trust in institutions, and views on the country's direction.",
+    "tags": ["Gen Z", "Civic Life", "Democracy"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0696",
+    "blurb": "A newsletter response to the Harvard Youth Poll, unpacking what its latest findings signal about young Americans' political mood.",
+    "tags": ["Gen Z", "Democracy", "Civic Life"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "The specific takeaways highlighted by the newsletter aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0697",
+    "title_clean": "The Youth Vote in 2024",
+    "blurb": "CIRCLE's data hub on the 2024 youth vote, aggregating turnout figures, demographic breakdowns, and analysis of young Americans' electoral impact.",
+    "tags": ["Gen Z", "Democracy", "Civic Life"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0698",
+    "blurb": "A POLITICO feature arguing that despite being digital natives, Gen Z is uniquely susceptible to misinformation because of how they consume news through short-form, algorithm-driven platforms.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0699",
+    "title_clean": "Is Gen Z Giving Up on Democracy? Interpreting Young Americans' Views on Government, the Constitution, and the Appeal of Authoritarianism",
+    "blurb": "A More in Common report examining survey data on young Americans' declining trust in democratic institutions and growing openness to authoritarian alternatives.",
+    "tags": ["Gen Z", "Democracy", "Polarization"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0700",
+    "blurb": "A University of California piece drawing on new studies to show that while young voters wield growing electoral power, dysfunctional politics is breeding fatalism about whether their vote matters.",
+    "tags": ["Gen Z", "Democracy", "Civic Life"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0701",
+    "blurb": "A newsletter piece on 'bed rotting' — Gen Z's trend of spending extended time in bed as a form of escapism — and what it reveals about burnout and overwhelm.",
+    "tags": ["Gen Z", "Mental Health", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "The publication's specific argument and sourcing aren't confirmable beyond the title."
+  },
+  {
+    "id": "CFT-0702",
+    "blurb": "A BBC News piece on an Oxford exhibition featuring Gen Z workers' own stories and reflections on navigating hybrid work.",
+    "tags": ["Gen Z", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0703",
+    "blurb": "A Fortune piece on China's unemployed Gen Z embracing the self-deprecating 'rat people' identity — spending days in bed amid a bleak job market — as both coping mechanism and quiet protest.",
+    "tags": ["Gen Z", "Economy & Wellbeing", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0704",
+    "blurb": "An NDTV piece arguing that constant digital stimulation has left Gen Z unfamiliar with boredom, and making the case for why boredom is actually essential to creativity and wellbeing.",
+    "tags": ["Gen Z", "Digital Wellbeing", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0705",
+    "blurb": "A Fortune piece on OpenAI CEO Sam Altman's observation that Gen Z and millennials increasingly treat ChatGPT as a life advisor, with college students leading the trend.",
+    "tags": ["AI & Technology", "Gen Z", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0706",
+    "title_clean": "'They Want to Feel Like Men': Why Are Gen Z Men Turning to Right-Wing Politics?",
+    "blurb": "A Guardian video investigating why a growing share of young men in the UK are drawn to right-wing and Reform UK politics, framed around a search for masculine identity and belonging.",
+    "tags": ["Gen Z", "Gender & Sexuality", "Polarization"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0707",
+    "blurb": "A Futurism piece reporting on survey data showing nearly half of young people say they wish the internet had never been invented, reflecting deep ambivalence about its effect on their lives.",
+    "tags": ["Gen Z", "Digital Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0708",
+    "blurb": "A newsletter piece flagging early warning signs in Gen Z voter sentiment ahead of the 2028 election cycle.",
+    "tags": ["Gen Z", "Democracy", "Civic Life"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "Title is cryptic on its own; the specific 'warning signs' are inferred from context (URL slug references Gen Z voters and 2028) rather than confirmed."
+  },
+  {
+    "id": "CFT-0709",
+    "title_clean": "Gen Z: How Will You Remake the American Dream?",
+    "blurb": "A New York Times opinion piece inviting Gen Z to reimagine what the American Dream means for their generation, amid economic precarity and shifting priorities.",
+    "tags": ["Gen Z", "Economy & Wellbeing", "Hope & Empowerment"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0710",
+    "title_clean": "Prediction: Every Profession Will Have a Verticalized Gen Z Community",
+    "blurb": "A LinkedIn post predicting that niche, paid membership communities built around Gen Z professionals in specific fields could become a scalable, low-overhead business model.",
+    "tags": ["Gen Z", "Economy & Wellbeing"],
+    "type_display": "Social Media Post",
+    "confidence": "medium",
+    "ambiguous_note": "This is a speculative social media post rather than a researched resource, so its context and author's credibility aren't fully verifiable."
+  }
+]

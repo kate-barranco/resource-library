@@ -1,0 +1,335 @@
+[
+  {
+    "id": "CFT-0221",
+    "title_clean": "Healing Communication",
+    "blurb": "A practice guide from Recipes for Wellbeing offering concrete exercises for communicating in ways that repair rather than reopen wounds, especially in groups doing collective healing work.",
+    "tags": ["Healing Practice", "Facilitation Tool", "Community Health"],
+    "type_display": "Practice Guide",
+    "confidence": "medium",
+    "ambiguous_note": "The exact exercises inside this 'recipe' aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0222",
+    "title_clean": "Doing the Work While Doing the Work",
+    "blurb": "A Nation essay on the toll that organizing and social-justice work takes on activists' own nervous systems, and what it means to tend to personal trauma while staying in the fight.",
+    "tags": ["Trauma-Informed Care", "Organizational Wellbeing", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0223",
+    "blurb": "A short talk from trauma researcher Thomas Hubl offering three practical tools for beginning to sense and heal collective and intergenerational trauma in groups and communities.",
+    "tags": ["Historical Trauma", "Healing Practice", "Somatics & Embodiment"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0224",
+    "blurb": "A TED talk making the case for reverse mentorship — pairing senior leaders with junior colleagues from different backgrounds — as a practical route to more empathetic, inclusive leadership.",
+    "tags": ["Leadership", "Organizational Wellbeing", "Intergenerational"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0225",
+    "blurb": "A TED talk on how well-meaning over-collaboration quietly drives burnout, and how to be a generous, reliable teammate without depleting yourself in the process.",
+    "tags": ["Leadership", "Organizational Wellbeing", "Resilience"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0226",
+    "blurb": "A TED talk offering concrete, low-pressure ways to show up for a depressed friend without trying to fix them or disappearing out of discomfort.",
+    "tags": ["Mental Health", "Community Health", "Healing Practice"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0227",
+    "blurb": "A TED talk on the skills of productive disagreement — how to structure conversations across difference so they build understanding instead of entrenchment.",
+    "tags": ["Facilitation Tool", "Civic Life", "Polarization"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0228",
+    "blurb": "A TED talk from a psychologist on why work thoughts keep intruding on off-hours, and specific rituals for actually switching off during free time.",
+    "tags": ["Mental Health", "Resilience", "Organizational Wellbeing"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0229",
+    "blurb": "A TED talk by TED's own curator arguing that generosity can spread the way outrage and cynicism do online, and making the case for deliberately engineering its virality.",
+    "tags": ["Hope & Empowerment", "Philanthropy & Funding"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0230",
+    "title_clean": "Listen to This: It's Good for Your Health",
+    "blurb": "A Post Reports podcast episode exploring emerging research on how listening — whether to music, a story, or another person — can measurably support mental and physical health.",
+    "tags": ["Mental Health", "Healing Practice"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "The episode's specific research focus isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0231",
+    "blurb": "A Harvard Business Review piece making the evidence-based case for self-compassion over self-criticism as the more effective driver of resilience and performance.",
+    "tags": ["Mental Health", "Healing Practice", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0232",
+    "title_clean": "Comparing Self-Esteem and Self-Compassion: An Analysis Within the Big Five Personality Traits Framework",
+    "blurb": "A peer-reviewed study disentangling self-esteem from self-compassion, examining how each relates to the Big Five personality traits and which better predicts wellbeing.",
+    "tags": ["Academic Research", "Mental Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0233",
+    "blurb": "A comprehensive Annual Review of Psychology paper synthesizing the theory, measurement, and intervention research on self-compassion as a construct.",
+    "tags": ["Academic Research", "Mental Health", "Healing Practice"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0234",
+    "blurb": "A peer-reviewed study examining Sadhguru's 'Inner Engineering' program as a complement to positive-education approaches, assessing its effects on student wellbeing and success.",
+    "tags": ["Academic Research", "Somatics & Embodiment", "Mental Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0235",
+    "blurb": "An academic paper applying a model of 'inner strength' to reflective interviews with healthy middle-aged adults, exploring how this internal resource shapes wellbeing.",
+    "tags": ["Academic Research", "Resilience", "Mental Health"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "The specific 'inner strength' model and its findings are inferred from the title; not independently verified."
+  },
+  {
+    "id": "CFT-0236",
+    "title_clean": "Addressing Compassion Fatigue and Stress of Special Education Teachers and Professional Staff Using Mindfulness and Prayer",
+    "blurb": "A peer-reviewed study testing mindfulness and prayer as interventions for compassion fatigue and stress among special-education teachers and staff.",
+    "tags": ["Academic Research", "Organizational Wellbeing", "Healing Practice"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0237",
+    "title_clean": "Inner Strength Associated with Reduced Prevalence of Depression Among Older Women",
+    "blurb": "A peer-reviewed study linking higher levels of 'inner strength' to lower rates of depression among older women, pointing to it as a protective psychological resource in aging.",
+    "tags": ["Academic Research", "Mental Health", "Resilience"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0238",
+    "blurb": "A video in a global conversation series on how personal inner work translates into real-world change, featuring practitioners' experiences from Brazil, Ethiopia, and the Philippines.",
+    "tags": ["Healing Practice", "Social Innovation", "Community Health"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "The hosting organization and full context of this series aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0239",
+    "blurb": "A companion video in the same global series on lived inner-work practice, drawing on experiences and perspectives from India, Namibia, and South Africa.",
+    "tags": ["Healing Practice", "Social Innovation", "Community Health"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "The hosting organization and full context of this series aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0240",
+    "blurb": "A conversation asking what 'inner work' actually contributes to social change, featuring Fetzer Institute president Bob Boisture, Synergos founder Peggy Dulany, and On Being's Krista Tippett.",
+    "tags": ["Healing Practice", "Social Innovation", "Civic Life"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speakers' affiliations are drawn from public bios; the specific event or series producing this video isn't confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0241",
+    "blurb": "A Post Reports podcast episode on the 'joy snack' — small, deliberate moments of pleasure people can build into an ordinary day to counter stress and low mood.",
+    "tags": ["Hope & Empowerment", "Mental Health"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "Specific research or guests featured in the episode aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0242",
+    "blurb": "A TED talk pushing back against relentless self-optimization, arguing that embracing mediocrity in most areas of life is what actually frees people to excel where it matters.",
+    "tags": ["Mental Health", "Resilience", "Identity & Culture"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0243",
+    "blurb": "A TED talk unpacking the neuroscience of friendship — how close relationships physically shape the brain and why they matter for long-term wellbeing.",
+    "tags": ["Community Health", "Mental Health", "Loneliness"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0244",
+    "blurb": "A TED talk from a psychologist breaking down the escalating stages of anxiety overload and offering concrete steps to interrupt the spiral before it takes over.",
+    "tags": ["Mental Health", "Resilience"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0245",
+    "title_clean": "3 Steps to Identify Where You Need to Set a Boundary, From a Therapist",
+    "blurb": "A therapist-authored guide to noticing where your 'inner child' needs are going unmet in relationships, and using that awareness to identify and set clearer boundaries.",
+    "tags": ["Healing Practice", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0246",
+    "blurb": "A Washington Post science piece on research showing that short, five-minute breathing exercises can measurably shift mood and reduce anxiety.",
+    "tags": ["Somatics & Embodiment", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0247",
+    "blurb": "An entry in Shondaland's 'A Path to Well-Being' series on practices for reconnecting body and mind — from movement to breathwork — as a foundation for better health.",
+    "tags": ["Somatics & Embodiment", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0248",
+    "blurb": "An entry in Shondaland's 'A Path to Well-Being' series making the case that decluttering physical space is a practical route to greater mental peace.",
+    "tags": ["Mental Health", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0249",
+    "blurb": "An entry in Shondaland's 'A Path to Well-Being' series returning to the fundamentals — sleep, nutrition, and exercise — as the underrated bedrock of wellbeing.",
+    "tags": ["Somatics & Embodiment", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0250",
+    "blurb": "An entry in Shondaland's 'A Path to Well-Being' series explaining, in accessible terms, how key neurotransmitters shape mood and mental health.",
+    "tags": ["Mental Health", "Somatics & Embodiment"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0251",
+    "blurb": "An entry in Shondaland's 'A Path to Well-Being' series on the protective power of staying socially connected, and practical ways to nurture those ties.",
+    "tags": ["Community Health", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0252",
+    "blurb": "An entry in Shondaland's 'A Path to Well-Being' series on rethinking our relationship with time as a lever for wellbeing rather than just productivity.",
+    "tags": ["Mental Health", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0253",
+    "blurb": "An Oprah Daily piece by intergenerational-trauma expert Dr. Mariel Buqué offering an actual script for the difficult family conversation about naming and beginning to heal inherited trauma.",
+    "tags": ["Intergenerational Trauma", "Healing Practice", "Trauma-Informed Care"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0254",
+    "blurb": "A wellness roundup on the research behind time outdoors, showing how exposure to nature measurably benefits both physical health and mental clarity.",
+    "tags": ["Nature Connection", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0255",
+    "title_clean": "Ditch Online Comparisons and Boost Mental Well-Being",
+    "blurb": "A Psychology Today piece on the corrosive effect of social comparison online, and strategies for stepping out of that loop to protect mental wellbeing.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0256",
+    "blurb": "A Washington Post science column on research finding that nostalgia — often dismissed as mere sentimentality — actively supports present-day mood and future outlook.",
+    "tags": ["Mental Health", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0257",
+    "blurb": "A Washington Post piece reframing FOMO as JOMO — the joy of missing out — and the case for deliberately opting out as a wellbeing practice rather than a failure to keep up.",
+    "tags": ["Digital Wellbeing", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0258",
+    "blurb": "A mindbodygreen piece offering practical ways to rebuild and strengthen community ties, framed around a fresh-start moment like the new year.",
+    "tags": ["Community Health", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0259",
+    "title_clean": "How to Use Box Breathing for Well-Being",
+    "blurb": "A Psychology Today explainer on box breathing, a simple four-count breath technique used to regulate the nervous system and reduce stress in the moment.",
+    "tags": ["Somatics & Embodiment", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0260",
+    "blurb": "An Oprah Daily interview exploring whether 'wholeness' — accepting the full, sometimes messy self — is emerging as a more honest goal than the polished ideal of conventional wellness.",
+    "tags": ["Identity & Culture", "Healing Practice", "Mental Health"],
+    "type_display": "Interview",
+    "confidence": "medium",
+    "ambiguous_note": "The interview's specific arguments are inferred from the framing question in the title, not confirmed content."
+  },
+  {
+    "id": "CFT-0261",
+    "blurb": "A Mayo Clinic Health System piece laying out why setting boundaries is protective for wellbeing and offering guidance for doing it without guilt.",
+    "tags": ["Healing Practice", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0262",
+    "blurb": "A Washington Post roundup distilling its best-tested mental health and brain-science tips into one practical guide for a healthier daily life.",
+    "tags": ["Mental Health", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0263",
+    "title_clean": "Purls of Wisdom: The Wellbeing Benefits of Knitting and Crocheting",
+    "blurb": "A Guardian feature on the documented mental health benefits of knitting and crocheting — the rhythmic, tactile focus these crafts offer as a form of everyday healing.",
+    "tags": ["Art & Healing", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0264",
+    "blurb": "An Oprah Daily essay on the habit of 'should-ing' on yourself — measuring your life against unrealistic expectations — and how to loosen that grip for more self-compassion.",
+    "tags": ["Mental Health", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0265",
+    "blurb": "An Oprah Daily conversation with boundaries expert Nedra Glover Tawwab on why defining and holding healthy boundaries is both genuinely hard and a source of real relational joy.",
+    "tags": ["Healing Practice", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

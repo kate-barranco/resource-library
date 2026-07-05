@@ -1,0 +1,347 @@
+[
+  {
+    "id": "CFT-0513",
+    "blurb": "A peer-reviewed study finding that trauma exposure -- with or without a PTSD diagnosis -- leaves measurable epigenetic marks on DNA methylation patterns that can be detected in offspring, adding biological evidence to the case for intergenerational trauma transmission.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0514",
+    "blurb": "A practitioner-facing report from Glasswing International outlining what trauma-informed principles look like in practice for mental healthcare delivery, particularly in under-resourced community settings.",
+    "tags": ["Trauma-Informed Care", "Mental Health", "Community Health"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Title is a generic all-caps heading; exact scope and audience inferred from the publisher (Glasswing International) and category."
+  },
+  {
+    "id": "CFT-0515",
+    "blurb": "A Guardian feature on the science of intergenerational trauma in Aotearoa New Zealand, tracing how the physiological effects of ancestors' suffering -- from colonization to war -- can echo in descendants' health today.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Decolonial Thinking"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "We Don't Live in Isolation: Our Ancestors' Trauma Can Affect Our Health Generations Later"
+  },
+  {
+    "id": "CFT-0516",
+    "blurb": "A Harper's essay by Will Self tracing how 'trauma' migrated from a narrow clinical diagnosis into the master metaphor of modern selfhood, and what's lost when everything gets filed under the same word.",
+    "tags": ["Storytelling & Narrative", "Mental Health", "Historical Trauma"],
+    "type_display": "Essay",
+    "confidence": "medium",
+    "ambiguous_note": "Title alone ('A Posthumous Shock') is oblique; content inferred from the URL slug referencing trauma studies and modernity."
+  },
+  {
+    "id": "CFT-0517",
+    "blurb": "The CDC's 2013 national report documenting persistent health disparities across race, income, and geography in the United States, used as a baseline evidence source for the structural roots of intergenerational trauma.",
+    "tags": ["Racial Equity", "Community Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0518",
+    "blurb": "An interdisciplinary academic paper examining how epigenetics -- the science increasingly cited to explain how trauma is inherited -- is being interpreted, popularized, and sometimes overstated in public discourse.",
+    "tags": ["Historical Trauma", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Epigenetics in the Public Sphere: Interdisciplinary Perspectives"
+  },
+  {
+    "id": "CFT-0519",
+    "blurb": "A full report on trauma-informed approaches to improving the health of boys and young men of color, examining both promising practices and the systemic barriers to implementing them.",
+    "tags": ["Trauma-Informed Care", "Racial Equity", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0520",
+    "blurb": "Scientific American on the pioneering epigenetic research of Rachel Yehuda, whose studies of Holocaust survivors and their children helped establish that parental trauma can leave biological traces in the next generation.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "How Parents' Trauma Leaves Biological Traces in Children"
+  },
+  {
+    "id": "CFT-0521",
+    "blurb": "A Vox essay tracing how 'trauma' became the defining vocabulary of the pandemic decade, and what gets gained -- and flattened -- when a clinical term becomes an everyday way of narrating experience.",
+    "tags": ["Storytelling & Narrative", "Mental Health"],
+    "type_display": "Essay",
+    "confidence": "high",
+    "title_clean": "How Trauma Became the Word of the Decade"
+  },
+  {
+    "id": "CFT-0522",
+    "blurb": "A New York Times opinion piece questioning the rise of therapeutic vocabulary -- 'love bombing,' 'gaslighting,' 'trauma' -- in everyday conversation, and whether it clarifies or obscures the relationships it describes.",
+    "tags": ["Storytelling & Narrative", "Mental Health"],
+    "type_display": "Opinion",
+    "confidence": "high",
+    "title_clean": "'Love Bombing,' 'Gaslighting,' and the Rise of 'Trauma-Talk'"
+  },
+  {
+    "id": "CFT-0523",
+    "blurb": "The same New York Times argument under its original headline: a critique of how expansively the word 'trauma' is now applied to ordinary relational conflict, and what that expansion costs the concept's clinical meaning.",
+    "tags": ["Storytelling & Narrative", "Mental Health"],
+    "type_display": "Opinion",
+    "confidence": "medium",
+    "ambiguous_note": "Shares a URL and topic with CFT-0522 (same New York Times piece, apparently captured under two different headline variants)."
+  },
+  {
+    "id": "CFT-0524",
+    "blurb": "A systematic review synthesizing research on how trauma experienced by refugees -- displacement, violence, loss -- is transmitted to and shapes the wellbeing of their children.",
+    "tags": ["Intergenerational Trauma", "Academic Research", "Mental Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0525",
+    "blurb": "An academic paper unpacking the conceptual debates behind PTSD's redefinition in the DSM-5, including disputes over what counts as a qualifying trauma and how the diagnosis should be structured.",
+    "tags": ["Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0526",
+    "blurb": "A widely discussed New Yorker essay arguing that contemporary fiction's reflexive use of trauma backstory as character explanation has become a narrative crutch -- flattening people into their wounds.",
+    "tags": ["Storytelling & Narrative", "Mental Health"],
+    "type_display": "Essay",
+    "confidence": "high",
+    "title_clean": "The Case Against the Trauma Plot"
+  },
+  {
+    "id": "CFT-0527",
+    "blurb": "Shawn Ginwright's influential essay proposing a shift from trauma-informed care to 'healing-centered engagement' -- a strengths-based, culturally rooted framework that treats healing as collective and political, not just clinical.",
+    "tags": ["Trauma-Informed Care", "Healing Practice", "Youth Wellbeing"],
+    "type_display": "Essay",
+    "confidence": "high",
+    "title_clean": "The Future of Healing: Shifting From Trauma-Informed Care to Healing-Centered Engagement"
+  },
+  {
+    "id": "CFT-0528",
+    "blurb": "Paul Laurence Dunbar's 1895 poem on the social mask worn to conceal pain and grief behind a performance of composure -- a foundational text for understanding hidden suffering across generations.",
+    "tags": ["Storytelling & Narrative", "Historical Trauma"],
+    "type_display": "Poem",
+    "confidence": "high",
+    "title_clean": "We Wear the Mask"
+  },
+  {
+    "id": "CFT-0529",
+    "blurb": "A video segment profiling a new generation of human rights investigators using satellite imagery, open-source data, and other high-tech methods to document atrocities and hold perpetrators accountable.",
+    "tags": ["Human Rights", "AI & Technology"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Title suggests a news segment or documentary clip, but the outlet/producer isn't identifiable from the title alone."
+  },
+  {
+    "id": "CFT-0530",
+    "blurb": "A TEDx talk by scholar Nancy Marie Mithlo on the power and politics of imagery in shaping how Native peoples are seen -- and see themselves.",
+    "tags": ["Identity & Culture", "Decolonial Thinking"],
+    "type_display": "Video/Talk",
+    "confidence": "high",
+    "title_clean": "American Indian -- Thinking Twice About Images That Matter: Nancy Marie Mithlo at TEDxABQWomen"
+  },
+  {
+    "id": "CFT-0531",
+    "blurb": "A TEDxJohannesburg talk asking whether South Africa's 'born-free' generation -- those born after apartheid -- are truly unburdened by its legacy, or still shaped by inherited constraint.",
+    "tags": ["Historical Trauma", "Identity & Culture", "Intergenerational"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker's specific argument inferred from the wordplay in the title ('born to free-fall'); exact content of the talk not confirmed beyond the title."
+  },
+  {
+    "id": "CFT-0532",
+    "blurb": "A Nature Human Behaviour commentary by Kubzansky, Epel, and Davidson arguing that prosociality -- kindness, connection, cooperation -- should be treated as a public health priority alongside diet and exercise.",
+    "tags": ["Community Health", "Academic Research", "Hope & Empowerment"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Prosociality Should Be a Public Health Priority"
+  },
+  {
+    "id": "CFT-0533",
+    "blurb": "A 19th News report on a school-based program that measurably reduces trauma symptoms in Latina and Black girls, and the funding and staffing hurdles that threaten its expansion.",
+    "tags": ["Trauma-Informed Care", "Racial Equity", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0534",
+    "blurb": "A Washington Post feature on the growing body of neuroscience research showing how chronic exposure to racism physically alters brain structure and function.",
+    "tags": ["Racial Equity", "Mental Health", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0535",
+    "blurb": "A recorded panel discussion from the Kennedy Center's Millennium Stage exploring how the arts support healing and wellness -- bringing together practitioners working at the intersection of creative practice and mental health.",
+    "tags": ["Art & Healing", "Mental Health"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Panelists and specific arguments aren't named in the title; description is inferred from the panel title and venue."
+  },
+  {
+    "id": "CFT-0536",
+    "blurb": "Part of a lecture series unpacking how historical trauma is lived and experienced -- the felt, embodied dimension of collective wounds passed down across generations.",
+    "tags": ["Historical Trauma", "Somatics & Embodiment"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker and institution aren't identifiable from the title; positioned within a numbered playlist alongside related historical-trauma talks."
+  },
+  {
+    "id": "CFT-0537",
+    "blurb": "A talk examining the specific mechanisms and pathways by which trauma has been transmitted across generations within African-American families and communities -- and what recovery looks like.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Racial Equity"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker not named in the title; content inferred from the descriptive title alone."
+  },
+  {
+    "id": "CFT-0538",
+    "blurb": "A talk exploring what 'woundedness' means in the South African context -- how collective injury from apartheid continues to shape identity, relationships, and the work of repair.",
+    "tags": ["Historical Trauma", "Healing Practice", "Identity & Culture"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker and framing details aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0539",
+    "blurb": "A talk on how Holocaust survivor families -- and particularly the women within them -- communicated, or didn't, about their trauma, and how that silence or disclosure shaped the generations that followed.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0540",
+    "blurb": "Part of a lecture and discussion series defining 'cultural healing' -- collective practices of repair rooted in a community's own traditions rather than imported clinical frameworks.",
+    "tags": ["Healing Practice", "Historical Trauma", "Identity & Culture"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker and institution not identifiable from the title; part of a numbered playlist alongside related historical-trauma talks."
+  },
+  {
+    "id": "CFT-0541",
+    "blurb": "The introductory talk in a lecture series defining historical trauma -- the cumulative, collective wounding experienced by a group across generations as a result of massive group trauma.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker and institution not identifiable from the title alone; positioned as the first entry in a related playlist."
+  },
+  {
+    "id": "CFT-0542",
+    "blurb": "The first installment of a three-part talk by Dr. Joe Solanto on intergenerational trauma and pathways toward healing.",
+    "tags": ["Intergenerational Trauma", "Healing Practice"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker's name and credentials as given in the title couldn't be independently verified."
+  },
+  {
+    "id": "CFT-0543",
+    "blurb": "A talk by Indigenous health researcher Karina Walters on innovative, culturally grounded methods for addressing historical trauma and building sustainable health approaches in Native communities.",
+    "tags": ["Historical Trauma", "Healing Practice", "Decolonial Thinking"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0544",
+    "blurb": "A talk on the embodied, physiological dimensions of historical trauma and the cumulative toll of everyday microaggressions on the body and nervous system.",
+    "tags": ["Historical Trauma", "Somatics & Embodiment"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0545",
+    "blurb": "A TEDxVailWomen talk by family therapist Dr. Judith Landau on how the stories and secrets families keep -- or don't -- shape resilience and survival across generations.",
+    "tags": ["Intergenerational Trauma", "Storytelling & Narrative", "Resilience"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0546",
+    "blurb": "Part one of a talk examining why historical and generational trauma matters and what an effective response to it looks like in practice.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker and institution not named in the title."
+  },
+  {
+    "id": "CFT-0547",
+    "blurb": "The second part of a talk continuing the discussion of historical and generational trauma's significance and appropriate responses.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker and institution not named in the title."
+  },
+  {
+    "id": "CFT-0548",
+    "blurb": "A 2020 lecture by genocide scholar Alex Alvarez, part of an ongoing Holocaust and Genocide Lecture Series examining the study and aftermath of mass atrocity.",
+    "tags": ["Historical Trauma", "Human Rights"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Specific lecture topic isn't stated beyond the series name and speaker."
+  },
+  {
+    "id": "CFT-0549",
+    "blurb": "A talk on how implicit bias and everyday microaggressions accumulate into significant, measurable harm -- arguing that small acts carry macro-level consequences.",
+    "tags": ["Racial Equity", "Mental Health"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0550",
+    "blurb": "A TEDxFlourCity talk by Melanie Funchess on how implicit bias operates beneath conscious awareness -- and practical ways individuals and institutions can push through it.",
+    "tags": ["Racial Equity", "Identity & Culture"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0551",
+    "blurb": "The first part of a talk by Maria Yellow Horse Brave Heart, the psychologist who coined the concept of historical trauma in Indigenous communities, on its origins and impact.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Decolonial Thinking"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Title is informally cased and cryptic; speaker identity inferred as Dr. Maria Yellow Horse Brave Heart, though the specific talk content isn't confirmable from the title alone.",
+    "title_clean": "Maria Yellow Horse Brave Heart, Part 1"
+  },
+  {
+    "id": "CFT-0552",
+    "blurb": "A talk on how intergenerational trauma shows up in classrooms and shapes students' relationships to learning, authority, and school -- and what educators can do about it.",
+    "tags": ["Intergenerational Trauma", "Youth Wellbeing"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker not named in the title."
+  },
+  {
+    "id": "CFT-0553",
+    "blurb": "A talk connecting embodiment theory to internalized trauma, arguing that unaddressed bodily trauma is a hidden driver of persistent U.S. health disparities.",
+    "tags": ["Somatics & Embodiment", "Racial Equity", "Community Health"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0554",
+    "blurb": "An entry in a long-running Holocaust and Genocide Lecture Series, recorded in 2006, though the specific speaker and topic aren't captured in the title.",
+    "tags": ["Historical Trauma", "Human Rights"],
+    "type_display": "Video/Talk",
+    "confidence": "low",
+    "ambiguous_note": "Title gives only the series name and date, with no speaker or topic specified."
+  },
+  {
+    "id": "CFT-0555",
+    "blurb": "The 2010 Sol Kanee Lecture by psychologist Pumla Gobodo-Madikizela, known for her research on trauma, empathy, and the possibility of repair in the aftermath of apartheid-era violence.",
+    "tags": ["Historical Trauma", "Healing Practice", "Human Rights"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Specific lecture topic isn't stated beyond the speaker's name and lecture series."
+  },
+  {
+    "id": "CFT-0556",
+    "blurb": "Part one of Dr. Joy DeGruy Leary's foundational talk introducing 'Post Traumatic Slave Syndrome,' her framework for understanding how the trauma of chattel slavery continues to shape African-American communities today.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Racial Equity"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0557",
+    "blurb": "Part two of Dr. Joy DeGruy Leary's talk on Post Traumatic Slave Syndrome, continuing her framework for understanding the lasting impact of slavery's trauma on African-American communities.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Racial Equity"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  }
+]

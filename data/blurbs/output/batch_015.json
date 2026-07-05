@@ -1,0 +1,344 @@
+[
+  {
+    "id": "CFT-0378",
+    "title_clean": "Definitions and Quotes for Working Papers (with Coding)",
+    "blurb": "An internal working spreadsheet collecting definitions and coded quotes used to develop shared terminology for a research project on intergenerational and historical trauma.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "This is an internal research spreadsheet with no descriptive content beyond its filename; contents inferred entirely from the surrounding category context."
+  },
+  {
+    "id": "CFT-0379",
+    "title_clean": "Quotes and Text/Audiovisual References Mapped to Terms and Framework Elements",
+    "blurb": "A working spreadsheet cross-referencing quotes, text passages, and audiovisual sources against specific terms and framework elements — part of the research scaffolding behind this collection's intergenerational trauma work.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Framework", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "This is an internal research spreadsheet with no descriptive content beyond its filename; contents inferred entirely from the surrounding category context."
+  },
+  {
+    "id": "CFT-0380",
+    "blurb": "An APA Monitor feature surveying the emerging science of how historical and cultural trauma is transmitted to survivors' children across generations.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0381",
+    "title_clean": "International Center for Multigenerational Legacies of Trauma",
+    "blurb": "The website for a research and training center focused on multigenerational legacies of trauma, bringing together scholars and practitioners studying how trauma passes between generations and how to interrupt that transmission.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "The input title is a leftover article title, not this center's actual name; the organization's identity and mission are inferred from its domain name (icmglt.org) and category context, not confirmed by fetching the page."
+  },
+  {
+    "id": "CFT-0382",
+    "blurb": "A University of Minnesota Extension resource explaining historical trauma and outlining culturally grounded approaches to healing.",
+    "tags": ["Historical Trauma", "Healing Practice", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0383",
+    "blurb": "A curated reading list of books on historical trauma, compiled as part of University of Minnesota Extension's trauma-informed practice resources.",
+    "tags": ["Historical Trauma", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "The document is a linked file whose specific book titles aren't visible from the filename alone."
+  },
+  {
+    "id": "CFT-0384",
+    "blurb": "A curated list of articles on historical trauma, compiled by University of Minnesota Extension as a companion to its trauma-informed practice resources.",
+    "tags": ["Historical Trauma", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "The document is a linked file whose specific articles aren't visible from the filename alone."
+  },
+  {
+    "id": "CFT-0385",
+    "blurb": "A compiled list of lectures on historical trauma, gathered by University of Minnesota Extension for further study.",
+    "tags": ["Historical Trauma", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "The document is a linked file whose specific lectures aren't visible from the filename alone."
+  },
+  {
+    "id": "CFT-0386",
+    "title_clean": "What Is Epigenetics?",
+    "blurb": "A BBC Future explainer on epigenetics — how experience and environment switch genes on and off, and what that means for traits passed down through families.",
+    "tags": ["Epigenetics", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0387",
+    "title_clean": "Can We Really Inherit Trauma?",
+    "blurb": "A New York Times examination of the contested science behind epigenetic inheritance of trauma, weighing what the research can and can't yet show.",
+    "tags": ["Epigenetics", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0388",
+    "title_clean": "Parents' Emotional Trauma May Change Their Children's Biology, Studies in Mice Show",
+    "blurb": "A Science news report on mouse studies suggesting parental emotional trauma can alter offspring biology through epigenetic mechanisms.",
+    "tags": ["Epigenetics", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0389",
+    "title_clean": "A Critical View on Transgenerational Epigenetic Inheritance in Humans",
+    "blurb": "A Nature Communications paper critically assessing the evidence for transgenerational epigenetic inheritance in humans, questioning how strong the underlying science really is.",
+    "tags": ["Epigenetics", "Academic Research", "Intergenerational Trauma"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0390",
+    "title_clean": "It's in the DNA: Epigenetics and Intergenerational Trauma",
+    "blurb": "A Wholebeing Institute piece connecting epigenetic research to the lived experience of intergenerational trauma and its implications for healing.",
+    "tags": ["Epigenetics", "Intergenerational Trauma", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0391",
+    "title_clean": "Cultural Trauma and Epigenetic Inheritance",
+    "blurb": "An academic paper in Development and Psychopathology examining how cultural trauma may be transmitted across generations through epigenetic inheritance.",
+    "tags": ["Epigenetics", "Historical Trauma", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0392",
+    "blurb": "A Truthout piece making the case that intergenerational trauma is not just psychological but has measurable biological underpinnings.",
+    "tags": ["Intergenerational Trauma", "Epigenetics", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0393",
+    "title_clean": "Is Trauma Handed Down Through Generations?",
+    "blurb": "A Guardian feature on the growing evidence that PTSD can be passed down through generations, and what that means for communities shaped by conflict.",
+    "tags": ["Intergenerational Trauma", "Epigenetics", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0394",
+    "blurb": "A PNAS study tracing how the trauma of extreme captivity endured by Civil War prisoners of war shows measurable intergenerational transmission effects on their sons.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0395",
+    "blurb": "A report examining how the transgenerational legacy of the Troubles shapes the lives, identities, and mental health of young people in Northern Ireland.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0396",
+    "blurb": "A systematic review synthesizing research on the mental health impacts of armed conflict on children and adolescents across the Middle East.",
+    "tags": ["Intergenerational Trauma", "Youth Wellbeing", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0397",
+    "blurb": "An academic paper examining how metaphors used in epigenetics research shape interdisciplinary collaboration between the health and social sciences.",
+    "tags": ["Epigenetics", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0398",
+    "blurb": "An academic paper exploring how epigenetics is understood, framed, and communicated across disciplines once it enters public discourse.",
+    "tags": ["Epigenetics", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0399",
+    "blurb": "An NIH grant record for a research center devoted to interdisciplinary study of epigenetics, science, and society.",
+    "tags": ["Epigenetics", "Academic Research"],
+    "type_display": "Other",
+    "confidence": "medium",
+    "ambiguous_note": "This is a grant database entry rather than the center's own site; the center's exact scope and activities are inferred from the title and grant name alone."
+  },
+  {
+    "id": "CFT-0400",
+    "blurb": "The Johns Hopkins lab website for the Feinberg Lab, a research group at the university's Center for Epigenetics studying the biology of epigenetic regulation.",
+    "tags": ["Epigenetics", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0401",
+    "blurb": "A study analyzing how parental trauma, with or without a PTSD diagnosis, is linked to DNA methylation changes passed on to offspring.",
+    "tags": ["Epigenetics", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0402",
+    "title_clean": "Being Black in America Can Be Hazardous to Your Health",
+    "blurb": "An Atlantic feature on the stark life-expectancy gap between Black and white Americans in segregated cities like Baltimore, told through one woman's struggle with chronic stress and systemic racism.",
+    "tags": ["Racial Equity", "Historical Trauma", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0403",
+    "blurb": "A PNAS paper theorizing how culture extends and interacts with biological inheritance, offering a framework for the different modes of transgenerational transmission.",
+    "tags": ["Epigenetics", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0404",
+    "blurb": "A doctoral research opportunity at Ulster University investigating the economic and social costs of transgenerational trauma in Northern Ireland.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Academic Research"],
+    "type_display": "Other",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0405",
+    "blurb": "Bessel van der Kolk's landmark book on how trauma reshapes the brain and body, and the range of therapeutic approaches — from talk therapy to yoga and neurofeedback — that can help people heal.",
+    "tags": ["Healing Practice", "Somatics & Embodiment", "Trauma-Informed Care"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0406",
+    "blurb": "A collection of Raj Chetty's research papers on intergenerational economic mobility and inequality in America, relevant background for understanding the conditions in which trauma takes root.",
+    "tags": ["Economy & Wellbeing", "Academic Research", "Intergenerational Trauma"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0407",
+    "blurb": "A TEDx talk by filmmaker Leah Warshawski on coping with inherited trauma — the weight of pain passed down from ancestors you never met.",
+    "tags": ["Intergenerational Trauma", "Healing Practice"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0408",
+    "blurb": "A TEDx talk exploring how generational cycles of trauma take hold in families and communities, and what it takes to break them.",
+    "tags": ["Intergenerational Trauma", "Healing Practice", "Resilience"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0409",
+    "blurb": "Futurist Ari Wallach's TED talk on transgenerational thinking — practical habits of mind for making decisions that serve generations we'll never meet.",
+    "tags": ["Futures Thinking", "Intergenerational", "Hope & Empowerment"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0410",
+    "title_clean": "Transgenerational Epigenetics and Environmental Justice",
+    "blurb": "A paper arguing that stronger scientific evidence for transgenerational epigenetic inheritance would strengthen the case for environmental justice in law and policy.",
+    "tags": ["Epigenetics", "Policy Innovation", "Racial Equity"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0411",
+    "title_clean": "The Transgenerational Trauma and Resilience Genogram",
+    "blurb": "An academic paper presenting the genogram as a clinical tool for mapping and assessing transgenerational trauma and resilience within families.",
+    "tags": ["Intergenerational Trauma", "Facilitation Tool", "Resilience"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0412",
+    "blurb": "A study identifying changes in sperm long RNA as a molecular mechanism by which the effects of postnatal trauma may be epigenetically inherited.",
+    "tags": ["Epigenetics", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0413",
+    "title_clean": "The DSM's Definitions of PTSD and Trauma",
+    "blurb": "An academic paper examining how the DSM defines and has redefined PTSD and trauma across successive editions.",
+    "tags": ["Mental Health", "Trauma-Informed Care", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Title is a shorthand description rather than the paper's formal title; specific argument and scope inferred from context."
+  },
+  {
+    "id": "CFT-0414",
+    "title_clean": "Longpath",
+    "blurb": "Longpath Alliance's framework for transgenerational thinking — practices and tools for making decisions today that account for their impact on generations far beyond our own lifespans.",
+    "tags": ["Futures Thinking", "Intergenerational", "Framework"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0415",
+    "blurb": "An interview with trauma researcher Bessel van der Kolk on somatic approaches to releasing trauma stored in the body.",
+    "tags": ["Somatics & Embodiment", "Healing Practice", "Trauma-Informed Care"],
+    "type_display": "Interview",
+    "confidence": "medium",
+    "ambiguous_note": "The specific interview source and context aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0416",
+    "blurb": "A report outlining trauma-informed approaches to improving the health and wellbeing of boys and young men of color, developed for justice and public health systems.",
+    "tags": ["Trauma-Informed Care", "Racial Equity", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0417",
+    "blurb": "A Refinery29 explainer breaking down what intergenerational trauma means and how its effects show up in everyday life.",
+    "tags": ["Intergenerational Trauma", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0418",
+    "title_clean": "The Pandemic of Black Trauma Will Never End",
+    "blurb": "A Refinery29 essay on how anti-Black violence and racism compound like a pandemic of trauma that predates and outlasts COVID-19.",
+    "tags": ["Racial Equity", "Historical Trauma", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0419",
+    "title_clean": "Post Traumatic Slave Syndrome",
+    "blurb": "Joy DeGruy's foundational book arguing that centuries of slavery, institutionalized racism, and oppression produced a pattern of adaptive beliefs and behaviors that continue to be passed down through generations of African Americans.",
+    "tags": ["Historical Trauma", "Racial Equity", "Intergenerational Trauma"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0420",
+    "blurb": "Resmaa Menakem's book on racialized trauma, arguing that healing must happen in the body — not just the mind — to mend the wounds white supremacy has inflicted on Black, white, and blue bodies alike.",
+    "tags": ["Somatics & Embodiment", "Racial Equity", "Healing Practice"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0421",
+    "blurb": "A report from the Poor People's Campaign quantifying the human and economic costs of poverty in the United States.",
+    "tags": ["Economy & Wellbeing", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "The report's exact scope, methodology, and findings aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0422",
+    "blurb": "A New York Times data feature using Raj Chetty's neighborhood-level research to map how where children grow up shapes their economic outcomes decades later.",
+    "tags": ["Economy & Wellbeing", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

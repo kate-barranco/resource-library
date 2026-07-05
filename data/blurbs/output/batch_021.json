@@ -1,0 +1,343 @@
+[
+  {
+    "id": "CFT-0621",
+    "blurb": "A five-country survey capturing how young people in low- and middle-income countries want to participate in shaping mental health systems and policy, not just receive services designed for them.",
+    "tags": ["Youth Co-Design", "Mental Health", "Youth Wellbeing", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0622",
+    "blurb": "A Common Sense Media study examining how achievement pressure, academic burnout, and social media use compound to shape the daily stress of American teenagers.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Social Media & Attention Economy", "Mental Health"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0623",
+    "blurb": "A systematic review synthesizing evidence on whether structured intergenerational activities improve the wellbeing and mental health of children and young people.",
+    "tags": ["Intergenerational", "Youth Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0624",
+    "title_clean": "Adolescent Mental Health Matters",
+    "blurb": "A UNICEF landscape report making the case for adolescent mental health as a global development priority, with data on prevalence, risk factors, and gaps in care.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0625",
+    "title_clean": "From Digital Natives to Digital Captives: How the Internet Changed Gen Z",
+    "blurb": "An analysis of how growing up fully immersed in the internet has reshaped Gen Z's attention, relationships, and sense of self -- turning 'digital natives' into something closer to captives.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Digital Wellbeing", "Identity & Culture"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Title suggests a report or essay on Gen Z and internet use, but the exact author, publisher, and format aren't confirmable from the filename alone."
+  },
+  {
+    "id": "CFT-0626",
+    "blurb": "The WHO Youth Declaration, drafted by 23 organizations, setting out 10 calls to action across three priority areas for building healthier societies with young people as co-authors rather than subjects.",
+    "tags": ["Youth Co-Design", "Civic Life", "Policy Innovation", "Youth Wellbeing"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0627",
+    "blurb": "Findings from global youth consultations on what a 'digital-first' health system should look like, translating young people's priorities into design principles for health policy.",
+    "tags": ["Youth Co-Design", "AI & Technology", "Policy Innovation", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0628",
+    "blurb": "A briefing from the Digital Transformations for Health Lab on 'digital health citizenship' -- the rights, literacies, and protections young people need to navigate health systems that are increasingly mediated by technology.",
+    "tags": ["Youth Co-Design", "AI & Technology", "Digital Wellbeing", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "The brief's specific arguments are inferred from its title and the organization's broader focus on digital-first health for youth."
+  },
+  {
+    "id": "CFT-0629",
+    "blurb": "Coverage of the launch of the WHO Youth Declaration, in which young people set out their own vision for what a healthy society requires.",
+    "tags": ["Youth Co-Design", "Civic Life", "Youth Wellbeing", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0630",
+    "blurb": "A BBC Future piece exploring how climate anxiety takes root in children's minds and what parents, educators, and communities can do to help kids process it without shutting down.",
+    "tags": ["Climate Anxiety", "Youth Wellbeing", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0631",
+    "blurb": "The 45th edition of Harvard's Youth Poll, tracking young Americans' political attitudes, civic engagement, and outlook on the country's direction.",
+    "tags": ["Gen Z", "Civic Life", "Democracy", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0632",
+    "blurb": "An economics paper finding that youth suicide rates spike with the rhythm of the academic calendar, pointing to school-related stress as a measurable driver of adolescent mental health crises.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0633",
+    "blurb": "An NBER working paper using school calendars and pandemic closures as natural experiments to show how in-person schooling itself affects youth suicide rates.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0634",
+    "blurb": "A journal article linking the disappearance of unstructured outdoor play from children's lives to rising anxiety, and making the case for play as a mental health intervention.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Blurb inferred from the title and journal context; the full argument of the article is not confirmed."
+  },
+  {
+    "id": "CFT-0635",
+    "title_clean": "Ariana Brazier, \"Extending Black Child Joy Through Culturally-Responsive Play\"",
+    "blurb": "A blog post on how culturally responsive play -- rooted in Black children's own traditions and expressions -- extends and protects their joy, rather than measuring them against a default standard.",
+    "tags": ["Identity & Culture", "Racial Equity", "Youth Wellbeing", "Youth Co-Design"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Blurb inferred primarily from the title; full content of the post not fetched."
+  },
+  {
+    "id": "CFT-0636",
+    "blurb": "WHO guidance for health systems on how to design and deliver mental health services for children and young people, covering standards of care across settings.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0637",
+    "title_clean": "State of Mental Health for Youth and Young Adults of Color 2022",
+    "blurb": "The AAKOMA Project's annual report on the state of mental health among youth and young adults of color, tracking disparities in access, stigma, and outcomes.",
+    "tags": ["Racial Equity", "Mental Health", "Youth Wellbeing", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0638",
+    "title_clean": "Is 'Crisis' Thinking About Youth Mental Health Doing More Harm Than Good?",
+    "blurb": "An EdSurge piece questioning whether the dominant 'crisis' framing around youth mental health helps or harms young people, and what a less alarmist narrative might look like.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0639",
+    "blurb": "A Nature feature on intergenerational programs pairing students with grandparents as a low-cost response to the global shortage of mental health professionals, with a focus on African contexts.",
+    "tags": ["Intergenerational", "Mental Health", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0640",
+    "blurb": "The full Common Sense Media report on 'grind culture' among American teens, detailing how academic pressure, burnout, and social media intersect to shape adolescent stress.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Social Media & Attention Economy", "Mental Health"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0641",
+    "blurb": "VICE's speculative collection imagining what the world -- culture, technology, politics -- could look like by 2030, told through its signature irreverent lens.",
+    "tags": ["Futures Thinking", "Collective Imagination"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Title and URL suggest a themed VICE microsite or content hub about the future; the exact contents were not fetched."
+  },
+  {
+    "id": "CFT-0642",
+    "blurb": "A Burke Foundation research review on early relational health -- the science showing that safe, stable relationships in early childhood are foundational to lifelong wellbeing.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0643",
+    "title_clean": "The Future of Childhood: The State of the World's Children 2024 in a Changing World",
+    "blurb": "UNICEF's flagship annual report, using the 2024 edition to project how demographic, technological, and environmental change will reshape childhood in the decades ahead.",
+    "tags": ["Youth Wellbeing", "Futures Thinking", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0644",
+    "blurb": "A UNICEF hub showcasing youth-led initiatives and the organization's approach to supporting young people as agents of change in their own communities.",
+    "tags": ["Youth Co-Design", "Civic Life", "Hope & Empowerment"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Page appears to be a hub of youth-led programs and stories; exact contents not fetched."
+  },
+  {
+    "id": "CFT-0645",
+    "title_clean": "The State of the World's Children 2024",
+    "blurb": "UNICEF's 2024 flagship report on the state of the world's children, examining how demographic shifts, climate change, and technology will define childhood in the years ahead.",
+    "tags": ["Youth Wellbeing", "Futures Thinking", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0646",
+    "blurb": "A research compilation tracking the rise in adolescent mood disorders since 2010, likely assembled to trace the timeline against the spread of smartphones and social media.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Social Media & Attention Economy"],
+    "type_display": "Report",
+    "confidence": "low",
+    "ambiguous_note": "This is a Google Doc with a generic title and no accessible preview; content and authorship are inferred from context, not confirmed."
+  },
+  {
+    "id": "CFT-0647",
+    "blurb": "A compiled set of notes or findings on the relationship between social media use and mental health, likely gathering evidence for a broader youth mental health research effort.",
+    "tags": ["Social Media & Attention Economy", "Mental Health", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "low",
+    "ambiguous_note": "Generic title on an unshared Google Doc; specific content, author, and scope could not be confirmed."
+  },
+  {
+    "id": "CFT-0648",
+    "blurb": "FX's docuseries 'Social Studies,' which follows teenagers navigating high school life through the constant presence of their phones and social media.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Identity & Culture"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Identified from the show title and network; the exact format is based on general knowledge of the FX series rather than the page content itself."
+  },
+  {
+    "id": "CFT-0649",
+    "blurb": "An online tracker aggregating data and trends on youth mental health, designed to give a real-time pulse on how young people are faring.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Impact Measurement"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "Site's exact scope and data sources are inferred from its name; the tool itself was not fetched."
+  },
+  {
+    "id": "CFT-0650",
+    "blurb": "A study examining how mental health stigma and family social support shape depressive symptoms and help-seeking behavior among African American boys.",
+    "tags": ["Racial Equity", "Mental Health", "Youth Wellbeing", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0651",
+    "blurb": "A Common Good Labs piece exploring what young people experiencing crisis actually say they need from their communities -- often more relational support than clinical intervention.",
+    "tags": ["Youth Wellbeing", "Community Health", "Mental Health", "Youth Co-Design"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0652",
+    "blurb": "A Harvard Graduate School of Education piece offering practical guidance for researchers who want to meaningfully include young people's voices in their studies rather than just studying them.",
+    "tags": ["Youth Co-Design", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0653",
+    "blurb": "An Oxford initiative examining wellbeing in schools across childhood and adolescence, translating research on student flourishing into guidance for educators.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Page appears to be a project or resource hub on school wellbeing; specific outputs were not confirmed."
+  },
+  {
+    "id": "CFT-0654",
+    "title_clean": "We Can't Solve the Youth Mental Health Crisis Without Including Young People",
+    "blurb": "A Teen Vogue essay arguing that solutions to the youth mental health crisis will keep falling short as long as young people are treated as the problem to be studied rather than partners in the solution.",
+    "tags": ["Youth Co-Design", "Mental Health", "Youth Wellbeing", "Hope & Empowerment"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0655",
+    "blurb": "A Substack essay on Gen Z's surprising appetite for nostalgia -- for eras, aesthetics, and media they never lived through -- and what that yearning says about their relationship to the present.",
+    "tags": ["Gen Z", "Identity & Culture", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Full argument inferred from the title alone; specific examples and thesis of the essay not confirmed."
+  },
+  {
+    "id": "CFT-0656",
+    "blurb": "A write-up of a partnership between In Tandem and Literal describing how they use evidence-based approaches to empower adolescents, likely in a mental health or education context.",
+    "tags": ["Youth Wellbeing", "Youth Co-Design", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "The organizations 'In Tandem' and 'Literal' and the exact nature of their partnership could not be confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0657",
+    "blurb": "Gallup and the Walton Family Foundation's annual survey of Gen Z, tracking how young Americans feel about their education, careers, and future prospects.",
+    "tags": ["Gen Z", "Academic Research", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0658",
+    "title_clean": "Youth in Crisis: Supporting Children and Teens With Complex Mental Health Needs",
+    "blurb": "A National Conference of State Legislatures brief on policy options for supporting children and teens with complex, high-acuity mental health needs.",
+    "tags": ["Policy Innovation", "Mental Health", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0659",
+    "blurb": "The JED Foundation's forecast of the trends likely to shape youth mental health conversations and interventions in the coming year.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Futures Thinking"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0660",
+    "title_clean": "Explore Outcomes — Surgo Youth Mental Health Tracker",
+    "blurb": "A Surgo Health data tool tracking youth mental health outcomes and survey trends over time.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Impact Measurement"],
+    "type_display": "Tool",
+    "confidence": "low",
+    "ambiguous_note": "Title appears garbled, merged with a URL fragment, and the live page could not be verified; details are inferred from the 'Surgo' branding and surrounding category context."
+  },
+  {
+    "id": "CFT-0661",
+    "blurb": "The CDC's long-running national survey system tracking risk behaviors among U.S. high schoolers -- from substance use to mental health to violence -- providing the backbone data for youth health policy.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Academic Research", "Impact Measurement"],
+    "type_display": "Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0662",
+    "blurb": "A summary of the Bipartisan Policy Center's task force report on youth mental health and substance use, outlining policy recommendations for addressing both crises together.",
+    "tags": ["Policy Innovation", "Mental Health", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Accessed via a LinkedIn post rather than the report itself; specific recommendations not confirmed."
+  },
+  {
+    "id": "CFT-0663",
+    "title_clean": "Generation Z thinks it needs $500,000 a year to succeed. What that says about our economy.",
+    "blurb": "A MarketWatch piece unpacking survey data on Gen Z's inflated income expectations for 'success,' and what that reveals about economic anxiety and shifting definitions of a good life.",
+    "tags": ["Gen Z", "Economy & Wellbeing", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0664",
+    "blurb": "A guidance note from the Alliance for Child Protection in Humanitarian Action setting out ethical standards and practical resources for researchers working with children in crisis and conflict settings.",
+    "tags": ["Youth Co-Design", "Human Rights", "Academic Research"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0665",
+    "blurb": "A Wall Street Journal look at Troodi, an AI chatbot kids are turning to for mental health support, and what that says about the gap between demand for care and access to it.",
+    "tags": ["AI & Technology", "Mental Health", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

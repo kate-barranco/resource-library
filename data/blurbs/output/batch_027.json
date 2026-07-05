@@ -1,0 +1,219 @@
+[
+  {
+    "id": "CFT-0875",
+    "title_clean": "The 2022 Gen Z Screen Time Report: Sneak Peek",
+    "blurb": "A newsletter preview of dcdx's 2022 Gen Z Screen Time Report, teasing survey findings on how young people relate to their phones and social feeds.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Newsletter",
+    "confidence": "medium",
+    "ambiguous_note": "Only a 'sneak peek' teaser is confirmable from the title; the full report's specific findings aren't described."
+  },
+  {
+    "id": "CFT-0876",
+    "blurb": "A New York Times follow-up on the 'Luddite Club' teens years later, tracking how their phone-free ethos held up -- or didn't -- once they reached college.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0877",
+    "blurb": "A CounterPunch essay arguing that social media as a coherent cultural project is collapsing, undone by algorithmic decay, ad saturation, and users' own exhaustion with the medium.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title signals a strong argument about social media's decline, but the specific evidence or thesis isn't confirmable without the full text."
+  },
+  {
+    "id": "CFT-0878",
+    "blurb": "A New York Times interview with psychiatrist Anna Lembke, author of Dopamine Nation, on how compulsive engagement with phones, screens, and instant gratification is reshaping mental health.",
+    "tags": ["Mental Health", "Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Interview",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0879",
+    "blurb": "An Atlantic essay arguing that Americans' political perceptions are increasingly shaped -- and distorted -- by algorithmic feeds, using the fight over 2025 voter-perception narratives as a case in point.",
+    "tags": ["Social Media & Attention Economy", "Democracy", "Polarization"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title suggests a broad argument about algorithmic influence on politics; the URL implies a specific tie to a Trump-administration voter-perception debate that isn't fully confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0880",
+    "blurb": "A profile of a Harvard graduate student organizing part of Gen Z's pushback against social media, situated within a wider youth-led movement toward digital detox and reclaimed attention.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "The specific individual and movement aren't named in the title, so details are inferred from context."
+  },
+  {
+    "id": "CFT-0881",
+    "blurb": "An interactive tracker from the Anxious Generation campaign mapping which U.S. states have passed policies restricting phones in schools or regulating youth social media use.",
+    "tags": ["Policy Innovation", "Social Media & Attention Economy", "Youth Wellbeing"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "Inferred as a policy-tracking map tied to Jonathan Haidt's Anxious Generation campaign based on the URL and title."
+  },
+  {
+    "id": "CFT-0882",
+    "blurb": "A first-person op-ed from a young person who grew up on social media explaining why she's protesting Meta during Children's Mental Health Week, and what she wishes platforms had done differently.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Youth Wellbeing", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0883",
+    "blurb": "A BBC report examining whether Gen Z has become dependent on short-form video and doomscrolling, and what that says about attention, mood, and digital habits.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0884",
+    "blurb": "An author archive collecting Behavioral Health News pieces by youth mental health advocate Sophie Szew, spanning her writing on adolescent wellbeing and the behavioral health system.",
+    "tags": ["Youth Wellbeing", "Mental Health"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "This is an author-archive listing rather than a single piece; the specific articles it links to aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0885",
+    "blurb": "A multi-country academic study examining the psychosocial factors -- peer pressure, risk perception, self-image -- that shape whether young people engage in sexting.",
+    "tags": ["Academic Research", "Youth Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0886",
+    "title_clean": "The Common Sense Census: Media Use by Kids Zero to Eight",
+    "blurb": "Common Sense Media's 2025 census of screen media use among children ages zero to eight, tracking how early exposure to devices and platforms has shifted over time.",
+    "tags": ["Youth Wellbeing", "Social Media & Attention Economy", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0887",
+    "title_clean": "\"Without It, I Wouldn't Be Here Today\": LGBTQ+ Young People's Experiences in Online Spaces",
+    "blurb": "A Hopelab story collection centering LGBTQ+ young people's own accounts of how online spaces and communities have been a lifeline for identity, connection, and survival.",
+    "tags": ["Gender & Sexuality", "Youth Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0888",
+    "blurb": "Stanford's 2025 Youth Safety and Digital Wellbeing Report, assessing how well platforms, policies, and product design are protecting young people online.",
+    "tags": ["Digital Wellbeing", "Youth Wellbeing", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0889",
+    "blurb": "A LinkedIn essay unpacking why Gen Z -- despite being digital natives -- remains especially susceptible to misinformation, and what platforms and educators could do about it.",
+    "tags": ["Gen Z", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "A LinkedIn Pulse post with a generic framing; specific claims or data referenced in the piece aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0890",
+    "title_clean": "Fake News Is Fooling Young People -- and They Want It Stopped",
+    "blurb": "A YPulse research brief finding that young people know fake news is a problem and are actively asking for stronger action against misinformation online.",
+    "tags": ["Gen Z", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "YPulse is a youth-research firm, so this likely reflects survey data, but the specific study isn't named in the title."
+  },
+  {
+    "id": "CFT-0891",
+    "title_clean": "Health Promotion and the Digital Determinants of Health",
+    "blurb": "An Oxford Academic paper arguing that digital platforms and algorithms function as social determinants of health in their own right, and proposing how health promotion should account for them.",
+    "tags": ["Academic Research", "Digital Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0892",
+    "title_clean": "How to Destroy Surveillance Capitalism",
+    "blurb": "Cory Doctorow's book making the case that surveillance capitalism can be dismantled through interoperability, antitrust action, and technical countermeasures -- not just regulation.",
+    "tags": ["AI & Technology", "Social Media & Attention Economy", "Responsible Tech"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0893",
+    "blurb": "Yascha Mounk's Persuasion interview with Taiwan digital minister Audrey Tang on how democracies should handle misinformation without resorting to top-down censorship.",
+    "tags": ["Democracy", "AI & Technology", "Policy Innovation"],
+    "type_display": "Interview",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0894",
+    "blurb": "A newsletter update reflecting on nearly two years of data from a Social Media Index tracking project, summarizing how users' relationships with platforms have shifted since it launched.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing", "Impact Measurement"],
+    "type_display": "Newsletter",
+    "confidence": "low",
+    "ambiguous_note": "The substack link gives no author or publication context, so the project behind the 'Social Media Index' and its specific findings are inferred from the title alone."
+  },
+  {
+    "id": "CFT-0895",
+    "title_clean": "Meta Tests New Restrictions for Instagram Teen Accounts",
+    "blurb": "A Washington Post report on Meta's test of new Instagram teen-account restrictions, circulated here through youth advocacy pushback on the platform's safety claims.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Original title was an internal shorthand ('DIFU Gen Z Washington Post article'); content inferred from the URL, which points to a Washington Post piece on Instagram's teen-account testing."
+  },
+  {
+    "id": "CFT-0896",
+    "blurb": "An Accountable Tech report finding that Instagram's teen account safety features fall short in practice, documenting the harmful content and design patterns teens still encounter.",
+    "tags": ["Social Media & Attention Economy", "Youth Wellbeing", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0897",
+    "blurb": "An NBC News report on Texas's advancing legislation to broadly restrict minors' access to social media, part of a growing wave of state-level platform regulation.",
+    "tags": ["Policy Innovation", "Social Media & Attention Economy", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0898",
+    "title_clean": "Protecting the Developing Mind in a Digital Age: A Global Policy Imperative",
+    "blurb": "An academic policy paper arguing that safeguarding children's cognitive and emotional development in the digital age requires coordinated global regulation, not just platform-level fixes.",
+    "tags": ["Academic Research", "Policy Innovation", "Digital Wellbeing"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0899",
+    "blurb": "A Black Girl Narrative piece exploring how love, kinship, and everyday resistance show up in Black girls' digital lives, reframing online space as a site of care rather than only risk.",
+    "tags": ["Racial Equity", "Identity & Culture", "Social Media & Attention Economy"],
+    "type_display": "Report",
+    "confidence": "low",
+    "ambiguous_note": "Hosted as a Google Drive file with no accompanying description, so its exact format and full argument are inferred from the title alone."
+  },
+  {
+    "id": "CFT-0900",
+    "title_clean": "Rural Realities: Young People, Digital Technology, and Well-Being",
+    "blurb": "A Hopelab research report showing that rural young people face distinct digital-wellbeing challenges -- from limited connectivity to social isolation -- that differ from their urban and suburban peers.",
+    "tags": ["Youth Wellbeing", "Digital Wellbeing", "Community Health"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0901",
+    "blurb": "Snapchat's own 2025 year-in-review roundup, packaging user trends and platform highlights into a promotional recap for its audience.",
+    "tags": ["Social Media & Attention Economy", "Gen Z"],
+    "type_display": "Press Release",
+    "confidence": "medium",
+    "ambiguous_note": "This is company-published marketing content rather than independent research, so the specific data points it highlights aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0902",
+    "blurb": "Pew Research Center's 2025 survey of American teens on how social media and AI chatbots now factor into their daily routines, relationships, and sense of trust online.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "AI & Technology", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  }
+]

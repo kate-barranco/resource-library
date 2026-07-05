@@ -1,0 +1,129 @@
+[
+  {
+    "id": "CFT-1008",
+    "blurb": "A Washington Post analysis of a national poll on climate beliefs, debunking recycling and other feel-good habits as measures of real climate progress and pointing instead toward the systemic changes that actually matter.",
+    "tags": ["Climate Justice", "Systems Change", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1009",
+    "blurb": "A report examining how climate change disproportionately threatens the health, culture, and ancestral heritage of Latino communities in the U.S.",
+    "tags": ["Racial Equity", "Climate Justice", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1010",
+    "title_clean": "Climate Beacon Newsroom Initiative: A Story of Nine Newsrooms' Solutions Journalism Transformation",
+    "blurb": "An ArcGIS StoryMap documenting the Climate Beacon Newsroom Initiative, in which nine newsrooms transformed their coverage to center solutions journalism on the global climate crisis.",
+    "tags": ["Climate Justice", "Storytelling & Narrative", "Social Innovation"],
+    "type_display": "Interactive Story",
+    "confidence": "medium",
+    "ambiguous_note": "Title is a mangled StoryMap header with an author credit tacked on; cleaned for readability but exact framing of the piece is inferred from title and platform alone."
+  },
+  {
+    "id": "CFT-1011",
+    "blurb": "An exploration of litter's overlooked psychological toll, arguing that visible environmental degradation carries a quiet mental health cost alongside its ecological one.",
+    "tags": ["Mental Health", "Nature Connection", "Ecological Belonging"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1012",
+    "title_clean": "Only 18% of the Global Land Area Needed for Human Well-Being and Biodiversity Is Currently Protected",
+    "blurb": "A ScienceDaily summary of research finding that only 18% of the global land area required to sustain both human well-being and biodiversity currently falls under protection.",
+    "tags": ["Nature Connection", "Ecological Belonging", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1013",
+    "title_clean": "Sustainable Food Chains for Global Well-Being",
+    "blurb": "A profile of a Banting-Vanier scholar's research into redesigning food systems so they support both ecological health and human well-being.",
+    "tags": ["Nature Connection", "Economy & Wellbeing", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1014",
+    "blurb": "An HR Executive piece arguing that inclusive, sustainability-minded workplace cultures -- not perks or policy alone -- are the strongest driver of organizational performance.",
+    "tags": ["Organizational Wellbeing", "Leadership", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1015",
+    "blurb": "A Pachamama Alliance essay tracing how social justice and environmental justice are inseparable, arguing that neither can be won without the other.",
+    "tags": ["Climate Justice", "Racial Equity", "Systems Change"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1016",
+    "blurb": "A Reasons to Be Cheerful account of how Medellin, Colombia dramatically cooled its urban core in just three years by planting green corridors along its streets and waterways.",
+    "tags": ["Climate Justice", "Nature Connection", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1017",
+    "title_clean": "See How Much Nature You Have Access to in Your Neighborhood and City",
+    "blurb": "An interactive Washington Post tool letting readers see, block by block, how much accessible nature exists in their own neighborhood and city.",
+    "tags": ["Nature Connection", "Community Health", "Ecological Belonging"],
+    "type_display": "Interactive Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1018",
+    "blurb": "A WHO policy brief making the case for integrating mental health considerations directly into climate change policy and response.",
+    "tags": ["Mental Health", "Climate Justice", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1019",
+    "title_clean": "The Financial Well-Being of Fruit Farmers in Chile and Tunisia Depends More on Social and Geographical Factors Than on Climate Change",
+    "blurb": "A study in Communications Earth & Environment finding that fruit farmers' financial well-being in Chile and Tunisia hinges more on social and geographic circumstances than on climate change itself.",
+    "tags": ["Economy & Wellbeing", "Climate Justice", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1020",
+    "blurb": "A Nature Mental Health article making the case for embedding mental health expertise and concerns directly into global climate negotiations.",
+    "tags": ["Mental Health", "Climate Justice", "Policy Innovation", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1021",
+    "title_clean": "EJI Explorer: Place and Health",
+    "blurb": "An interactive CDC/ATSDR mapping tool letting users explore environmental justice burden data -- pollution, social vulnerability, health outcomes -- for any U.S. location.",
+    "tags": ["Climate Justice", "Community Health", "Racial Equity"],
+    "type_display": "Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1022",
+    "title_clean": "Environmental Justice Index: Place and Health",
+    "blurb": "The CDC/ATSDR's Environmental Justice Index, a national framework ranking U.S. communities by their cumulative environmental, social, and health burdens.",
+    "tags": ["Climate Justice", "Racial Equity", "Framework"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1023",
+    "blurb": "A conversation with climate psychology researcher Dr. Panu Pihkala unpacking the sources and shapes of climate anxiety.",
+    "tags": ["Climate Anxiety", "Mental Health"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1024",
+    "blurb": "A Guardian report on actuaries' warning that unchecked climate shocks could shrink the global economy by as much as 50% between 2070 and 2090.",
+    "tags": ["Climate Justice", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

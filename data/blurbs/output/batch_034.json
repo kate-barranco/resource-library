@@ -1,0 +1,93 @@
+[
+  {
+    "id": "CFT-1059",
+    "blurb": "A 'what's this' explainer page for an online project called Option Repro, filed here under reproductive justice — the page's actual content and purpose aren't recoverable from the title or bare URL alone.",
+    "tags": ["Reproductive Justice", "Racial Equity"],
+    "type_display": "Tool",
+    "confidence": "low",
+    "ambiguous_note": "Title is just the site's own URL; without visiting the live page there's no further clue to what the project actually is."
+  },
+  {
+    "id": "CFT-1060",
+    "blurb": "USAID's introductory e-learning course on how international development programs and institutions can meaningfully include LGBTQI+ people and perspectives in their design and delivery.",
+    "tags": ["Gender & Sexuality", "Human Rights", "Policy Innovation"],
+    "type_display": "Course",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1061",
+    "blurb": "A podcast episode built around Eve Tuck and K. Wayne Yang's landmark argument that decolonization means the literal repatriation of land and life, not a metaphor for other social justice work.",
+    "tags": ["Decolonial Thinking", "Racial Equity"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "The episode title clearly nods to Tuck & Yang's well-known essay of the same name, but this podcast's own framing and guests aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-1062",
+    "blurb": "A New York Times report on the emotional toll that repeated exposure to news, images, and conversation about racialized policing and violence takes on Black children.",
+    "tags": ["Racial Equity", "Mental Health", "Intergenerational Trauma"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1063",
+    "blurb": "A Center for American Progress report linking the chronic stress mass incarceration inflicts on Black families and communities to elevated rates of Black infant mortality.",
+    "tags": ["Racial Equity", "Reproductive Justice", "Historical Trauma"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1064",
+    "blurb": "An essay arguing that racial equity work is unsustainable without attending to practitioners' own well-being — that personal healing is infrastructure for the work, not a distraction from it.",
+    "tags": ["Racial Equity", "Healing Practice", "Organizational Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1065",
+    "title_clean": "Jonathan Holloway: Jim Crow Wisdom — Memory and Identity in Black America since 1940",
+    "blurb": "A recorded lecture by historian Jonathan Holloway on how Black Americans have remembered, mythologized, and made meaning from the Jim Crow era across generations.",
+    "tags": ["Racial Equity", "Historical Trauma", "Identity & Culture"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1066",
+    "blurb": "A curated roundup of reports, toolkits, and funds for businesses looking to take concrete action on closing the racial wealth gap.",
+    "tags": ["Racial Equity", "Economy & Wellbeing", "Philanthropy & Funding"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Framed as a roundup/resource list rather than a single document; its exact contents aren't specified in the title."
+  },
+  {
+    "id": "CFT-1067",
+    "blurb": "A collection of dialogues in which Angela Davis discusses the meaning of freedom across abolition, feminism, and prison reform, extending arguments from her broader body of work.",
+    "tags": ["Racial Equity", "Human Rights", "Decolonial Thinking"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1068",
+    "title_clean": "Korintha Mitchell, \"Identifying White Mediocrity and Know-Your-Place Aggression: A Form of Self-Care,\" African American Review",
+    "blurb": "An academic essay naming 'know-your-place aggression' — the everyday ways white mediocrity is protected and enforced in institutions — and framing the act of identifying it as a form of self-care.",
+    "tags": ["Racial Equity", "Academic Research", "Healing Practice"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1069",
+    "title_clean": "Robin Bernstein, Racial Innocence: Performing American Childhood and Race from Slavery to Civil Rights",
+    "blurb": "A scholarly history of how the idea of childhood innocence was racially constructed in America — reserved for white children while Black children were routinely denied it — from slavery through the civil rights era.",
+    "tags": ["Racial Equity", "Historical Trauma", "Identity & Culture"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1070",
+    "title_clean": "Repairing the Whole: How Reparations Can Address Physical and Mental Health",
+    "blurb": "A Nonprofit Quarterly piece arguing that reparations should be understood not only as economic repair but as a public health intervention, given the documented physical and mental health toll of racial harm.",
+    "tags": ["Racial Equity", "Mental Health", "Historical Trauma"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

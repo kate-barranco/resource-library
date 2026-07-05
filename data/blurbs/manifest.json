@@ -1,0 +1,206 @@
+[
+  {
+    "batch": "batch_001.json",
+    "count": 45,
+    "category": "Systems Change, Design & Futures Thinking",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_002.json",
+    "count": 45,
+    "category": "Systems Change, Design & Futures Thinking",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_003.json",
+    "count": 5,
+    "category": "Systems Change, Design & Futures Thinking",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_004.json",
+    "count": 44,
+    "category": "Theories of Change & Impact Mapping",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_005.json",
+    "count": 14,
+    "category": "Social Innovation & Entrepreneurship",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_006.json",
+    "count": 28,
+    "category": "Storytelling for Social Change",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_007.json",
+    "count": 11,
+    "category": "Imagination, Play & Creativity",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_008.json",
+    "count": 32,
+    "category": "Relationality, Connection & Community Health",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_009.json",
+    "count": 14,
+    "category": "Hope & Empowerment",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_010.json",
+    "count": 45,
+    "category": "Individual Healing Practice & Applied Somatics",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_011.json",
+    "count": 24,
+    "category": "Individual Healing Practice & Applied Somatics",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_012.json",
+    "count": 26,
+    "category": "Organizational Wellbeing & Embodied Leadership",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_013.json",
+    "count": 45,
+    "category": "Global Mental Health Research",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_014.json",
+    "count": 30,
+    "category": "Global Mental Health Research",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_015.json",
+    "count": 45,
+    "category": "Intergenerational Trauma & Trauma-Informed Practice",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_016.json",
+    "count": 45,
+    "category": "Intergenerational Trauma & Trauma-Informed Practice",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_017.json",
+    "count": 45,
+    "category": "Intergenerational Trauma & Trauma-Informed Practice",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_018.json",
+    "count": 45,
+    "category": "Intergenerational Trauma & Trauma-Informed Practice",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_019.json",
+    "count": 38,
+    "category": "Intergenerational Trauma & Trauma-Informed Practice",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_020.json",
+    "count": 8,
+    "category": "Art & Healing",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_021.json",
+    "count": 45,
+    "category": "Gen Z, Youth Experience & Identity",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_022.json",
+    "count": 45,
+    "category": "Gen Z, Youth Experience & Identity",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_023.json",
+    "count": 45,
+    "category": "Gen Z, Youth Experience & Identity",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_024.json",
+    "count": 16,
+    "category": "Gen Z, Youth Experience & Identity",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_025.json",
+    "count": 45,
+    "category": "Social Media, Attention Economy & Youth MH",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_026.json",
+    "count": 45,
+    "category": "Social Media, Attention Economy & Youth MH",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_027.json",
+    "count": 28,
+    "category": "Social Media, Attention Economy & Youth MH",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_028.json",
+    "count": 30,
+    "category": "Tech, AI & Social Change",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_029.json",
+    "count": 9,
+    "category": "Economy, Philanthropy & Wellbeing",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_030.json",
+    "count": 45,
+    "category": "Spiritual Ecology & Ecological Belonging",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_031.json",
+    "count": 21,
+    "category": "Spiritual Ecology & Ecological Belonging",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_032.json",
+    "count": 17,
+    "category": "Climate Justice & Eco-Anxiety",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_033.json",
+    "count": 34,
+    "category": "Government, Democracy & Polarization",
+    "status": "pending"
+  },
+  {
+    "batch": "batch_034.json",
+    "count": 12,
+    "category": "Racial Equity, Reproductive Justice & Gender",
+    "status": "pending"
+  }
+]

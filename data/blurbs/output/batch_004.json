@@ -1,0 +1,356 @@
+[
+  {
+    "id": "CFT-0079",
+    "blurb": "Design for America's overview of its collaborative design process, guiding student and community teams through human-centered stages from problem-framing to prototyping toward social impact.",
+    "tags": ["Social Innovation", "Framework", "Facilitation Tool"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Generic title; blurb infers page content from Design for America's known human-centered design methodology."
+  },
+  {
+    "id": "CFT-0080",
+    "title_clean": "Our Design Principles",
+    "blurb": "Starter Culture's published design principles, a short set of values guiding how the studio approaches building intentional community and organizational culture.",
+    "tags": ["Framework", "Organizational Wellbeing", "Social Innovation"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "The specific principles aren't visible from the title alone; blurb infers general purpose from the organization name and page title."
+  },
+  {
+    "id": "CFT-0081",
+    "blurb": "The Guild of Future Architects' own theory of change, laid out in its public wiki, describing how the network understands its role in shifting culture toward more just, regenerative futures.",
+    "tags": ["Theory of Change", "Systems Change", "Collective Imagination", "Futures Thinking"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0082",
+    "title_clean": "Read the Principles",
+    "blurb": "The Design Justice Network's widely cited set of principles for centering the people most impacted by design in the process of designing itself.",
+    "tags": ["Decolonial Thinking", "Framework", "Racial Equity"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0083",
+    "blurb": "A recorded talk outlining a framework for culturally-based practice, grounding social and human-services work in the cultural knowledge and traditions of the communities being served.",
+    "tags": ["Decolonial Thinking", "Framework", "Community Health"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker and originating organization aren't identifiable from the title; blurb infers subject from the title alone."
+  },
+  {
+    "id": "CFT-0084",
+    "blurb": "A USAID-affiliated paper proposing a theory of change for global mental health programming, mapping how interventions are expected to translate into population-level outcomes.",
+    "tags": ["Theory of Change", "Mental Health", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0085",
+    "blurb": "A framework called Community Weaving, offering a peer-to-peer approach to knitting together the relationships and mutual-support networks that keep communities healthy.",
+    "tags": ["Community Health", "Framework", "Systems Change"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0086",
+    "blurb": "Health Resources in Action's framework for advancing health equity, outlining the organizational approach and principles that guide its public health equity work.",
+    "tags": ["Racial Equity", "Framework", "Policy Innovation"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0087",
+    "blurb": "A LinkedIn essay explaining co-design through the metaphor of a river's power, arguing that genuine co-design means redirecting existing currents of community energy rather than imposing a plan from outside.",
+    "tags": ["Framework", "Facilitation Tool", "Social Innovation"],
+    "type_display": "Social Media Post",
+    "confidence": "medium",
+    "ambiguous_note": "Content inferred from the post title alone; full argument not independently verified."
+  },
+  {
+    "id": "CFT-0088",
+    "title_clean": "Trauma-Informed Design Framework",
+    "blurb": "A framework for trauma-informed design from the TiD Society, translating principles of safety, trust, and choice into concrete guidance for shaping physical and social environments.",
+    "tags": ["Trauma-Informed Care", "Framework", "Healing Practice"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0089",
+    "title_clean": "The Art of Scaling Deep",
+    "blurb": "An Ashoka Canada report on 'scaling deep,' arguing that lasting social change requires shifting cultural roots, values, and relationships, not just expanding programs or influencing policy.",
+    "tags": ["Systems Change", "Social Innovation", "Theory of Change"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0090",
+    "title_clean": "Scaling Deep Inquiry",
+    "blurb": "The Systems Sanctuary's inquiry into 'scaling deep,' inviting reflection on the inner, relational, and cultural shifts that must accompany any effort to scale social change.",
+    "tags": ["Systems Change", "Theory of Change", "Social Innovation"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "A companion piece to a related 'scaling deep' report; exact contents inferred from title and organization."
+  },
+  {
+    "id": "CFT-0091",
+    "blurb": "Paul Brest's influential case for why funders and nonprofits should rigorously articulate their theory of change, and how doing so sharpens strategy and surfaces hidden assumptions.",
+    "tags": ["Theory of Change", "Philanthropy & Funding", "Impact Measurement"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0092",
+    "title_clean": "W.K. Kellogg Foundation Logic Model Development Guide",
+    "blurb": "The W.K. Kellogg Foundation's widely used guide to building logic models, a step-by-step primer for mapping resources, activities, and outcomes into a coherent program theory.",
+    "tags": ["Theory of Change", "Impact Measurement", "Philanthropy & Funding"],
+    "type_display": "Guide",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0093",
+    "title_clean": "Burnout from Humans",
+    "blurb": "A piece from the Decolonial Futures network, likely probing activist and social-change burnout through a decolonial lens, though the exact argument isn't fully legible from the title alone.",
+    "tags": ["Decolonial Thinking", "Community Health", "Healing Practice"],
+    "type_display": "Essay",
+    "confidence": "low",
+    "ambiguous_note": "Title is cryptic; blurb is inferred from the publisher's typical concerns rather than confirmed content."
+  },
+  {
+    "id": "CFT-0094",
+    "title_clean": "Approaches to Sharing Power",
+    "blurb": "A Search Institute resource on approaches to sharing power with young people, practical ways adults can shift decision-making and agency toward the youth they serve.",
+    "tags": ["Youth Co-Design", "Framework", "Intergenerational"],
+    "type_display": "Guide",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0095",
+    "title_clean": "Approaches to Expanding Possibilities",
+    "blurb": "A Search Institute resource on expanding possibilities for young people, one strand of its developmental relationships framework focused on helping youth see and connect to opportunities beyond their current circumstances.",
+    "tags": ["Youth Co-Design", "Youth Wellbeing", "Framework"],
+    "type_display": "Guide",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0096",
+    "title_clean": "Nonviolent Communication: A Language of Life",
+    "blurb": "Marshall Rosenberg's foundational book on Nonviolent Communication, a practice for expressing needs and hearing others without blame, built to de-escalate conflict and deepen empathic connection.",
+    "tags": ["Healing Practice", "Community Health", "Framework"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0097",
+    "blurb": "A practical tool for assessing the complexity of a project or challenge, helping teams diagnose whether they face a complicated or truly complex problem before choosing a strategy.",
+    "tags": ["Systems Change", "Facilitation Tool", "Impact Measurement"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "Publisher (Waypoint) and exact assessment methodology aren't independently confirmed beyond the title."
+  },
+  {
+    "id": "CFT-0098",
+    "title_clean": "9MM: Nine Mental Models for the Metacrisis (Hub)",
+    "blurb": "A hub page for 'Nine Mental Models for the Metacrisis,' a collaborative project mapping the underlying mental models argued to be needed to navigate cascading global crises.",
+    "tags": ["Systems Change", "Collective Imagination", "Futures Thinking"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Original title was just the raw URL; content inferred from the related '9MMM' draft document filed alongside it."
+  },
+  {
+    "id": "CFT-0099",
+    "title_clean": "9MM: Nine Mental Models for the Metacrisis (v0.9 Draft)",
+    "blurb": "A draft framework naming nine mental models argued to be essential for meeting the interlocking crises collectively known as the metacrisis.",
+    "tags": ["Systems Change", "Collective Imagination", "Futures Thinking", "Framework"],
+    "type_display": "Working Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Document is an unfinished draft (v0.9); specific content of the nine models isn't verifiable beyond the title."
+  },
+  {
+    "id": "CFT-0100",
+    "title_clean": "What Is Schein's Change Model?",
+    "blurb": "A concise explainer of Edgar Schein's classic three-stage change model — unfreezing, changing, and refreezing — and how consultants still apply it to organizational transformation.",
+    "tags": ["Theory of Change", "Leadership", "Organizational Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0101",
+    "blurb": "An explainer video walking through 'Marionette,' an approach or tool from a group called Solvable, though the specific method being demonstrated isn't clear from the title alone.",
+    "tags": ["Framework", "Facilitation Tool"],
+    "type_display": "Video/Talk",
+    "confidence": "low",
+    "ambiguous_note": "Title and hosting page give minimal context on what 'Marionette' or 'Solvable' actually are; blurb is a best guess."
+  },
+  {
+    "id": "CFT-0102",
+    "blurb": "An article on network organizing arguing that self-organizing systems need 'activators,' the roughly 9% of highly connected members who convert loose networks into coordinated movements.",
+    "tags": ["Systems Change", "Social Innovation", "Civic Life"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0103",
+    "blurb": "A toolkit from AIA and HKS for designing resilience into buildings and communities, practical guidance for architects and planners facing climate and social shocks.",
+    "tags": ["Climate Justice", "Resilience", "Framework"],
+    "type_display": "Toolkit",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0104",
+    "blurb": "The American Institute of Architects' resource hub for its Resilience Design Toolkit, offering guidance and case studies for designing buildings and communities that can withstand climate and social disruption.",
+    "tags": ["Climate Justice", "Resilience", "Framework"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0105",
+    "blurb": "The home of Liberating Structures, a widely used set of facilitation microstructures designed to unleash participation and creativity in group work in place of top-down meetings and brainstorms.",
+    "tags": ["Facilitation Tool", "Framework", "Social Innovation"],
+    "type_display": "Toolkit",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0106",
+    "blurb": "The Center for Evaluation Innovation's framework for advocacy strategy, a structured way to map the actors, tactics, and pathways an advocacy campaign relies on to move policy change.",
+    "tags": ["Policy Innovation", "Theory of Change", "Impact Measurement"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0107",
+    "title_clean": "Moving at the Speed of Culture — Culture as Code",
+    "blurb": "A LinkedIn essay arguing that culture, not strategy documents, is the real 'code' organizations run on, and that change efforts must move at the speed culture actually shifts.",
+    "tags": ["Storytelling & Narrative", "Organizational Wellbeing", "Theory of Change"],
+    "type_display": "Social Media Post",
+    "confidence": "medium",
+    "ambiguous_note": "Original title used decorative stylized text; full post content inferred from title alone."
+  },
+  {
+    "id": "CFT-0162",
+    "title_clean": "Outcome Harvesting, to see what emerges that you didn't / couldn't predict",
+    "blurb": "A pointer to Outcome Harvesting, an evaluation method for identifying and verifying changes that emerge from a program, including the unanticipated ones a predetermined theory of change would have missed.",
+    "tags": ["Impact Measurement", "Theory of Change", "Framework"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Title clearly names the method, but the link points to an organization's LinkedIn page rather than a dedicated resource on it."
+  },
+  {
+    "id": "CFT-0163",
+    "title_clean": "Systems Mapping, to assess where we are having impact and where we aren't",
+    "blurb": "A pointer to Systems Mapping, a method for visualizing the actors, relationships, and leverage points in a system to see where an initiative is actually creating impact and where it isn't.",
+    "tags": ["Systems Change", "Impact Measurement", "Framework"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Title clearly names the method, but the link points to an organization's LinkedIn page rather than a dedicated resource on it."
+  },
+  {
+    "id": "CFT-0164",
+    "title_clean": "Ripple Effect Mapping, to visualize the multiple outcomes of an initiative",
+    "blurb": "A pointer to Ripple Effect Mapping, a participatory evaluation method that visually traces the cascading, often unexpected outcomes an initiative sets in motion.",
+    "tags": ["Impact Measurement", "Framework", "Facilitation Tool"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Title clearly names the method, but the link points to an organization's LinkedIn page rather than a dedicated resource on it."
+  },
+  {
+    "id": "CFT-0165",
+    "title_clean": "Contribution Analysis, to identify how an intervention contributed to changes",
+    "blurb": "A pointer to Contribution Analysis, an evaluation approach for building a credible case that a specific intervention contributed to observed changes, even without a controlled comparison.",
+    "tags": ["Impact Measurement", "Theory of Change", "Framework"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Title clearly names the method, but the link points to an organization's LinkedIn page rather than a dedicated resource on it."
+  },
+  {
+    "id": "CFT-0166",
+    "title_clean": "Social Network Analysis, to visualize the connections and gaps",
+    "blurb": "A pointer to Social Network Analysis, a method for mapping the relationships within a network to reveal where connection is strong, where it's missing, and who holds influence.",
+    "tags": ["Impact Measurement", "Systems Change", "Framework"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Title clearly names the method, but the link points to an organization's LinkedIn page rather than a dedicated resource on it."
+  },
+  {
+    "id": "CFT-0167",
+    "title_clean": "Movement Capacity Assessment, to see what it takes to grow a movement",
+    "blurb": "A pointer to Movement Capacity Assessment, a tool for gauging the organizational and relational strength a movement needs to sustain and grow itself.",
+    "tags": ["Impact Measurement", "Social Innovation", "Systems Change"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Title clearly names the method, but the link points to an organization's LinkedIn page rather than a dedicated resource on it."
+  },
+  {
+    "id": "CFT-0168",
+    "title_clean": "Participatory Narrative Inquiry, to assess changes through a collection of needs and themes",
+    "blurb": "A pointer to Participatory Narrative Inquiry, an evaluation method that gathers and analyzes stories from the people involved to surface shared needs and emerging themes.",
+    "tags": ["Storytelling & Narrative", "Impact Measurement", "Framework"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Title clearly names the method, but the link is a shortened LinkedIn URL rather than a dedicated resource on it."
+  },
+  {
+    "id": "CFT-0169",
+    "title_clean": "Network Health, to see what the network most needs to thrive",
+    "blurb": "A pointer to a Network Health assessment, a method for diagnosing what a network most needs — trust, resources, coordination — in order to thrive.",
+    "tags": ["Impact Measurement", "Systems Change", "Framework"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Title clearly names the method, but the link points to an organization's LinkedIn page rather than a dedicated resource on it."
+  },
+  {
+    "id": "CFT-0170",
+    "blurb": "A Stanford Social Innovation Review article examining the challenges of measuring social value, and why standardized metrics often fail to capture what nonprofits actually achieve.",
+    "tags": ["Impact Measurement", "Philanthropy & Funding", "Social Innovation"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0171",
+    "title_clean": "Calculated Impact",
+    "blurb": "A Hewlett Foundation report making the case for grantmaking strategies built on explicit theories of change rather than intuition or inertia.",
+    "tags": ["Philanthropy & Funding", "Theory of Change", "Impact Measurement"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0172",
+    "blurb": "A practical guide to the Warwick-Edinburgh Mental Well-being Scale (WEMWBS), covering how to administer, score, and interpret this widely used measure of population mental wellbeing.",
+    "tags": ["Mental Health", "Impact Measurement", "Academic Research"],
+    "type_display": "Guide",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0173",
+    "title_clean": "Impact Galleries: What Are They and Why Are They So Impactful?",
+    "blurb": "An explainer on 'impact galleries,' physical or visual displays that make a nonprofit's outcomes tangible to visitors, donors, and staff, and why they're an underused tool for communicating impact.",
+    "tags": ["Impact Measurement", "Storytelling & Narrative", "Philanthropy & Funding"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "The concept of an 'impact gallery' is niche; blurb is inferred from title and general nonprofit-communications context."
+  },
+  {
+    "id": "CFT-0174",
+    "blurb": "A Nonprofit AF essay arguing that as authoritarianism rises, nonprofits can no longer afford to shape their work around individual donors' passions and must instead fund what's actually needed to fight back.",
+    "tags": ["Philanthropy & Funding", "Democracy", "Civic Life"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0175",
+    "blurb": "A mapping tool from The Impact Project, likely visualizing where civic or policy impact is concentrated, designed to help users see and act on democracy-related data relevant to them.",
+    "tags": ["Democracy", "Civic Life", "Impact Measurement"],
+    "type_display": "Tool",
+    "confidence": "low",
+    "ambiguous_note": "Title is generic; exact subject of the map (policy tracking, election data, civic engagement, etc.) isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0176",
+    "title_clean": "The Cantril Ladder Elicits Thoughts About Power and Wealth",
+    "blurb": "A Scientific Reports study finding that the Cantril Ladder, a common life-satisfaction survey tool, inadvertently primes respondents to think about power and wealth, raising questions about what the measure actually captures.",
+    "tags": ["Impact Measurement", "Academic Research", "Mental Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  }
+]

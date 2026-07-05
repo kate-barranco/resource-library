@@ -1,0 +1,231 @@
+[
+  {
+    "id": "CFT-0903",
+    "title_clean": "Responsible Tech Guide 2024 (All Tech Is Human)",
+    "blurb": "A field guide from All Tech Is Human mapping the responsible technology movement -- its organizations, career pathways, and frameworks for people who want to build a more accountable tech industry.",
+    "tags": ["Responsible Tech", "AI & Technology", "Social Innovation"],
+    "type_display": "Guide",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0904",
+    "blurb": "A Wharton AI initiative brief examining how artificial intelligence intersects with human wellbeing, part of its ongoing 'AI Horizons' series on AI's societal impacts.",
+    "tags": ["AI & Technology", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates the topic (AI and wellbeing) but the specific argument or findings of the piece aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0905",
+    "blurb": "A Mashable report on Panasonic's CES unveiling of an AI-powered 'family wellbeing coach,' part of a wave of consumer devices marketing AI as a caretaker for household and emotional life.",
+    "tags": ["AI & Technology", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0906",
+    "blurb": "A New York Times feature on a woman's romantic relationship with ChatGPT, part of the paper's ongoing look at how AI companionship is reshaping human intimacy and connection.",
+    "tags": ["AI & Technology", "Digital Wellbeing", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0907",
+    "blurb": "A Pew Research Center data brief finding that about a quarter of U.S. teens now use ChatGPT for schoolwork -- roughly double the share in 2023 -- tracking how quickly AI tools have become mainstream among young people.",
+    "tags": ["Gen Z", "AI & Technology", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0908",
+    "blurb": "A Fortune report on a study finding that people rated ChatGPT's responses to therapy-style prompts as more empathetic and helpful than those of human psychotherapists, sharpening questions about AI's place in mental health care.",
+    "tags": ["AI & Technology", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0909",
+    "blurb": "A widely circulated LinkedIn visual mapping which tasks and roles are better suited to AI versus humans, shared as a quick reference for thinking through automation and augmentation.",
+    "tags": ["AI & Technology", "Framework"],
+    "type_display": "Infographic",
+    "confidence": "low",
+    "ambiguous_note": "This is a social media post referencing an image the poster didn't create; the diagram's actual content and source can't be confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0910",
+    "blurb": "A research paper reporting experimental evidence that conversing with an AI companion can reduce feelings of loneliness, feeding into wider debate over the psychological effects of AI relationships.",
+    "tags": ["AI & Technology", "Loneliness", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Title states the finding clearly, but the specific study's authors, sample, and methodology aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0911",
+    "blurb": "An interactive AI chatbot ('Aiden') hosted on a project provocatively named for burnout from human relationships, using conversational AI to explore fatigue with, and alternatives to, human connection.",
+    "tags": ["AI & Technology", "Loneliness", "Digital Wellbeing"],
+    "type_display": "Tool",
+    "confidence": "low",
+    "ambiguous_note": "Site name and page title suggest an art/commentary project on AI companionship and burnout, but its creator, intent, and exact framing aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0912",
+    "blurb": "A Vice investigation into the emotional fallout after Replika altered its AI companion app's erotic roleplay features, leaving longtime users reporting genuine grief and distress over the sudden change.",
+    "tags": ["AI & Technology", "Grief & Loss", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0913",
+    "title_clean": "Loneliness and Suicide Mitigation for Students Using GPT-3-Enabled Chatbots",
+    "blurb": "An academic paper in npj Mental Health Research examining whether GPT-3-enabled chatbots can help mitigate loneliness and suicide risk among students.",
+    "tags": ["Academic Research", "AI & Technology", "Mental Health", "Loneliness"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0914",
+    "blurb": "A Harvard Business School working paper presenting experimental evidence that talking with an AI companion can reduce loneliness as effectively as, or more effectively than, interacting with another person in certain contexts.",
+    "tags": ["AI & Technology", "Loneliness", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Likely a working-paper version of the same 'AI Companions Reduce Loneliness' research referenced elsewhere in this batch; exact scope of this HBS edition isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0915",
+    "title_clean": "Social AI Companions (Common Sense Media)",
+    "blurb": "Common Sense Media's ratings and risk-assessment hub for social AI companion apps, evaluating their safety and appropriateness for children and teens.",
+    "tags": ["Youth Wellbeing", "AI & Technology", "Digital Wellbeing"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0916",
+    "title_clean": "First Amendment Doesn't Just Protect Human Speech, Chatbot Maker Argues",
+    "blurb": "An Ars Technica report on a chatbot company's legal argument that AI-generated speech deserves First Amendment protection, as courts weigh liability for harms tied to chatbot interactions.",
+    "tags": ["AI & Technology", "Human Rights"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0917",
+    "blurb": "A Washington Post report on the Character.AI lawsuit over teenager Sewell Setzer's death, in which a judge rejected the company's claim that chatbot outputs are protected free speech.",
+    "tags": ["AI & Technology", "Youth Wellbeing", "Human Rights"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0918",
+    "blurb": "A Brookings analysis of the push for a federal moratorium on state AI legislation, and what it would mean for state-level efforts already underway to regulate artificial intelligence.",
+    "tags": ["Policy Innovation", "AI & Technology", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0919",
+    "title_clean": "The State of State Technology Policy",
+    "blurb": "A report from NYU's Center on Technology Policy surveying the current landscape of technology policy being made at the state level across the U.S.",
+    "tags": ["Policy Innovation", "AI & Technology"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0920",
+    "title_clean": "Congress's State-Level AI Regulation Ban Is Dangerous",
+    "blurb": "A Washington Post opinion piece arguing that Congress's proposed ban on state-level AI regulation would leave a dangerous governance vacuum while federal rules lag behind.",
+    "tags": ["Policy Innovation", "AI & Technology", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0921",
+    "blurb": "A Project Liberty Institute policy blueprint proposing recommendations for building a fairer data economy that balances innovation and growth with individual data rights.",
+    "tags": ["Policy Innovation", "AI & Technology", "Economy & Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0922",
+    "title_clean": "The NYC Algorithm Deciding Which Families Are Under Watch for Child Abuse",
+    "blurb": "A Markup investigation into the algorithm New York City uses to flag families for child-abuse risk, examining its accuracy, bias, and consequences for the families it places under scrutiny.",
+    "tags": ["AI & Technology", "Racial Equity", "Human Rights"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0923",
+    "title_clean": "Who's Better at Reading the Room—Humans or AI?",
+    "blurb": "A Wall Street Journal report on Johns Hopkins research comparing how well AI and humans read body language and social cues in real time.",
+    "tags": ["AI & Technology", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0924",
+    "blurb": "A Fast Company report on Gen Z's growing willingness to sell personal phone data to apps like Verb for modest monthly payouts, raising questions about shifting generational attitudes toward privacy.",
+    "tags": ["Gen Z", "AI & Technology", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0925",
+    "title_clean": "Why Both Sides Are Right—and Wrong—About a Moratorium on State AI Laws",
+    "blurb": "A Tech Policy Press analysis weighing the strongest arguments on both sides of the fight over a federal moratorium on state AI legislation.",
+    "tags": ["Policy Innovation", "AI & Technology", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0926",
+    "title_clean": "Expressing Stigma and Inappropriate Responses Prevents LLMs From Safely Replacing Mental Health Providers",
+    "blurb": "An academic paper finding that large language models often express stigmatizing attitudes and give inappropriate responses to mental health crises, arguing these failures show why LLMs cannot yet safely substitute for human providers.",
+    "tags": ["Academic Research", "AI & Technology", "Mental Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0927",
+    "blurb": "A Rolling Stone feature on families describing how loved ones spiraled into AI-fueled spiritual delusions and grandiose belief systems after extended chatbot conversations.",
+    "tags": ["AI & Technology", "Mental Health", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0928",
+    "blurb": "A New York Times investigation into people who spiraled into conspiratorial or delusional thinking after prolonged, emotionally intense conversations with AI chatbots.",
+    "tags": ["AI & Technology", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0929",
+    "title_clean": "How People Are Really Using Gen AI in 2025",
+    "blurb": "A Harvard Business Review analysis of the most common real-world uses of generative AI in 2025, finding that therapy and companionship-style chat support have become the leading use case.",
+    "tags": ["AI & Technology", "Mental Health", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0930",
+    "blurb": "A Gallup analytics report tracking American public attitudes toward artificial intelligence -- trust, adoption, and concern -- as the technology becomes more embedded in daily life.",
+    "tags": ["AI & Technology", "Impact Measurement"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates a Gallup survey on AI attitudes, but the specific questions and findings covered aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0931",
+    "blurb": "A global public-deliberation initiative surveying and convening people from around the world to weigh in on how AI should be developed and governed, aiming to bring broader public voice into AI policy conversations.",
+    "tags": ["AI & Technology", "Democracy", "Civic Life"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Title is just the project name; its exact organizational backing, methodology, and scope aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0932",
+    "title_clean": "What Are the Most Important Issues With AI Companions? Six Key Themes Emerged From Our Community.",
+    "blurb": "An All Tech Is Human blog post distilling six key themes on the most pressing issues with AI companion apps, synthesized from discussion within its responsible-tech community.",
+    "tags": ["AI & Technology", "Responsible Tech"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

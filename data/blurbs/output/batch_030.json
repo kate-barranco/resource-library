@@ -1,0 +1,358 @@
+[
+  {
+    "id": "CFT-0942",
+    "blurb": "A biologist's account of how honeybee swarms make life-or-death collective decisions about where to build their next home — a startlingly precise natural model of consensus-building and distributed intelligence.",
+    "tags": ["Ecological Belonging", "Systems Change", "Democracy"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0943",
+    "blurb": "A Bioneers 2023 talk by Indigenous scholar Yuria Celidwen exploring the 'ethics of belonging' embedded in Indigenous traditions — relational values of kinship, reciprocity, and care that could reorient how modern societies relate to each other and the living world.",
+    "tags": ["Ritual & Belonging", "Decolonial Thinking", "Ecological Belonging"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0944",
+    "blurb": "A recorded community drop-in session pairing open discussion and guided meditation to help participants process eco-anxiety and stay resourced amid the climate crisis.",
+    "tags": ["Climate Anxiety", "Healing Practice", "Somatics & Embodiment"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "The session format is clear from the title, but the host organization ('C2i') and Liane Stephan's specific background aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0945",
+    "blurb": "A podcast hosted by Sasha Sagan, author of 'For Small Creatures Such as We,' exploring the rituals, celebrations, and strange customs cultures use to mark meaning, transition, and belonging.",
+    "tags": ["Ritual & Belonging", "Storytelling & Narrative"],
+    "type_display": "Podcast",
+    "confidence": "high",
+    "title_clean": "Strange Customs with Sasha Sagan"
+  },
+  {
+    "id": "CFT-0946",
+    "blurb": "A TED talk by Anika Goss, head of Detroit Future City, making the case that community-rooted, equity-centered planning offers a more resilient vision for cities confronting climate change than top-down solutions.",
+    "tags": ["Climate Justice", "Racial Equity", "Civic Life"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Content inferred from the speaker's known work with Detroit Future City; the talk's specific arguments aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0947",
+    "blurb": "A Time essay arguing that speculative Afrofuturist visions like Black Panther's Wakanda — dense, car-free, ecologically integrated cities — offer a genuine design template for climate-resilient urban life.",
+    "tags": ["Storytelling & Narrative", "Collective Imagination", "Climate Justice"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Wakanda Doesn't Have Suburbs: How Movies Like Black Panther Could Help Us Save the Planet"
+  },
+  {
+    "id": "CFT-0948",
+    "blurb": "A collected-quotes page drawing from poet Nikita Gill's work, including 'Wild Embers,' gathering her lines on healing, resilience, and reclaiming one's own story.",
+    "tags": ["Storytelling & Narrative", "Hope & Empowerment"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "This is a generic Goodreads quotes aggregator rather than a single curated resource, so the exact selection of quotes can't be confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0949",
+    "blurb": "A World Health Organization call-to-action report detailing how climate change is already harming maternal, newborn, and child health, and outlining the policy responses needed to protect the most vulnerable across the life course.",
+    "tags": ["Climate Justice", "Human Rights", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Protecting Maternal, Newborn and Child Health from the Impacts of Climate Change: A Call for Action"
+  },
+  {
+    "id": "CFT-0950",
+    "blurb": "An essay by ethnobiologist Kelly Bannister using the humble strawberry as a lens on plant intelligence, reciprocity, and the deeper forms of knowing embedded in the natural world.",
+    "tags": ["Ecological Belonging", "Spiritual Ecology"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "Title ('Strawberry Intelligence') is cryptic and the exact argument can't be confirmed without reading the full piece; inferred from the author's ethnobotany background and the site's leadership/ecology focus."
+  },
+  {
+    "id": "CFT-0951",
+    "blurb": "A New Yorker essay on the Sabbath as a quietly radical practice — a weekly refusal of productivity and consumption that offers a template for rest as resistance in an always-on culture.",
+    "tags": ["Ritual & Belonging", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "The Quiet Revolution of the Sabbath"
+  },
+  {
+    "id": "CFT-0952",
+    "blurb": "A Southern Cultures essay by geographer Danielle Purifoy on Black communities in the South building self-determined, environmentally sustainable places to live — new earths shaped by histories of land dispossession and ongoing acts of repair.",
+    "tags": ["Racial Equity", "Ecological Belonging", "Decolonial Thinking"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Inferred from the author's known research on Black land ownership and environmental justice in the South; the essay's specific case studies aren't confirmable from the title alone.",
+    "title_clean": "To Live and Thrive on New Earths"
+  },
+  {
+    "id": "CFT-0953",
+    "blurb": "A Vox collection of stories for Earth Day celebrating the wonder of life on this planet and exploring deeper, more reciprocal ways of relating to our shared home.",
+    "tags": ["Ecological Belonging", "Storytelling & Narrative"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0954",
+    "blurb": "A Quanta Magazine report on the New York Declaration on Animal Consciousness, in which a coalition of scientists affirmed there is credible evidence that insects, fish, and other animals long dismissed as unfeeling may have subjective experience.",
+    "tags": ["Ecological Belonging", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Insects and Other Animals Have Consciousness, Experts Declare"
+  },
+  {
+    "id": "CFT-0955",
+    "blurb": "A TED talk by climate economist Nat Keohane proposing a financial model that pays countries and communities directly for verified reductions in deforestation, making protecting tropical forests more valuable than cutting them down.",
+    "tags": ["Ecological Belonging", "Policy Innovation", "Climate Justice"],
+    "type_display": "Video/Talk",
+    "confidence": "high",
+    "title_clean": "A New Economic Model for Protecting Tropical Forests"
+  },
+  {
+    "id": "CFT-0956",
+    "blurb": "An excerpt from Winona LaDuke's book on the Indigenous-led water protector movement, tracing decades of frontline resistance to pipelines and extraction alongside a vision of Indigenous sovereignty and land stewardship.",
+    "tags": ["Decolonial Thinking", "Ecological Belonging", "Human Rights"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0957",
+    "blurb": "A talk by educational philosopher Zak Stein arguing that humanity is living through a civilizational threshold — a 'time between worlds' — and asking what forms of education, culture, and consciousness are needed to navigate the transition.",
+    "tags": ["Futures Thinking", "Collective Imagination"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Content inferred from Zak Stein's well-known work on the metacrisis and education; the specific arguments in this particular talk aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0958",
+    "blurb": "An interview with botanist and author Robin Wall Kimmerer, weaving Indigenous plant knowledge and Western science into a shared conversation about reciprocity, gratitude, and our responsibilities to the living world.",
+    "tags": ["Ecological Belonging", "Decolonial Thinking", "Academic Research"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Specific content of this 'Green Fire' conversation-series episode is inferred from Kimmerer's broader body of work rather than confirmed directly."
+  },
+  {
+    "id": "CFT-0959",
+    "blurb": "An interview with Vanessa de Oliveira Andreotti on 'hospicing modernity' — her framework for facing the endings built into modern, colonial, extractive systems with honesty and care, rather than rushing to replace them with another quick fix.",
+    "tags": ["Decolonial Thinking", "Futures Thinking", "Collective Imagination"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0960",
+    "blurb": "A TED talk by marine biologist and climate policy expert Ayana Elizabeth Johnson making the case that sustained climate action requires joy, community, and belonging — not just guilt and grim determination.",
+    "tags": ["Climate Justice", "Hope & Empowerment", "Climate Anxiety"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0961",
+    "blurb": "A Portuguese-language talk by Brazilian Indigenous leader and philosopher Ailton Krenak on what it would mean to 'tread softly on the earth' — a pedagogy of coexistence rooted in Indigenous cosmologies rather than the logic of domination and extraction.",
+    "tags": ["Decolonial Thinking", "Ecological Belonging"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Original title is in Portuguese and translated for this blurb; specific content of the talk is inferred from Krenak's well-known themes rather than confirmed directly.",
+    "title_clean": "Treading Softly on the Earth: Toward a Pedagogy of Coexistence — Ailton Krenak, Indigenous Activist"
+  },
+  {
+    "id": "CFT-0962",
+    "blurb": "A talk revisiting bell hooks' 'Teaching to Transgress' for today's classrooms, exploring what it means to practice education as the practice of freedom — inside and outside institutional walls.",
+    "tags": ["Decolonial Thinking", "Collective Imagination"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "This appears to be a panel or lecture revisiting bell hooks' work rather than an original hooks recording; the specific speakers and framing aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0963",
+    "blurb": "An Oprah Daily conversation with Deepak Chopra on why tuning into bodily sensation — rather than overriding it — is foundational to health, stress resilience, and self-awareness.",
+    "tags": ["Somatics & Embodiment", "Mental Health"],
+    "type_display": "Interview",
+    "confidence": "high",
+    "title_clean": "Deepak Chopra on the Importance of Tuning in to Your Body"
+  },
+  {
+    "id": "CFT-0964",
+    "blurb": "A real-estate industry perspective on how green building design and sustainable architecture are becoming central to how developers respond to climate change.",
+    "tags": ["Ecological Belonging", "Systems Change"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "Title and URL suggest a piece on green building/real estate and climate, but the author's specific argument isn't confirmable from the title alone.",
+    "title_clean": "Making the Most of Green"
+  },
+  {
+    "id": "CFT-0965",
+    "blurb": "A design-industry feature on a Pininfarina-designed development that frames 'conscious living' through the region's biodiversity and Mayan heritage, positioning wellbeing and cultural rootedness as core to sustainable architecture.",
+    "tags": ["Ecological Belonging", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title reads close to a press-release description; the underlying project's specifics are taken largely at face value."
+  },
+  {
+    "id": "CFT-0966",
+    "blurb": "A TED talk by painter Isabella Kirkland, whose meticulously detailed artworks document extinct and endangered species as a way of making ecological loss impossible to look away from — and mobilizing viewers to protect what remains.",
+    "tags": ["Ecological Belonging", "Art & Healing"],
+    "type_display": "Video/Talk",
+    "confidence": "high",
+    "title_clean": "The Beauty of Wildlife — and an Artistic Call to Protect It"
+  },
+  {
+    "id": "CFT-0967",
+    "blurb": "A book-length argument that the tools for ecological revolution already exist in grassroots, anti-authoritarian movements around the world — from land defense to mutual aid — rather than waiting on top-down policy fixes.",
+    "tags": ["Systems Change", "Ecological Belonging", "Social Innovation"],
+    "type_display": "Book",
+    "confidence": "high",
+    "title_clean": "The Solutions Are Already Here: Strategies of Ecological Revolution from Below"
+  },
+  {
+    "id": "CFT-0968",
+    "blurb": "An argument that the sustainability transition is stalling not for lack of technology or policy but for lack of a compelling shared story — and that a new narrative of what a good, sustainable life looks like is now the binding constraint.",
+    "tags": ["Storytelling & Narrative", "Systems Change", "Collective Imagination"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "The Sustainability Transition Needs a New Narrative"
+  },
+  {
+    "id": "CFT-0969",
+    "blurb": "A lessons-learned report on the Women's Circle Project, documenting what was learned from running women's circles as a practice for building connection, healing, and collective resilience within communities.",
+    "tags": ["Ritual & Belonging", "Community Health", "Healing Practice"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "The source filename references a 'BUILD' program; the exact organizational context for this women's circle initiative isn't fully confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0970",
+    "blurb": "The story of how Melbourne assigned individual trees their own email addresses for maintenance reporting — and how residents unexpectedly began writing the trees heartfelt letters instead, forming an unlikely bond between people and urban nature.",
+    "tags": ["Ecological Belonging", "Nature Connection"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0971",
+    "blurb": "An essay arguing against the very idea of 'the environment' as something separate from us — proposing instead that the Earth functions as an extended body, so that ecological harm is a form of self-harm.",
+    "tags": ["Ecological Belonging", "Spiritual Ecology"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "There Is No Environment: The Earth Is Our Extended Body"
+  },
+  {
+    "id": "CFT-0972",
+    "blurb": "A reflection on the idea — echoing Carl Sagan — that human consciousness is the universe's own way of becoming aware of itself, and what that cosmic frame might mean for how we treat each other and the planet.",
+    "tags": ["Spiritual Ecology", "Collective Imagination"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Blurb is inferred from the title's clear cosmological framing; the essay's specific argument beyond that framing isn't confirmable from the title alone.",
+    "title_clean": "We Are the Universe Becoming Aware of Itself"
+  },
+  {
+    "id": "CFT-0973",
+    "blurb": "An essay on how Indigenous cosmologies and land relationships offer working models — not just moral inspiration — for building a genuinely sustainable future.",
+    "tags": ["Decolonial Thinking", "Ecological Belonging"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Indigenous Wisdom Illuminates the Path to a Sustainable Future"
+  },
+  {
+    "id": "CFT-0974",
+    "blurb": "An archive hub collecting the Network of Wellbeing's articles and resources on how contact with nature supports mental health and everyday flourishing.",
+    "tags": ["Nature Connection", "Mental Health"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0975",
+    "blurb": "A personal links page curated by nature-connectedness researcher Holli-Anne Passmore, pointing to studies, articles, and resources on the wellbeing benefits of noticing nature.",
+    "tags": ["Nature Connection", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Author identified as psychologist Holli-Anne Passmore based on name and nature-focused subject matter, though this isn't stated explicitly on the linked page.",
+    "title_clean": "Dr. H.A. Passmore: Interesting Links"
+  },
+  {
+    "id": "CFT-0976",
+    "blurb": "The episode archive for 'This Is Love,' a podcast telling true stories of love found in unexpected and unconventional places.",
+    "tags": ["Storytelling & Narrative", "Ritual & Belonging"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "This is an episode listing rather than a single episode, and the podcast's exact producing team isn't fully confirmable from the title alone.",
+    "title_clean": "This Is Love: Episodes"
+  },
+  {
+    "id": "CFT-0977",
+    "blurb": "Timothy Morton's Wellek Library Lectures reworked into a book, arguing for a 'dark ecology' that abandons tidy, nostalgic ideas of nature in favor of an uncomfortable, intimate coexistence with the nonhuman world we can't fully separate ourselves from.",
+    "tags": ["Ecological Belonging", "Academic Research"],
+    "type_display": "Book",
+    "confidence": "high",
+    "title_clean": "Dark Ecology: For a Logic of Future Coexistence"
+  },
+  {
+    "id": "CFT-0978",
+    "blurb": "A popular-science book using the biological quirks of jellyfish, tardigrades, and other long-lived or 'immortal' organisms to explore what nature can teach us about aging, longevity, and resilience.",
+    "tags": ["Ecological Belonging", "Resilience"],
+    "type_display": "Book",
+    "confidence": "high",
+    "title_clean": "Jellyfish Age Backwards: Nature's Secrets to Longevity"
+  },
+  {
+    "id": "CFT-0979",
+    "blurb": "The classic (and controversial) 1973 book proposing that plants have rich emotional and even spiritual lives — sparking decades of debate over where scientific plant biology ends and speculative plant consciousness begins.",
+    "tags": ["Ecological Belonging", "Spiritual Ecology"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0980",
+    "blurb": "Philosopher Byung-Chul Han's argument that modern life's obsession with authenticity, productivity, and constant novelty has hollowed out the rituals that once bound communities and gave shared time its meaning.",
+    "tags": ["Ritual & Belonging", "Economy & Wellbeing"],
+    "type_display": "Book",
+    "confidence": "high",
+    "title_clean": "The Disappearance of Rituals: A Topology of the Present"
+  },
+  {
+    "id": "CFT-0981",
+    "blurb": "Alain de Botton's case that secular society has too readily discarded religion's most useful features — community, ritual, moral instruction, and consolation — and should feel free to repurpose them without the theology.",
+    "tags": ["Ritual & Belonging", "Community Health"],
+    "type_display": "Book",
+    "confidence": "high",
+    "title_clean": "Religion for Atheists: A Non-Believer's Guide to the Uses of Religion"
+  },
+  {
+    "id": "CFT-0982",
+    "blurb": "A work of philosophical theology arguing that written, philosophical language is inherently incomplete and finds its true fulfillment in liturgy — the spoken, embodied, communal act of worship.",
+    "tags": ["Ritual & Belonging", "Academic Research"],
+    "type_display": "Book",
+    "confidence": "medium",
+    "ambiguous_note": "Dense academic philosophy/theology title; blurb reflects the book's documented thesis, but specific arguments within it aren't confirmable from the title alone.",
+    "title_clean": "After Writing: On the Liturgical Consummation of Philosophy"
+  },
+  {
+    "id": "CFT-0983",
+    "blurb": "A video documenting the emergence of the '7-Generation Bioregional Earth Summit,' a gathering organized around bioregionalism and Indigenous seven-generations thinking as models for long-term ecological governance.",
+    "tags": ["Ecological Belonging", "Futures Thinking", "Systems Change"],
+    "type_display": "Video/Talk",
+    "confidence": "low",
+    "ambiguous_note": "This appears to document a specific gathering or summit, but details about its organizers, location, and outcomes aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0984",
+    "blurb": "A practical toolkit of rituals designed to foster belonging, developed in the context of work with street-connected children and youth, for use by educators and community practitioners.",
+    "tags": ["Ritual & Belonging", "Facilitation Tool", "Youth Co-Design"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "URL context (an International Day of Street Children campaign) suggests this toolkit targets practitioners working with street-connected youth, though this isn't stated in the title itself."
+  },
+  {
+    "id": "CFT-0985",
+    "blurb": "An academic paper proposing that sustainability transformation requires more than policy change — it requires cultivating a felt, resonant connection between individuals and nature through integrative rituals and inner development.",
+    "tags": ["Ecological Belonging", "Academic Research", "Ritual & Belonging"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0986",
+    "blurb": "A Guardian parents' guide to reconnecting increasingly indoor, screen-bound teenagers with nature, drawing on research about the wellbeing and developmental benefits of outdoor time.",
+    "tags": ["Nature Connection", "Youth Wellbeing", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

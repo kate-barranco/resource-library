@@ -1,0 +1,193 @@
+[
+  {
+    "id": "CFT-0266",
+    "title_clean": "The Difference Between Meaning Well and Doing Well",
+    "blurb": "An essay drawing out the gap between good intentions and actual helpful action, especially in how people show up for loved ones during hard times.",
+    "tags": ["Mental Health", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title is fairly generic; the blurb infers the intention-vs.-impact angle from framing common to this genre of essay rather than the title alone."
+  },
+  {
+    "id": "CFT-0267",
+    "blurb": "A rundown of the psychological and physiological research on gratitude practice — how consistently naming what we're thankful for measurably improves mood, sleep, and relationships.",
+    "tags": ["Healing Practice", "Mental Health", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0268",
+    "title_clean": "The Journey from Wellness to Wholeness",
+    "blurb": "An interview with Elise Loehnen exploring why chasing 'wellness' can become its own trap, and what it means to pursue wholeness — integrating rather than optimizing away the messier parts of being human.",
+    "tags": ["Healing Practice", "Mental Health"],
+    "type_display": "Interview",
+    "confidence": "medium",
+    "ambiguous_note": "Interview format and wellness-critique framing inferred from Loehnen's known work; exact content of this specific piece isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0269",
+    "title_clean": "The Power of Social Touch: How a Loving Caress Really Can Ease Anxiety",
+    "blurb": "A science-journalism piece unpacking the research on affectionate touch — showing how something as simple as a hug or hand-hold can measurably lower anxiety and stress.",
+    "tags": ["Somatics & Embodiment", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0270",
+    "title_clean": "The Rise of a New Diplomacy Focused on Emotional Well-Being",
+    "blurb": "A press release from the World Happiness Foundation announcing a shift toward 'well-being diplomacy' — treating emotional and psychological health as a legitimate axis of international policy and cooperation.",
+    "tags": ["Policy Innovation", "Economy & Wellbeing"],
+    "type_display": "Press Release",
+    "confidence": "medium",
+    "ambiguous_note": "Sourced from an EIN Presswire release; the specifics of the diplomacy initiative aren't fully detailed in the title alone."
+  },
+  {
+    "id": "CFT-0271",
+    "blurb": "A profile of comedian Zarna Garg on finding creative success and reinvention later in life, making the case that starting over in your 40s can be a genuine advantage rather than a deficit.",
+    "tags": ["Resilience", "Hope & Empowerment"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0272",
+    "title_clean": "The Way Out of Burnout",
+    "blurb": "Psychoanalyst Josh Cohen examines burnout not just as exhaustion but as a symptom of the stories we tell ourselves about work and worth, and what genuine recovery requires.",
+    "tags": ["Mental Health", "Organizational Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Psychoanalytic framing inferred from Cohen's known writing on burnout; the exact argument of this specific 1843/Economist piece isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0273",
+    "title_clean": "Therapist-Suggested Journaling Prompts for Better Mental Health and Well-Being",
+    "blurb": "A practical roundup of therapist-recommended journaling prompts designed to help readers process emotions and build a consistent mental-health practice.",
+    "tags": ["Healing Practice", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0274",
+    "title_clean": "Time Spent in Nature Can Boost Physical and Mental Well-Being",
+    "blurb": "A Harvard public-health researcher summarizes evidence that regular time outdoors measurably improves both physical health and mental well-being.",
+    "tags": ["Nature Connection", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0275",
+    "blurb": "A look at the cognitive science behind why we forget our own goals, and practical 'cognitive offloading' strategies — like reminders and environmental cues — that make follow-through easier.",
+    "tags": ["Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0276",
+    "blurb": "A guide, drawing on expert input, to building social skills and easing the friction of connecting with others for anyone who wants to be more social.",
+    "tags": ["Loneliness", "Community Health", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0277",
+    "title_clean": "Want to Relax? Try ASMR.",
+    "blurb": "A short video explainer on ASMR — the tingling, calming sensation some people experience from gentle sounds and whispers — and why it's become a popular relaxation practice.",
+    "tags": ["Digital Wellbeing", "Mental Health"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0278",
+    "title_clean": "We Asked, You Answered: What's Your Secret to Staying Optimistic in Gloomy Times?",
+    "blurb": "An NPR roundup of reader-submitted strategies for holding onto optimism during difficult stretches, drawn from its Goats and Soda global-health and development beat.",
+    "tags": ["Hope & Empowerment", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0279",
+    "title_clean": "What Is Your Self-Love Language?",
+    "blurb": "An exploration of how the 'love languages' framework can be turned inward, helping readers identify what forms of self-care and self-regard actually land for them.",
+    "tags": ["Healing Practice", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0280",
+    "title_clean": "What It Felt Like to Show Myself Physical Affection for a Week",
+    "blurb": "A first-person essay documenting a week-long experiment in self-directed physical affection — hugging, holding, and touching oneself — as a practice for easing loneliness and self-criticism.",
+    "tags": ["Somatics & Embodiment", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0281",
+    "title_clean": "Lin-Manuel Miranda's Mom on Being an Abuela to Infants: Why Abuelas Are the True Guardians of Their Loved Ones' Mental Health",
+    "blurb": "An essay by Luz Towns-Miranda on the singular role grandmothers — abuelas — play in Latino families as emotional anchors and mental-health guardians across generations.",
+    "tags": ["Intergenerational", "Identity & Culture", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0282",
+    "blurb": "A Washington Post interactive exploring the research on how birdsong measurably lowers stress and improves mood, making the case for nature's soundscape as a mental-health resource.",
+    "tags": ["Nature Connection", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0283",
+    "blurb": "A look at the resurgence of African-rooted spiritual and wellness practices among Afro-Latinas, tracing how the 'bruja' trend reconnects a diaspora to ancestral healing traditions.",
+    "tags": ["Decolonial Thinking", "Identity & Culture", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0284",
+    "title_clean": "Are People Generous When the Financial Stakes Are High?",
+    "blurb": "An academic study testing whether generosity holds up when the money on the table gets bigger, challenging assumptions that prosocial behavior is only easy when stakes are low.",
+    "tags": ["Economy & Wellbeing", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0285",
+    "title_clean": "Wealth Redistribution Promotes Happiness",
+    "blurb": "A PNAS study finding that redistributing wealth — not just accumulating it — increases happiness for givers and receivers alike, with implications for how societies think about inequality and well-being.",
+    "tags": ["Economy & Wellbeing", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0286",
+    "blurb": "A Hidden Brain episode making the case for 'emo-diversity' — the idea that experiencing the full range of human emotions, not just positive ones, is what actually supports psychological health.",
+    "tags": ["Mental Health", "Resilience"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "Episode content inferred from the title and Hidden Brain's known format; exact arguments haven't been verified against a transcript."
+  },
+  {
+    "id": "CFT-0287",
+    "blurb": "A peer-support hub built by and for teens, offering resources, stories, and connection points for young people navigating mental-health struggles.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Mental Health"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "The site's full scope and offerings are inferred from its name and category placement rather than a detailed page review."
+  },
+  {
+    "id": "CFT-0288",
+    "title_clean": "Self Help | Teens4Teens Help",
+    "blurb": "The self-help section of the Teens4Teens Help hub, offering coping tools and resources aimed directly at teens managing their own mental health.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Mental Health"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Specific tools and content of this page are inferred from its place within the broader Teens4Teens Help site rather than direct review."
+  },
+  {
+    "id": "CFT-0289",
+    "title_clean": "For Parents and Caregivers of Children | SAMHSA",
+    "blurb": "A SAMHSA guide helping parents and caregivers talk with children about mental health, offering age-appropriate language and strategies for supporting kids through emotional struggles.",
+    "tags": ["Intergenerational", "Youth Wellbeing", "Mental Health"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  }
+]

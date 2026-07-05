@@ -1,0 +1,227 @@
+[
+  {
+    "id": "CFT-0135",
+    "blurb": "The LinkedIn presence of Global Narrative Hive, an organization convening practitioners around narrative strategy for social change — a running feed of posts and updates rather than a single piece of content.",
+    "tags": ["Storytelling & Narrative", "Social Innovation"],
+    "type_display": "Organization",
+    "confidence": "low",
+    "ambiguous_note": "Title and URL point to an org's LinkedIn page with no descriptive note; exact focus and activities are inferred from the name alone."
+  },
+  {
+    "id": "CFT-0136",
+    "blurb": "A hub connecting physicians and health professionals who share their own mental health stories publicly, using first-person storytelling to reduce stigma around illness within medicine.",
+    "tags": ["Mental Health", "Storytelling & Narrative", "Healing Practice"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Title and category tags suggest a mental-health storytelling network, but the specific audience (clinicians) is inferred rather than confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0137",
+    "blurb": "A podcast and storytelling hub built around teenagers narrating episodes of their own lives, giving an unfiltered, first-person window into adolescence.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Storytelling & Narrative", "Identity & Culture"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "Title suggests a youth-narrated storytelling podcast; specific format and production details aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0138",
+    "blurb": "A research and storytelling hub cataloguing real-world evidence of fast, large-scale social and economic transitions — used to counter climate fatalism by showing that transformative change has already happened before.",
+    "tags": ["Climate Justice", "Hope & Empowerment", "Storytelling & Narrative", "Systems Change"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0139",
+    "title_clean": "The Freedom and Right to Share Our Stories: Nguyễn Phan Quế Mai on Decolonising Literature",
+    "blurb": "An interview with Vietnamese writer Nguyễn Phan Quế Mai on who gets to tell which stories, and what it means to decolonize literature and reclaim narrative authority over one's own culture.",
+    "tags": ["Decolonial Thinking", "Storytelling & Narrative", "Identity & Culture"],
+    "type_display": "Interview",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0140",
+    "title_clean": "Student's Documentary Helps Her Family Heal From Intergenerational Trauma",
+    "blurb": "A news feature on a student filmmaker whose documentary became a vehicle for her own family to process and heal from trauma passed down across generations.",
+    "tags": ["Intergenerational Trauma", "Healing Practice", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0141",
+    "title_clean": "Storytelling, Trauma, and Black Identities",
+    "blurb": "A TEDx talk by Anise Vance exploring how storytelling shapes and is shaped by trauma and Black identity.",
+    "tags": ["Storytelling & Narrative", "Racial Equity", "Identity & Culture", "Trauma-Informed Care"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0142",
+    "title_clean": "My Mission to Change the Narrative of Mental Health",
+    "blurb": "Actress and mental health advocate Glenn Close's TED talk on reshaping public narratives around mental illness, drawn from her own family's experience.",
+    "tags": ["Mental Health", "Storytelling & Narrative", "Hope & Empowerment"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0143",
+    "title_clean": "Baj's Story: How Inner Work Helped a Public Health Official Come Back From the Brink of Despair",
+    "blurb": "A first-person profile of a Filipino public health official whose inner-work practice pulled her back from burnout and despair, framed as a 'success story' within a broader collection of inner-work testimonials.",
+    "tags": ["Healing Practice", "Leadership", "Storytelling & Narrative", "Resilience"],
+    "type_display": "Case Study",
+    "confidence": "medium",
+    "ambiguous_note": "Content inferred from the title and 'success story' tag; the full arc of the narrative isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0144",
+    "blurb": "An NPR roundup of overlooked public-health wins from 2023, including six countries officially eliminating a neglected tropical disease — a counterweight to doom-centric news framing.",
+    "tags": ["Hope & Empowerment", "Community Health", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0145",
+    "title_clean": "Storytelling for Systems Change",
+    "blurb": "A LinkedIn post on storytelling as a lever for systems change, part of the informal practitioner discourse around narrative strategy for social transformation.",
+    "tags": ["Storytelling & Narrative", "Systems Change"],
+    "type_display": "Social Media Post",
+    "confidence": "low",
+    "ambiguous_note": "The title is the raw URL slug rather than a descriptive title; content is inferred entirely from that slug."
+  },
+  {
+    "id": "CFT-0146",
+    "title_clean": "3 Powerful Ways to Use Storytelling to Support Mental Health",
+    "blurb": "A practical rundown of three ways storytelling can be used to support mental health, from processing personal experience to building community understanding.",
+    "tags": ["Mental Health", "Storytelling & Narrative", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0147",
+    "title_clean": "What Children Want: Letters of Hope",
+    "blurb": "A UNICEF USA collection of children's own letters expressing their hopes — for safety, health, education, and an end to war — in their own words.",
+    "tags": ["Human Rights", "Hope & Empowerment", "Storytelling & Narrative", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0148",
+    "title_clean": "Youth Mental Health Tracker: Hear the Stories",
+    "blurb": "A storytelling section of a youth mental health tracking initiative, surfacing young people's own accounts alongside the site's broader data on adolescent mental health.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Storytelling & Narrative"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates a storytelling section within a larger tracker site; the parent site's full scope isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0149",
+    "blurb": "An interactive project themed around 'invisible' struggles — likely mental health or hidden identity experiences among young people — framed as a game rather than a traditional article or report.",
+    "tags": ["Mental Health", "Art & Healing", "Gen Z", "Storytelling & Narrative"],
+    "type_display": "Tool",
+    "confidence": "low",
+    "ambiguous_note": "Title is a single evocative phrase with no note; the exact mechanic and subject of the game are inferred from its category tags (Art & Healing, Gen Z, Global Mental Health Research)."
+  },
+  {
+    "id": "CFT-0150",
+    "blurb": "A glossary that defines politically charged terms from multiple ideological vantage points, designed to help people across the political divide understand how the same words carry different meanings.",
+    "tags": ["Polarization", "Democracy", "Civic Life"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "Inferred from the project name and its 'Government, Democracy & Polarization' category; exact format and entries aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0151",
+    "title_clean": "Safe Reporting Guidelines for Media",
+    "blurb": "The American Foundation for Suicide Prevention's guidelines for journalists on how to report on suicide responsibly, aimed at reducing contagion risk while still allowing honest coverage.",
+    "tags": ["Mental Health", "Grief & Loss", "Storytelling & Narrative"],
+    "type_display": "Guide",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0152",
+    "title_clean": "Gender-Responsive Communications Toolkit",
+    "blurb": "A toolkit for building communications and campaigns that account for gender dynamics, offering practical guidance for more equitable and responsive messaging.",
+    "tags": ["Gender & Sexuality", "Storytelling & Narrative", "Facilitation Tool"],
+    "type_display": "Toolkit",
+    "confidence": "medium",
+    "ambiguous_note": "The source link is a LinkedIn-hosted document preview; the toolkit's publisher and full contents aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0153",
+    "blurb": "A widely used open-data platform tracking long-run global trends — from poverty and health to climate and technology — that grounds public narratives about progress and crisis in empirical evidence.",
+    "tags": ["Impact Measurement", "Academic Research", "Systems Change"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0154",
+    "blurb": "A LinkedIn post profiling an advocate reframing wealth-tax messaging — reworking 'tax the rich' into 'tax wealth, not work' — as a case study in narrative strategy for economic policy.",
+    "tags": ["Economy & Wellbeing", "Storytelling & Narrative", "Policy Innovation"],
+    "type_display": "Social Media Post",
+    "confidence": "medium",
+    "ambiguous_note": "Content inferred from the post's title phrase; the identity of the advocate and the full argument aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0155",
+    "title_clean": "Asset-Based Framing as Opposed to Deficit-Based Storytelling",
+    "blurb": "A LinkedIn post contrasting asset-based framing — which centers communities' strengths and agency — with deficit-based storytelling that reduces them to their problems, illustrated by a case where a staged 'photo op' narrative fell apart.",
+    "tags": ["Storytelling & Narrative", "Racial Equity", "Community Health"],
+    "type_display": "Social Media Post",
+    "confidence": "medium",
+    "ambiguous_note": "Interpreted from the title and the URL's reference to a 'photo ops fail' story; full context of the original post isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0156",
+    "blurb": "A brand strategist's 2025 prediction that authenticity itself is losing currency as a brand value, arguing for a 'post-authenticity' era where audiences no longer expect or reward performed sincerity.",
+    "tags": ["Storytelling & Narrative", "Foresight Methodology", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Blurb is inferred from a fairly descriptive but still interpretive title; the specific argument for 'post-authenticity' isn't confirmable without reading the full piece."
+  },
+  {
+    "id": "CFT-0157",
+    "blurb": "A reflection on the media and narratives we choose to consume and amplify, asking readers to notice whether they're feeding a culture of hope or one of doom.",
+    "tags": ["Hope & Empowerment", "Social Media & Attention Economy", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Inferred from a fairly clear but still general title on a personal LinkedIn Pulse post; specific examples cited in the piece aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0158",
+    "title_clean": "The Dystopian Timeline to The Hunger Games [Infographic]",
+    "blurb": "A Goodreads infographic tracing the lineage of dystopian fiction that leads to The Hunger Games, mapping how earlier speculative narratives shaped its themes.",
+    "tags": ["Storytelling & Narrative", "Collective Imagination", "Futures Thinking"],
+    "type_display": "Infographic",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0159",
+    "blurb": "A LinkedIn post breaking down the concept of a 'narrative ecosystem' — how stories, messengers, and channels interact to shape collective belief — shared from a talk on narrative and systems change.",
+    "tags": ["Storytelling & Narrative", "Systems Change"],
+    "type_display": "Social Media Post",
+    "confidence": "low",
+    "ambiguous_note": "Title is a short phrase with no descriptive note; specific framework details are inferred from context (a talk referenced in the URL) rather than confirmed."
+  },
+  {
+    "id": "CFT-0160",
+    "blurb": "An academic paper examining the counter-narratives — resistance, refusal, reclamation, and reimagining — that challenge the dominant story that AI's current trajectory is inevitable.",
+    "tags": ["AI & Technology", "Storytelling & Narrative", "Academic Research", "Responsible Tech"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0161",
+    "blurb": "A LinkedIn post applying the hero's-journey framework to marketing, arguing brands succeed when they cast the customer as the hero and position themselves as merely the guide along the way.",
+    "tags": ["Storytelling & Narrative", "Identity & Culture"],
+    "type_display": "Social Media Post",
+    "confidence": "medium",
+    "ambiguous_note": "Content inferred from a clear but brief post title; specific examples used aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-1071",
+    "blurb": "Regenerative-business writer Carol Sanford questions the popular advice to 'follow your passion,' arguing that passion is an unreliable compass and that deeper, more durable motivation comes from a sense of responsibility and purpose.",
+    "tags": ["Leadership", "Organizational Wellbeing", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Argument inferred from the title and the author's known body of work on regenerative leadership; specific reasoning isn't confirmable from the title alone."
+  }
+]

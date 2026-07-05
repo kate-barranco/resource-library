@@ -1,0 +1,109 @@
+[
+  {
+    "id": "CFT-0121",
+    "title_clean": "How to Change the World: Social Entrepreneurs and the Power of New Ideas",
+    "blurb": "David Bornstein's landmark survey of social entrepreneurship, profiling changemakers who prove that a handful of dedicated innovators armed with bold ideas can reshape entire systems and industries.",
+    "tags": ["Social Innovation", "Hope & Empowerment", "Leadership"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0122",
+    "title_clean": "Social Entrepreneurship: What Everyone Needs to Know",
+    "blurb": "A concise primer that walks through what social entrepreneurship actually is, how it differs from traditional business and nonprofit models, and why it has become a defining force in social change.",
+    "tags": ["Social Innovation", "Framework"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0123",
+    "blurb": "A canonical SSIR essay arguing for a precise, rigorous definition of social innovation, distinguishing it from social entrepreneurship and social enterprise, and outlining what makes a change genuinely systemic.",
+    "tags": ["Social Innovation", "Systems Change", "Theory of Change"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0124",
+    "blurb": "A follow-up SSIR piece revisiting the boundaries of social entrepreneurship, pressing on where the field's founding definitions hold up and where they need updating.",
+    "tags": ["Social Innovation", "Theory of Change"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates a definitional follow-up in SSIR's ongoing debate on social entrepreneurship, but the specific argument and author aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0125",
+    "blurb": "A framework mapping the spectrum of organizational forms between pure philanthropy and pure commerce, helping practitioners locate where a given social enterprise sits along that continuum.",
+    "tags": ["Social Innovation", "Framework", "Philanthropy & Funding"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Product page for an HBR case/note; the exact framing (case study vs. conceptual note) isn't fully clear from the title alone."
+  },
+  {
+    "id": "CFT-0126",
+    "blurb": "An SSIR piece on capital and funding models for growing mission-driven organizations, likely examining how nonprofits and social enterprises access the kind of patient money that lets them scale.",
+    "tags": ["Philanthropy & Funding", "Social Innovation"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "Title is generic; content inferred from SSIR's typical focus on nonprofit finance and growth capital, not confirmed."
+  },
+  {
+    "id": "CFT-0127",
+    "title_clean": "Social Entrepreneurship: Towards Conceptualisation",
+    "blurb": "An academic attempt to pin down a working definition of social entrepreneurship, surveying competing conceptualizations in the literature and proposing a clearer frame for the field.",
+    "tags": ["Social Innovation", "Academic Research", "Theory of Change"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0128",
+    "blurb": "A widely-cited typology mapping the different forms social enterprises take, from nonprofit-with-earned-income models to for-profit companies built around an embedded social mission.",
+    "tags": ["Social Innovation", "Framework", "Theory of Change"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0129",
+    "blurb": "An SSIR essay probing the friction between mission and money in hybrid organizations, asking how social enterprises balance doing good with staying financially viable.",
+    "tags": ["Social Innovation", "Philanthropy & Funding"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title strongly suggests a piece on mission/profit tension in hybrid organizations, but the specific argument isn't verifiable from the title alone."
+  },
+  {
+    "id": "CFT-0130",
+    "blurb": "A curated hub of practical tools, resources, and platforms for social entrepreneurs, spanning funding, business planning, and impact measurement.",
+    "tags": ["Social Innovation", "Facilitation Tool", "Impact Measurement"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0131",
+    "title_clean": "The Opportunity Project for Cities Sprint Toolkit: A Guide for Community-Driven Innovation Sprints in Local Governments",
+    "blurb": "A step-by-step toolkit from the Centre for Public Impact for running community-driven innovation sprints inside local government, designed to surface and prototype solutions to civic challenges.",
+    "tags": ["Policy Innovation", "Facilitation Tool", "Civic Life"],
+    "type_display": "Toolkit",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0132",
+    "blurb": "Ben Horowitz's candid account of the messy, high-stakes decisions that come with building and leading a company through crisis, with no easy playbook to follow.",
+    "tags": ["Leadership", "Organizational Wellbeing"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0133",
+    "blurb": "A brief LinkedIn post offering a few practical suggestions for nonprofit leaders and their teams navigating a moment of crisis.",
+    "tags": ["Leadership", "Resilience"],
+    "type_display": "Social Media Post",
+    "confidence": "low",
+    "ambiguous_note": "A short social post; the specific '3 things' recommended aren't determinable from the title alone."
+  },
+  {
+    "id": "CFT-0134",
+    "blurb": "An essay arguing that the nonprofit industrial complex constrains genuine alternative-future-building, and asking what it would take for social change work to imagine beyond its own funding structures.",
+    "tags": ["Systems Change", "Philanthropy & Funding", "Collective Imagination", "Decolonial Thinking"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

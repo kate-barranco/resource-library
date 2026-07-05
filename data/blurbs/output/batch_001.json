@@ -1,0 +1,349 @@
+[
+  {
+    "id": "CFT-0001",
+    "title_clean": "Tools for Systems Thinkers: Systems Mapping",
+    "blurb": "A practical primer on systems mapping as a tool for making complexity visible — designer Leyla Acaroglu walks through how to diagram relationships, feedback loops, and leverage points within a system.",
+    "tags": ["Systems Change", "Facilitation Tool", "Foresight Methodology"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0002",
+    "blurb": "A curated spreadsheet collecting tools, frameworks, and resources for equity-centered design practice.",
+    "tags": ["Social Innovation", "Framework", "Racial Equity"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Title names the collection but the spreadsheet's specific contents and scope aren't confirmable without opening it."
+  },
+  {
+    "id": "CFT-0003",
+    "blurb": "A collection of tools, models, and resources for applying systems thinking to real-world innovation challenges.",
+    "tags": ["Systems Change", "Social Innovation", "Facilitation Tool"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Generic 'toolbox' title; the exact tools included aren't specified beyond the platform name."
+  },
+  {
+    "id": "CFT-0004",
+    "blurb": "A collection of practical tools and toolkits for systemic design practice, gathered by the Systemic Design Association.",
+    "tags": ["Systems Change", "Facilitation Tool", "Framework"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0005",
+    "blurb": "A design report examining how youth service programs can be strengthened and scaled to better tap into young people's civic potential.",
+    "tags": ["Youth Co-Design", "Social Innovation", "Civic Life"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates a focus on youth service but specific findings and recommendations aren't detailed."
+  },
+  {
+    "id": "CFT-0006",
+    "blurb": "An argument that systems-change work overlooks the inner, psychological dimension — the beliefs, worldviews, and emotional patterns that shape how change actually happens.",
+    "tags": ["Systems Change", "Framework"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0007",
+    "blurb": "A companion argument from the Grantham Research Institute that sustainability and systems-change efforts too often ignore the inner, subjective dimension of transformation alongside external structural shifts.",
+    "tags": ["Systems Change", "Climate Justice", "Framework"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0008",
+    "blurb": "A facilitation guide for the Three Horizons framework, a foresight tool for mapping the tension between today's dominant systems, emerging alternatives, and the long-term paradigm shift toward a preferred future.",
+    "tags": ["Foresight Methodology", "Facilitation Tool", "Framework"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0009",
+    "blurb": "Harvard Project Zero's searchable hub of research-based tools and thinking routines for cultivating deeper learning, creativity, and understanding.",
+    "tags": ["Academic Research", "Framework"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "This is a broad institutional search page; specific tools surfaced depend on the search query."
+  },
+  {
+    "id": "CFT-0010",
+    "title_clean": "Design Social Change: Take Action, Work Toward Equity, and Challenge the Status Quo",
+    "blurb": "An academic article making the case for design as a practice of social change — one that moves practitioners from neutral problem-solving toward explicit action on equity and the status quo.",
+    "tags": ["Social Innovation", "Racial Equity", "Systems Change"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0011",
+    "blurb": "adrienne maree brown's foundational text on emergent strategy — adapting nature's patterns of fractals, interdependence, and adaptation to build resilient, decentralized movements for social change.",
+    "tags": ["Systems Change", "Collective Imagination", "Resilience"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0012",
+    "blurb": "A glossary entry from the Guild of Future Architects outlining the INE framework, a model used within their futures-building practice to structure how individual, network, and ecosystem-level change relate.",
+    "tags": ["Framework", "Futures Thinking"],
+    "type_display": "Framework",
+    "confidence": "low",
+    "ambiguous_note": "Title gives only the acronym 'INE'; its full meaning and scope couldn't be confirmed from the title alone (WebFetch to the source page was unavailable)."
+  },
+  {
+    "id": "CFT-0013",
+    "blurb": "A field guide from the Guild of Future Architects and Omidyar Network exploring 'portals' — thresholds of crisis and possibility — as sites for building more just, beautiful, and imaginative futures.",
+    "tags": ["Futures Thinking", "Collective Imagination", "Hope & Empowerment"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Based on the title and known GOFA/Omidyar publishing context; exact contents not independently verified."
+  },
+  {
+    "id": "CFT-0014",
+    "blurb": "An academic thesis exploring methods and frameworks for design practice aimed at transformative, long-term futures rather than incremental change.",
+    "tags": ["Futures Thinking", "Foresight Methodology", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "low",
+    "ambiguous_note": "Generic title hosted on an academic repository; specific institution, author, and argument aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0015",
+    "blurb": "Jonathan Rowson reflects on the felt, psychological texture of anticipating the future — arguing that how we relate inwardly to what's coming shapes collective possibility as much as any external forecast.",
+    "tags": ["Futures Thinking", "Collective Imagination"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Inferred from Rowson's known focus on inner/collective sense-making; the exact argument of this specific essay wasn't independently confirmed."
+  },
+  {
+    "id": "CFT-0016",
+    "blurb": "An argument for philanthropy to fund systems change through a healing-centered lens — treating trauma and restoration as inseparable from durable structural transformation.",
+    "tags": ["Philanthropy & Funding", "Healing Practice", "Systems Change"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0017",
+    "blurb": "Futurist Ari Wallach's TED talk on 'transgenerational thinking' — three practical ways individuals and institutions can plan and act with future generations in mind.",
+    "tags": ["Futures Thinking", "Hope & Empowerment"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0018",
+    "blurb": "Arturo Escobar's influential work on 'pluriversal' design — arguing for design practices rooted in radical interdependence and community autonomy that make room for many worlds rather than one dominant one.",
+    "tags": ["Decolonial Thinking", "Systems Change", "Collective Imagination"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0019",
+    "blurb": "An RSA Journal essay proposing 'regenerative futures' as a lens for social and economic renewal — moving beyond sustainability toward actively restoring the ecological and social systems we depend on.",
+    "tags": ["Ecological Belonging", "Futures Thinking", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0020",
+    "title_clean": "Speculative Design: A Design Niche or a New Tool for Government Innovation?",
+    "blurb": "A Nesta essay examining whether speculative design — using provocative artifacts and scenarios to explore possible futures — can move beyond a design-world niche to become a genuine tool for government innovation.",
+    "tags": ["Futures Thinking", "Policy Innovation", "Collective Imagination"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0021",
+    "blurb": "An article from digital agency Reason Digital introducing trauma-informed design principles for building digital products and services that don't inadvertently re-traumatize users.",
+    "tags": ["Trauma-Informed Care", "Framework"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Linked via a shortened URL from a LinkedIn comment thread; the stored link resolves to Reason Digital's LinkedIn company page rather than the specific article."
+  },
+  {
+    "id": "CFT-0022",
+    "blurb": "Trauma-informed design principles from CHAYN, a tech nonprofit supporting survivors of gender-based violence, outlining how to build digital tools that account for trauma.",
+    "tags": ["Trauma-Informed Care", "Gender & Sexuality", "Framework"],
+    "type_display": "Report",
+    "confidence": "low",
+    "ambiguous_note": "Original note flags this PDF as 'inaccessible / untagged,' and the stored link points to CHAYN's LinkedIn page rather than the document itself."
+  },
+  {
+    "id": "CFT-0023",
+    "blurb": "A trauma-informed practice toolkit published by the Scottish Government, offering general guidance for embedding trauma awareness into services (not specific to digital product design).",
+    "tags": ["Trauma-Informed Care", "Policy Innovation", "Facilitation Tool"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "Stored link points to the Scottish Government's LinkedIn page rather than the toolkit itself."
+  },
+  {
+    "id": "CFT-0024",
+    "blurb": "A 50-minute Inclusive Design 24 conference talk on applying trauma-informed principles specifically to website and digital design.",
+    "tags": ["Trauma-Informed Care", "Digital Wellbeing"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Stored link points to the Inclusive Design 24 conference's LinkedIn page rather than the video itself."
+  },
+  {
+    "id": "CFT-0025",
+    "blurb": "An article from Content Design London on applying trauma-informed principles to the practice of writing and structuring content for people who may be in distress when they encounter it.",
+    "tags": ["Trauma-Informed Care", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Stored link points to Content Design London's LinkedIn page rather than the article itself."
+  },
+  {
+    "id": "CFT-0026",
+    "blurb": "An introductory article from Birdcall UX explaining what trauma-informed design is and why it matters for teams designing digital experiences.",
+    "tags": ["Trauma-Informed Care", "Framework"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Stored link points to Birdcall UX's LinkedIn page rather than the article itself."
+  },
+  {
+    "id": "CFT-0027",
+    "blurb": "A case for applying trauma-informed design principles to government services, so that people navigating already-stressful systems (benefits, courts, healthcare) aren't further harmed by the interfaces meant to help them.",
+    "tags": ["Trauma-Informed Care", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Link is a shortened lnkd.in URL added as an edit to an original LinkedIn thread; the specific publisher isn't named in the title."
+  },
+  {
+    "id": "CFT-0028",
+    "blurb": "A large, crowd-sourced list of trauma-informed design resources compiled and shared as an addendum to a broader LinkedIn discussion on the topic.",
+    "tags": ["Trauma-Informed Care", "Framework"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Link is a shortened lnkd.in URL; the underlying list's contents aren't visible from the title alone."
+  },
+  {
+    "id": "CFT-0029",
+    "blurb": "A piece from furniture company Allsteel on trauma-informed design applied to physical workplace and interior environments, extending the concept beyond digital products.",
+    "tags": ["Trauma-Informed Care", "Somatics & Embodiment"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Stored link points to Allsteel's LinkedIn page rather than the article itself; the physical-space framing is inferred from the company's business (office furniture)."
+  },
+  {
+    "id": "CFT-0030",
+    "blurb": "An SSIR piece on 'system orchestrators' — the often-invisible intermediary organizations and individuals who coordinate cross-sector actors to make large-scale systems change actually cohere.",
+    "tags": ["Systems Change", "Social Innovation"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "The visible title ('Supporting Society's Bridge Builders') is generic; topic inferred from the URL slug ('system-orchestrators') and SSIR context."
+  },
+  {
+    "id": "CFT-0031",
+    "blurb": "A training program from Social Change UK's Changemaker Academy, building practical skills for people leading community and systems-level change efforts.",
+    "tags": ["Leadership", "Social Innovation", "Theory of Change"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "Landing page for a program; specific curriculum details aren't given in the title."
+  },
+  {
+    "id": "CFT-0032",
+    "blurb": "An SSIR article making the case that funders need to commit to long-term, sustained investment in narrative change work rather than treating storytelling as a quick campaign tactic.",
+    "tags": ["Philanthropy & Funding", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0033",
+    "blurb": "A toolkit from UC Berkeley's Othering & Belonging Institute for conducting community-engaged, transformative research that centers the people and communities being studied as partners rather than subjects.",
+    "tags": ["Academic Research", "Social Innovation", "Framework"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Inferred from the publisher (Othering & Belonging Institute) and title; specific methods inside the toolkit aren't detailed in the title."
+  },
+  {
+    "id": "CFT-0034",
+    "blurb": "A blog post unpacking the many competing definitions of 'systems change' and why practitioners often talk past each other when using the term.",
+    "tags": ["Systems Change", "Theory of Change"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title is phrased as a question; the specific definition or framework offered isn't stated in the title itself."
+  },
+  {
+    "id": "CFT-0035",
+    "blurb": "A curated Notion mood-board and inspiration library gathering visual and conceptual references for imaginative, boundary-crossing creative work.",
+    "tags": ["Collective Imagination", "Art & Healing"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Title is purely stylistic ('i n s p i r a t i o n library') with no descriptive text; the specific curatorial focus and creator (eitherorg) couldn't be confirmed."
+  },
+  {
+    "id": "CFT-0036",
+    "blurb": "The website of Longpath, futurist Ari Wallach's organization dedicated to cultivating 'transgenerational thinking' — helping individuals, leaders, and institutions make decisions with future generations in mind.",
+    "tags": ["Futures Thinking", "Intergenerational", "Hope & Empowerment"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Homepage title alone; description draws on Longpath's known mission (paired elsewhere in this batch with Ari Wallach's TED talk and PBS series)."
+  },
+  {
+    "id": "CFT-0037",
+    "blurb": "The LinkedIn profile of Ari Wallach, futurist and founder of Longpath, known for advancing long-term, transgenerational thinking in public life.",
+    "tags": ["Futures Thinking", "Leadership"],
+    "type_display": "Profile",
+    "confidence": "low",
+    "ambiguous_note": "This is a personal LinkedIn profile page rather than a specific piece of content."
+  },
+  {
+    "id": "CFT-0038",
+    "blurb": "A PBS documentary series hosted by futurist Ari Wallach that explores how thinking in longer time horizons — beyond our own lifetimes — can help us navigate today's crises with more hope and agency.",
+    "tags": ["Futures Thinking", "Hope & Empowerment", "Intergenerational"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0039",
+    "blurb": "A resource kit from Force of Nature, the youth climate psychology organization, equipping young changemakers with tools for turning climate anxiety into collective action.",
+    "tags": ["Climate Anxiety", "Youth Co-Design", "Hope & Empowerment"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Inferred from Force of Nature's known mission; the resource kit's specific contents aren't detailed in the title."
+  },
+  {
+    "id": "CFT-0040",
+    "title_clean": "A Framework for Deep Resilience in the Anthropocene",
+    "blurb": "An academic paper proposing a framework for 'deep resilience' — a form of resilience that goes beyond bouncing back from disruption to actively transforming how leaders and organizations relate to ecological crisis.",
+    "tags": ["Resilience", "Leadership", "Ecological Belonging"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0041",
+    "blurb": "The World Economic Forum's flagship annual report, now in its 20th edition, mapping the most severe global risks over the next two and ten years — from environmental collapse to societal polarization and technological disruption.",
+    "tags": ["Systems Change", "Foresight Methodology"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0042",
+    "blurb": "An interactive 'radar' tool from Horizon2045 tracking emerging signals and trends relevant to long-range futures thinking, part of the project's broader work imagining paths beyond civilizational catastrophe.",
+    "tags": ["Foresight Methodology", "Futures Thinking"],
+    "type_display": "Tool",
+    "confidence": "low",
+    "ambiguous_note": "Title and URL structure suggest a signals/trends radar tool; specific content and methodology weren't confirmable beyond the homepage title (fetch to the live site was unavailable)."
+  },
+  {
+    "id": "CFT-0043",
+    "title_clean": "The Social Change Ecosystem Map",
+    "blurb": "Building Movement Project's widely used framework identifying the different roles people play within social change movements — from storytellers and builders to disruptors and caregivers — and why movements need all of them.",
+    "tags": ["Theory of Change", "Framework", "Storytelling & Narrative"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0044",
+    "blurb": "A 'Change, Technically' podcast episode on getting organizational or technical work out of its silo — encouraging collaboration across boundaries rather than isolated, single-team execution.",
+    "tags": ["Systems Change", "Organizational Wellbeing"],
+    "type_display": "Podcast",
+    "confidence": "low",
+    "ambiguous_note": "Podcast episode title is evocative rather than descriptive; the specific argument or guest isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0045",
+    "blurb": "An essay reflecting on how to hold onto hope while imagining alternative futures — resisting despair about the present by actively practicing collective imagination.",
+    "tags": ["Hope & Empowerment", "Collective Imagination", "Futures Thinking"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

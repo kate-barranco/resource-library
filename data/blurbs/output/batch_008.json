@@ -1,0 +1,258 @@
+[
+  {
+    "id": "CFT-0179",
+    "blurb": "A short, meditative blog post from adrienne maree brown on compassion as a practice of recognizing our shared, interdependent being — a reminder that care for others is inseparable from care for the whole.",
+    "tags": ["Healing Practice", "Ritual & Belonging", "Hope & Empowerment"],
+    "type_display": "Blog Post",
+    "confidence": "medium",
+    "ambiguous_note": "Blog post title is terse; the exact content of this 'compassion/being' reflection is inferred from adrienne maree brown's typical themes rather than confirmed."
+  },
+  {
+    "id": "CFT-0180",
+    "blurb": "An excerpt from David Jay's book on relationality, making the case that deep, sustained relationships — not transactional networks — are the true infrastructure of social change.",
+    "tags": ["Social Innovation", "Systems Change", "Community Health"],
+    "type_display": "Book Excerpt",
+    "confidence": "medium",
+    "ambiguous_note": "The SSIR excerpt title doesn't spell out the book's full argument; content inferred from David Jay's known relational-organizing work."
+  },
+  {
+    "id": "CFT-0181",
+    "blurb": "The U.S. Surgeon General's toolkit of small, everyday 'recipes' for building connection — concrete prompts and practices meant to counter the loneliness epidemic.",
+    "tags": ["Loneliness", "Community Health", "Mental Health"],
+    "type_display": "Toolkit",
+    "title_clean": "Recipes for Connection",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0182",
+    "blurb": "A glossary from the Relationships Project defining the vocabulary of relational practice — the specific words and phrases that make relationship-centered work legible and shareable across sectors.",
+    "tags": ["Community Health", "Framework", "Facilitation Tool"],
+    "type_display": "Glossary",
+    "title_clean": "A Glossary of Relational Phrases",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0183",
+    "blurb": "An essay considering how relationality is understood and practiced differently across cultures, pushing back against a one-size-fits-all Western framing of connection and belonging.",
+    "tags": ["Identity & Culture", "Decolonial Thinking", "Community Health"],
+    "type_display": "Essay",
+    "confidence": "medium",
+    "ambiguous_note": "Substack essay title is generic; the specific cross-cultural argument is inferred from the title alone."
+  },
+  {
+    "id": "CFT-0184",
+    "blurb": "A follow-up reflection from the Relationships Project on an earlier conversation about relational language — considering which phrases actually resonated in practice and which fell flat.",
+    "tags": ["Community Health", "Framework"],
+    "type_display": "Blog Post",
+    "title_clean": "Reflections on Our Discussion About Relational Phrases",
+    "confidence": "medium",
+    "ambiguous_note": "This is a follow-up piece; the specific content of the earlier discussion it reflects on isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0185",
+    "blurb": "An essay asking whether 'relational worker' — a term for professionals whose core skill is building trust and connection — actually captures the nature of care and community-facing work.",
+    "tags": ["Community Health", "Healing Practice"],
+    "type_display": "Essay",
+    "title_clean": "Relational Worker, Does It Resonate?",
+    "confidence": "medium",
+    "ambiguous_note": "Framed as an open question in a Substack post; the essay's specific argument is inferred from the title."
+  },
+  {
+    "id": "CFT-0186",
+    "blurb": "A John Templeton Foundation piece arguing that wellbeing is never a solo achievement — that flourishing is fundamentally collective, built through relationships rather than individual effort alone.",
+    "tags": ["Community Health", "Hope & Empowerment", "Loneliness"],
+    "type_display": "Article",
+    "title_clean": "No Man Is an Island: Well-Being as a Collective Endeavor",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0187",
+    "blurb": "A Washington Post opinion piece, written in the wake of the 2025 inauguration, arguing that political resistance is a long game that can't be forced onto an artificial timeline.",
+    "tags": ["Civic Life", "Democracy", "Hope & Empowerment"],
+    "type_display": "Opinion",
+    "title_clean": "The Resistance Will Not Be Rushed",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0188",
+    "blurb": "A slide deck outlining six concrete approaches for building connection across ideological or identity difference, aimed at practitioners doing bridging work.",
+    "tags": ["Polarization", "Community Health", "Facilitation Tool"],
+    "type_display": "Slide Deck",
+    "confidence": "medium",
+    "ambiguous_note": "Hosted as a Canva deck; the six specific approaches described aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0189",
+    "blurb": "A More in Common report identifying the specific conditions and interventions most likely to help Americans build connection across their deepening social and political divides.",
+    "tags": ["Polarization", "Democracy", "Community Health"],
+    "type_display": "Report",
+    "title_clean": "The Connection Opportunity: Insights for Bringing Americans Together Across Difference",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0190",
+    "blurb": "The publication landing page for More in Common's 'Connection Opportunity' report, mapping where and how Americans can most effectively bridge distrust and division through everyday relationship-building.",
+    "tags": ["Polarization", "Democracy", "Community Health"],
+    "type_display": "Report",
+    "title_clean": "The Connection Opportunity",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0191",
+    "blurb": "An Instagram post introducing 'SUN' — Seen, Understood, Need — a simple framework for naming what people are really asking for in a conversation.",
+    "tags": ["Community Health", "Framework"],
+    "type_display": "Social Media Post",
+    "title_clean": "The SUN Philosophy: Seen, Understood, Need",
+    "confidence": "low",
+    "ambiguous_note": "Instagram post title is cryptic shorthand with a typo ('Conversationalst'); the framework's actual content is a best guess based on the acronym given."
+  },
+  {
+    "id": "CFT-0192",
+    "blurb": "A New York Times opinion piece questioning the presumed virtue of empathy, arguing it can distort moral judgment and even fuel tribalism when applied selectively.",
+    "tags": ["Mental Health", "Community Health"],
+    "type_display": "Opinion",
+    "title_clean": "The Dark Side of Empathy",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0193",
+    "blurb": "The homepage for Purposefully Human, a project oriented around restoring intentional, human-centered connection in a world of digital distraction and disconnection.",
+    "tags": ["Community Health", "Digital Wellbeing"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Only a homepage title/URL was available; the site's specific offerings and content aren't confirmable from that alone."
+  },
+  {
+    "id": "CFT-0194",
+    "blurb": "A resource guide from UC Berkeley's Othering & Belonging Institute offering practical tools and frameworks for practitioners working to build belonging within their communities and institutions.",
+    "tags": ["Racial Equity", "Community Health", "Framework"],
+    "type_display": "Guide",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0195",
+    "blurb": "James Baldwin's landmark 1963 address to educators, arguing that teaching is inseparable from the political project of helping young people see themselves and their society clearly.",
+    "tags": ["Racial Equity", "Identity & Culture", "Storytelling & Narrative"],
+    "type_display": "Speech/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0196",
+    "blurb": "A national report tracking the state of social connection in America in 2025 — mapping where trust, friendship, and community ties are eroding, and where they're holding.",
+    "tags": ["Loneliness", "Community Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0197",
+    "blurb": "The homepage of the Meta-Relationality Institute, an organization oriented around relationality as a lens for understanding and transforming systems.",
+    "tags": ["Community Health", "Systems Change"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Only a homepage title/URL was available; the institute's specific programs and content aren't confirmable from that alone."
+  },
+  {
+    "id": "CFT-0772",
+    "blurb": "An Atlantic piece on how a rising culture of solitude is reshaping how Americans understand themselves — pulling identity inward even as it deepens isolation.",
+    "tags": ["Loneliness", "Identity & Culture", "Community Health"],
+    "type_display": "Article",
+    "title_clean": "How Solitude Is Rewiring American Identity",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0773",
+    "blurb": "Derek Thompson's widely discussed Atlantic essay diagnosing a broad American retreat from in-person life — fewer friends, fewer outings, fewer shared spaces — and its consequences for politics and personality alike.",
+    "tags": ["Loneliness", "Community Health", "Civic Life"],
+    "type_display": "Article",
+    "title_clean": "The Anti-Social Century",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0774",
+    "blurb": "A TIME essay proposing that America's loneliness epidemic calls for a 'third life' — a deliberately cultivated third dimension of identity and community beyond work and family.",
+    "tags": ["Loneliness", "Community Health", "Identity & Culture"],
+    "type_display": "Essay",
+    "title_clean": "Why a 'Third Life' Is the Answer to America's Loneliness Epidemic",
+    "confidence": "medium",
+    "ambiguous_note": "The 'third life' concept is inferred from the title; the essay's exact framing isn't confirmable without the full text."
+  },
+  {
+    "id": "CFT-0775",
+    "blurb": "A CoGenerate piece making the case that connecting younger and older generations — not just peer to peer — may be one of the most powerful antidotes to widespread loneliness.",
+    "tags": ["Intergenerational", "Loneliness", "Community Health"],
+    "type_display": "Article",
+    "title_clean": "Can Intergenerational Connection Heal Us?",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0776",
+    "blurb": "An interactive 'Social Trust Map' from Weave: The Social Fabric Project, visualizing where trust and community connection are strong or fraying across the country.",
+    "tags": ["Civic Life", "Community Health"],
+    "type_display": "Interactive Tool",
+    "title_clean": "Social Trust Map",
+    "confidence": "medium",
+    "ambiguous_note": "Title includes stray asterisks suggesting a flag in the original spreadsheet; the tool's current status/content isn't fully confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0777",
+    "blurb": "A Substack essay pushing back on the popular narrative that men are uniquely 'in crisis,' complicating a storyline that's become shorthand in conversations about loneliness and gender.",
+    "tags": ["Gender & Sexuality", "Community Health"],
+    "type_display": "Essay",
+    "confidence": "medium",
+    "ambiguous_note": "Contrarian essay title; the specific counter-argument made isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0778",
+    "blurb": "A Survey Center on American Life report documenting the long decline of close friendship in the U.S. — fewer confidants, less time together, and what's been lost as a result.",
+    "tags": ["Loneliness", "Community Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0779",
+    "blurb": "A Survey Center on American Life analysis of why men's friend groups have shrunk so much faster than women's, and what that means for their wellbeing.",
+    "tags": ["Gender & Sexuality", "Loneliness", "Community Health"],
+    "type_display": "Article",
+    "title_clean": "Men's Social Circles Are Shrinking",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0780",
+    "blurb": "Richard Reeves' book examining why boys and men are falling behind — in school, work, and family life — and arguing the crisis deserves serious attention rather than dismissal.",
+    "tags": ["Gender & Sexuality", "Community Health", "Academic Research"],
+    "type_display": "Book",
+    "title_clean": "Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do about It",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0781",
+    "blurb": "Scott Galloway's newsletter essay on the collapse of adult friendship, arguing that 'friending' takes deliberate effort that our culture no longer teaches or rewards.",
+    "tags": ["Loneliness", "Community Health"],
+    "type_display": "Newsletter",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0782",
+    "blurb": "A Survey Center on American Life report showing how civic and social disconnection increasingly breaks down along class lines, with working-class Americans losing access to the institutions that once built community.",
+    "tags": ["Civic Life", "Community Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0783",
+    "blurb": "A LinkedIn post on 'mankeeping' — the invisible emotional labor women often perform to manage the social and emotional needs of the men in their lives.",
+    "tags": ["Gender & Sexuality", "Community Health"],
+    "type_display": "Social Media Post",
+    "confidence": "medium",
+    "ambiguous_note": "LinkedIn post referencing the emerging term 'mankeeping'; the exact content and framing of this specific post isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0784",
+    "blurb": "A 2026 report identifying six key points of connection shaping the state of social connection in America, tracking where relationships and community are strengthening or fraying.",
+    "tags": ["Loneliness", "Community Health", "Academic Research"],
+    "type_display": "Report",
+    "title_clean": "The Six Points of Connection: State of Connection in America 2026",
+    "confidence": "medium",
+    "ambiguous_note": "The publisher/organization behind this report isn't identifiable from the title or file URL alone."
+  }
+]

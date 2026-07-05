@@ -1,0 +1,344 @@
+[
+  {
+    "id": "CFT-0830",
+    "blurb": "An essay from Connective Tissue's Substack examining how time spent online reshapes — and often erodes — our capacity to build real-world community and belonging.",
+    "tags": ["Social Media & Attention Economy", "Community Health", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0831",
+    "blurb": "A curated media-literacy toolkit, hosted as a shared drive folder, built to help young people and educators engage more critically and healthily with social media.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing", "Facilitation Tool"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Title and Drive-folder link give no detail on the toolkit's actual contents beyond the 'Unite Media' name."
+  },
+  {
+    "id": "CFT-0832",
+    "blurb": "A Substack post citing survey data showing a sharp rise in teens who say they don't enjoy life, framed within the broader case that social media and screen culture are driving the decline.",
+    "tags": ["Youth Wellbeing", "Gen Z", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0833",
+    "blurb": "A pointed rebuttal to media coverage that downplays the link between social media and teen suicide, insisting any 'other side' of the debate still has to get the underlying facts right.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0834",
+    "blurb": "A video breaking down what the research actually shows — and doesn't show — about the relationship between social media use and youth mental health, cutting through competing public claims.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Social Media & Attention Economy", "Academic Research"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0835",
+    "blurb": "A TEDx talk in which a millennial recounts trading heavy social media use for JOMO — the joy of missing out — and what shifted in his life as a result.",
+    "tags": ["Digital Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Video/Talk",
+    "confidence": "high",
+    "title_clean": "Social Media to JOMO: A Millennial's Journey"
+  },
+  {
+    "id": "CFT-0836",
+    "blurb": "A blog post from digital wellness coach Rijul Arora debunking common myths about what it actually takes to build a healthier relationship with technology.",
+    "tags": ["Digital Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Myths of Digital Wellness"
+  },
+  {
+    "id": "CFT-0837",
+    "blurb": "A Virginia executive order directing state agencies to help parents shield children from addictive social media design and establishing a task force focused on reclaiming childhood from digital harms.",
+    "tags": ["Policy Innovation", "Youth Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Policy Document",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0838",
+    "blurb": "A survey instrument from the Digital Wellness Institute measuring how 'digitally flourishing' people are — assessing habits, boundaries, and wellbeing in relation to technology use.",
+    "tags": ["Digital Wellbeing", "Impact Measurement", "Social Media & Attention Economy"],
+    "type_display": "Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0839",
+    "blurb": "A Project Liberty report finding that Americans overwhelmingly want the right to control their own online data, underscoring public appetite for data-ownership reform.",
+    "tags": ["Responsible Tech", "AI & Technology", "Digital Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0840",
+    "blurb": "A companion Project Liberty report extending the data-control finding globally, showing broad cross-national demand for people to govern their own personal data.",
+    "tags": ["Responsible Tech", "AI & Technology", "Digital Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0841",
+    "blurb": "A New Yorker piece following a deliberately offline writer's first real encounter with TikTok, using the culture shock as a lens on what the app has normalized for everyone else.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "What Happened When an Extremely Offline Person Tried TikTok"
+  },
+  {
+    "id": "CFT-0842",
+    "blurb": "An Axios report tracking the bipartisan wave of state legislation banning cellphones in schools, noting the policy's unusual cross-party momentum heading into 2025.",
+    "tags": ["Policy Innovation", "Youth Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0843",
+    "blurb": "An Atlantic essay arguing that TikTok has effectively become the shape of the internet itself, with rival platforms increasingly copying its algorithmic feed.",
+    "tags": ["Social Media & Attention Economy", "AI & Technology"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "The Internet Is TikTok Now"
+  },
+  {
+    "id": "CFT-0844",
+    "blurb": "A Wall Street Journal piece proposing that the way to forecast a technology's real-world impact is to track its rate of change rather than its current capabilities.",
+    "tags": ["Foresight Methodology", "Futures Thinking", "AI & Technology"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "There's a Better Way to Predict a Technology's Future: Follow the Rate of Change"
+  },
+  {
+    "id": "CFT-0845",
+    "blurb": "A research summary from Children and Screens distilling findings and practical recommendations for parents navigating children's device use in the digital age.",
+    "tags": ["Youth Wellbeing", "Digital Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Parenting in the Digital Age: Summary and Recommendations"
+  },
+  {
+    "id": "CFT-0846",
+    "blurb": "A Hopelab research piece exploring how young people form parasocial bonds with AI chatbots, and where those interactions can add genuine joy rather than harm.",
+    "tags": ["AI & Technology", "Youth Wellbeing", "Digital Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Parasocial Relationships, AI Chatbots, and Joyful Online Interactions"
+  },
+  {
+    "id": "CFT-0847",
+    "blurb": "A TechCrunch report on new survey findings showing most US teens have lost trust in Big Tech companies, signaling a generational shift in sentiment toward the platforms they grew up on.",
+    "tags": ["Gen Z", "AI & Technology", "Responsible Tech"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Report: Majority of US Teens Have Lost Trust in Big Tech"
+  },
+  {
+    "id": "CFT-0848",
+    "blurb": "A working notes document (V3) compiling reference material for the resource library's social media and youth mental health track.",
+    "tags": ["Social Media & Attention Economy", "Youth Wellbeing"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Generic internal notes-doc title gives no detail on the specific sources or contents compiled inside."
+  },
+  {
+    "id": "CFT-0849",
+    "blurb": "An academic conference paper examining how gender shapes social media use, coping strategies, and reported happiness among Generation Z.",
+    "tags": ["Academic Research", "Gen Z", "Gender & Sexuality", "Social Media & Attention Economy"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0850",
+    "blurb": "A New York Times feature on young climate activists wielding TikTok and litigation as parallel tools of pressure, tracing how Gen Z organizes across both digital and legal fronts.",
+    "tags": ["Gen Z", "Climate Justice", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "With TikTok and Lawsuits, Gen Z Takes on Climate Change"
+  },
+  {
+    "id": "CFT-0851",
+    "blurb": "A video segment on how tech companies engineer apps for compulsive use, unpacking the design tactics — sometimes called 'brain hacking' — behind the attention economy.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Likely the well-known segment on persuasive tech design, but the exact source and content aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0852",
+    "blurb": "A Real Time commentary segment likening social media's addictive design and health effects to those of nicotine, arguing both deserve comparable regulatory scrutiny.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0853",
+    "blurb": "A television interview clip with sociologist Sherry Turkle on how constant connectivity is reshaping solitude, conversation, and relationships.",
+    "tags": ["Social Media & Attention Economy", "Loneliness"],
+    "type_display": "Interview",
+    "confidence": "high",
+    "title_clean": "Sherry Turkle on The Colbert Report"
+  },
+  {
+    "id": "CFT-0854",
+    "blurb": "Jean Twenge's widely cited Atlantic cover essay arguing that the smartphone era has reshaped an entire generation's mental health, sociability, and coming-of-age experience.",
+    "tags": ["Gen Z", "Mental Health", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Have Smartphones Destroyed a Generation?"
+  },
+  {
+    "id": "CFT-0855",
+    "blurb": "Andrew Sullivan's personal essay on his own compulsive relationship with his phone, framing 'distraction sickness' as a broader cultural condition rather than an individual failing.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "My Distraction Sickness — and Yours"
+  },
+  {
+    "id": "CFT-0856",
+    "blurb": "An NPR piece reporting on research linking heavier social media use to greater feelings of loneliness, complicating the platforms' promise of connection.",
+    "tags": ["Loneliness", "Social Media & Attention Economy", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Feeling Lonely? Too Much Time On Social Media May Be Why"
+  },
+  {
+    "id": "CFT-0857",
+    "blurb": "A Hidden Brain podcast episode exploring the psychology of pleasure and reward — why some forms of pleasure satisfy while others leave us wanting more.",
+    "tags": ["Mental Health", "Social Media & Attention Economy"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "Episode content inferred from the show's format and title; the specific argument or guests aren't confirmable from the title alone.",
+    "title_clean": "The Paradox of Pleasure"
+  },
+  {
+    "id": "CFT-0858",
+    "blurb": "Meta's own 2017 response to public concern about social media's effects on wellbeing, arguing that how people use the platform matters more than how much they use it.",
+    "tags": ["Social Media & Attention Economy", "Digital Wellbeing", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Hard Questions: Is Spending Time on Social Media Bad for Us?"
+  },
+  {
+    "id": "CFT-0859",
+    "blurb": "A manifesto calling for 'slow media' — deliberate, quality-focused engagement with information — as a counter to the speed and volume of the always-on news and social cycle.",
+    "tags": ["Digital Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Manifesto",
+    "confidence": "high",
+    "title_clean": "The Slow Media Manifesto"
+  },
+  {
+    "id": "CFT-0860",
+    "blurb": "A New York Times opinion piece arguing that recommendation algorithms are actively engineering unhappiness in children by exploiting their attention for engagement.",
+    "tags": ["Youth Wellbeing", "Social Media & Attention Economy", "AI & Technology"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0861",
+    "blurb": "A New York Post article examining why Generation Z reports unusual difficulty forming and sustaining friendships, pointing to digital-first socializing as a driver.",
+    "tags": ["Gen Z", "Loneliness", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0862",
+    "blurb": "An article reporting that Gen Z shows more antisocial behavioral tendencies than the generation before it, tying the shift to changes in how young people socialize.",
+    "tags": ["Gen Z", "Mental Health", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Source is a lower-authority outlet summarizing a broader trend claim; specifics of the underlying research aren't given in the title."
+  },
+  {
+    "id": "CFT-0863",
+    "blurb": "Sherry Turkle's landmark TED talk arguing that technology designed to connect us is, paradoxically, leaving people more emotionally isolated than ever.",
+    "tags": ["Loneliness", "Social Media & Attention Economy"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0864",
+    "blurb": "A conversation between Daniel Schmachtenberger and Liv Boeree on AI misalignment and Moloch — the game-theoretic trap where competitive incentives push systems toward outcomes nobody actually wants.",
+    "tags": ["AI & Technology", "Systems Change", "Futures Thinking"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0865",
+    "blurb": "A talk by Daniel Schmachtenberger connecting the urgency of planetary-scale social and ecological change to the roots of the current mental health crisis.",
+    "tags": ["Systems Change", "Mental Health", "Futures Thinking"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0866",
+    "blurb": "A Center for Humane Technology podcast conversation with Daniel Schmachtenberger on the discipline of clearly defining a problem before attempting to solve it.",
+    "tags": ["Systems Change", "AI & Technology", "Futures Thinking"],
+    "type_display": "Podcast",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0867",
+    "blurb": "A peer-reviewed study examining the cumulative mental and emotional toll on children repeatedly exposed to news coverage of terrorism and violent threats.",
+    "tags": ["Academic Research", "Mental Health", "Trauma-Informed Care"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Mental and Emotional Health of Children Exposed to News Media of Threats and Acts of Terrorism: The Cumulative and Pervasive Effects"
+  },
+  {
+    "id": "CFT-0868",
+    "blurb": "Anne Helen Petersen's widely shared BuzzFeed essay diagnosing millennial burnout as a structural condition of economic precarity and constant self-optimization, not a personal failing.",
+    "tags": ["Economy & Wellbeing", "Mental Health", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0869",
+    "blurb": "A JAMA Pediatrics study finding that higher screen time at age one is associated with developmental delays in communication and problem-solving by ages two and four.",
+    "tags": ["Academic Research", "Youth Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Screen Time at Age 1 Year and Communication and Problem-Solving Developmental Delay at 2 and 4 Years"
+  },
+  {
+    "id": "CFT-0870",
+    "blurb": "A working notes document compiling research and sources on the relationship between social media use and mental health.",
+    "tags": ["Social Media & Attention Economy", "Mental Health"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Generic Google Doc title gives no detail on the specific sources or arguments compiled inside."
+  },
+  {
+    "id": "CFT-0871",
+    "blurb": "A working notes document tracking the rise of adolescent mood disorders since 2010, roughly coinciding with the spread of smartphones and social media.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Social Media & Attention Economy"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Notes-doc title implies a trend claim tied to 2010, but the specific data and sources compiled aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0872",
+    "blurb": "A Tribune essay arguing that doomscrolling isn't a personal failing but a predictable product of capitalism's demand for constant engagement and attention capture.",
+    "tags": ["Social Media & Attention Economy", "Economy & Wellbeing", "Systems Change"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0873",
+    "blurb": "A Pew Research Center report detailing how much time children spend on digital devices and how parents perceive and manage that screen time.",
+    "tags": ["Academic Research", "Youth Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Children's Engagement with Digital Devices, Screen Time"
+  },
+  {
+    "id": "CFT-0874",
+    "blurb": "A Statista data page quantifying how many app notifications the average US Gen Z smartphone user receives, illustrating the sheer density of daily digital interruption.",
+    "tags": ["Gen Z", "Social Media & Attention Economy"],
+    "type_display": "Data",
+    "confidence": "high",
+    "title_clean": "U.S. Gen Z Social App Notifications, 2023"
+  }
+]

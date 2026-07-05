@@ -1,0 +1,72 @@
+[
+  {
+    "id": "CFT-0933",
+    "blurb": "An explainer breaking down what \"solidarity economy\" actually means — an approach to economic life built on cooperation, mutualism, and shared ownership rather than competition and extraction.",
+    "tags": ["Economy & Wellbeing", "Systems Change", "Framework"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0934",
+    "blurb": "The hub site of the U.S. Solidarity Economy Network, connecting cooperatives, community land trusts, and mutual-aid initiatives working to build an economy rooted in solidarity rather than extraction.",
+    "tags": ["Economy & Wellbeing", "Systems Change", "Social Innovation"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0935",
+    "blurb": "An essay from the Malcolm X Grassroots Movement's Free the Land project framing solidarity economics as a vehicle for Black self-determination — building cooperative, community-controlled alternatives to extractive capitalism.",
+    "tags": ["Racial Equity", "Economy & Wellbeing", "Decolonial Thinking", "Systems Change"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title alone confirms the source organization and general topic; the specific framing around self-determination and cooperative ownership is inferred from context rather than stated directly in the title."
+  },
+  {
+    "id": "CFT-0936",
+    "title_clean": "Will the Revolution Be Funded?",
+    "blurb": "An essay for organizers examining the fraught relationship between social movements and philanthropic funding — asking whether transformative, revolutionary work can survive being financially dependent on the institutions it seeks to change.",
+    "tags": ["Philanthropy & Funding", "Systems Change", "Social Innovation"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title (echoing the well-known 'Revolution Will Not Be Funded' critique) strongly signals the topic, but the exact argument and examples are inferred rather than confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0937",
+    "title_clean": "About Doughnut Economics",
+    "blurb": "An overview of Kate Raworth's Doughnut Economics framework from the Doughnut Economics Action Lab — a model for an economy that meets everyone's needs within the ecological limits of the planet.",
+    "tags": ["Economy & Wellbeing", "Systems Change", "Framework"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0938",
+    "blurb": "Dasra's 2024 report mapping the state and trends of philanthropic giving in India, tracking where funding is flowing and where major gaps in social investment remain.",
+    "tags": ["Philanthropy & Funding", "Economy & Wellbeing", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0939",
+    "blurb": "A Monitor Mag piece exploring what a \"well-being economy\" would look like in practice — reorienting economic policy around human and ecological flourishing rather than GDP growth alone.",
+    "tags": ["Economy & Wellbeing", "Systems Change", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title is a vague 'insights into' framing; the specific policy argument and scope are inferred from the well-being-economy topic area rather than stated explicitly."
+  },
+  {
+    "id": "CFT-0940",
+    "title_clean": "Economic Inequality Seen as Major Challenge Around the World",
+    "blurb": "A 2025 Pew Research Center global survey finding that majorities across dozens of countries see economic inequality as a major challenge facing their nation, with sharp differences in how urgently people want their governments to act.",
+    "tags": ["Economy & Wellbeing", "Academic Research", "Civic Life"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0941",
+    "title_clean": "Views of Government's Role in Aiding the Poor, Health Care, and Social Security",
+    "blurb": "A Pew Research Center survey tracking how Americans' views on the government's responsibility to help the poor, provide health coverage, and fund Social Security have shifted — and where deep partisan divides remain.",
+    "tags": ["Economy & Wellbeing", "Civic Life", "Democracy", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  }
+]

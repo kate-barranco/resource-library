@@ -1,0 +1,180 @@
+[
+  {
+    "id": "CFT-1072",
+    "blurb": "The homepage of Civic Thriving, an initiative focused on strengthening civic health and community wellbeing -- included here as a resource hub rather than a single article.",
+    "tags": ["Civic Life", "Community Health"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Site content beyond the homepage isn't confirmable from the title/URL alone."
+  },
+  {
+    "id": "CFT-1073",
+    "title_clean": "Your Imagination Was Always Empire's Last Frontier",
+    "blurb": "A Substack essay arguing that colonial power has always worked by capturing and narrowing what people can imagine as possible, making collective imagination itself a site of liberation.",
+    "tags": ["Decolonial Thinking", "Collective Imagination"],
+    "type_display": "Article",
+    "confidence": "medium"
+  },
+  {
+    "id": "CFT-1074",
+    "blurb": "A hub for postnormal times theory -- Ziauddin Sardar's framework for thinking through an era defined by complexity, chaos, and contradictions where old certainties no longer hold.",
+    "tags": ["Futures Thinking", "Foresight Methodology"],
+    "type_display": "Resource Hub",
+    "confidence": "medium"
+  },
+  {
+    "id": "CFT-1075",
+    "blurb": "A Rithm Project report examining how young people's relationships with AI tools and companions are shaping their social development and sense of connection.",
+    "tags": ["AI & Technology", "Gen Z"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Hosted as a Google Drive PDF; full contents not independently verified beyond the title."
+  },
+  {
+    "id": "CFT-1076",
+    "blurb": "The 52nd edition of Harvard's long-running youth poll, tracking young Americans' political attitudes, trust in institutions, and outlook on the future.",
+    "tags": ["Gen Z", "Youth Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1077",
+    "title_clean": "The Futurism You Were Sold Was a Weapon",
+    "blurb": "Futurist Monika Bielskyte's critique of corporate and techno-utopian futurism, arguing that mainstream visions of the future have been weaponized to serve extraction and control rather than genuine possibility.",
+    "tags": ["Futures Thinking", "Decolonial Thinking"],
+    "type_display": "Article",
+    "confidence": "medium"
+  },
+  {
+    "id": "CFT-1078",
+    "blurb": "A report applying lessons from the UK's Big Local community-power initiative to the idea of 'civic rewilding' -- letting local civic life regenerate its own structures rather than importing them from outside.",
+    "tags": ["Civic Life", "Community Health"],
+    "type_display": "Report",
+    "confidence": "medium"
+  },
+  {
+    "id": "CFT-1079",
+    "blurb": "James Plunkett's Medium essay on how large institutions and systems lose vitality at their center even as innovation and energy persist at their margins.",
+    "tags": ["Systems Change"],
+    "type_display": "Article",
+    "confidence": "medium"
+  },
+  {
+    "id": "CFT-1080",
+    "blurb": "A video essay drawing a line from football stadium chants to techno club rituals, exploring why shared, embodied ritual still generates belonging in a fragmented culture.",
+    "tags": ["Ritual & Belonging"],
+    "type_display": "Video/Talk",
+    "confidence": "medium"
+  },
+  {
+    "id": "CFT-1081",
+    "blurb": "Bayo Akomolafe's essay reframing urgency itself as a colonial reflex, arguing that some of the most transformative responses to crisis require slowing down rather than rushing toward solutions.",
+    "tags": ["Decolonial Thinking", "Ritual & Belonging"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1082",
+    "blurb": "A Substack essay on the tension between Gen Z's strong stated moral commitments and the pressures of a culture and economy that make those commitments hard to live out consistently.",
+    "tags": ["Gen Z", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "medium"
+  },
+  {
+    "id": "CFT-1083",
+    "title_clean": "New Poll: Mental Health Challenges Prevalent Among Gen Z Youth",
+    "blurb": "A Blue Shield of California poll finding that more than three in four Gen Z youth have discussed their mental health struggles with someone else, underscoring both prevalence and growing openness.",
+    "tags": ["Gen Z", "Mental Health"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1084",
+    "blurb": "A United Way of the Bay Area survey on how Gen Z engages with activism and civic participation -- what motivates them, what discourages them, and where they see themselves making change.",
+    "tags": ["Gen Z", "Civic Life"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1085",
+    "blurb": "Deloitte's annual global survey of Gen Z and millennial attitudes toward work, money, climate, and mental health, tracked year over year across dozens of countries.",
+    "tags": ["Gen Z", "Intergenerational"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1086",
+    "blurb": "The workshop offerings page for generational historian Eliza Filby, who advises organizations on navigating generational change and intergenerational tension in the workplace.",
+    "tags": ["Leadership", "Intergenerational"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "This is a services/workshop listing page rather than a single piece of content; specific workshop content isn't confirmable from the URL alone."
+  },
+  {
+    "id": "CFT-1087",
+    "blurb": "Artefact's Tarot Cards of Tech is a foresight card deck and framework designed to help teams surface the unintended consequences of a new technology before they build it.",
+    "tags": ["Foresight Methodology", "Framework", "AI & Technology"],
+    "type_display": "Framework",
+    "confidence": "medium"
+  },
+  {
+    "id": "CFT-1088",
+    "blurb": "A widely-used open-source library of facilitation microstructures -- alternatives to standard meetings and brainstorms designed to include everyone and unleash a group's collective intelligence.",
+    "tags": ["Facilitation Tool", "Framework"],
+    "type_display": "Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1089",
+    "blurb": "A 2026 report on what makes experiences memorable and meaningful, examined here for what it suggests about designing moments of wonder and connection rather than routine ones.",
+    "tags": ["Collective Imagination"],
+    "type_display": "Report",
+    "confidence": "low",
+    "ambiguous_note": "Full authorship and methodology of this report aren't confirmable from the title and file path alone."
+  },
+  {
+    "id": "CFT-1090",
+    "blurb": "A Harvard Business Review piece arguing that how empathetically leaders roll out AI tools -- not just the tools themselves -- determines whether employees trust and adopt them.",
+    "tags": ["Leadership", "AI & Technology"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1091",
+    "blurb": "A Medium essay on how the IMAGINE initiative is trying to give a fragmented field a shared framework and common language for its work.",
+    "tags": ["Framework", "Systems Change"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "What field and what IMAGINE refers to specifically aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-1092",
+    "blurb": "An SF Chronicle opinion piece reporting on conversations with 100 young people about how they see AI shaping their futures -- their hopes, anxieties, and expectations.",
+    "tags": ["Gen Z", "AI & Technology"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1093",
+    "blurb": "A paper examining whether and how strategic foresight work can be treated as legitimate evidence within policymaking processes that are usually built around retrospective data.",
+    "tags": ["Foresight Methodology", "Policy Innovation"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Hosted as a shared LinkedIn document; full text not independently verified beyond the title."
+  },
+  {
+    "id": "CFT-1094",
+    "blurb": "An academic paper presenting a framework for classifying media content according to the models of masculinity it portrays, developed for use in gender-focused media research.",
+    "tags": ["Gender & Sexuality", "Framework"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Hosted as a Google Drive document; full methodology not independently verified beyond the title."
+  },
+  {
+    "id": "CFT-1095",
+    "blurb": "A Springer journal article that maps futures literacy -- the capacity to imagine and use the future -- as a structured space of competencies, building on UNESCO's futures literacy framework.",
+    "tags": ["Futures Thinking", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  }
+]

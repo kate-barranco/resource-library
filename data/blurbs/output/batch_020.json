@@ -1,0 +1,68 @@
+[
+  {
+    "id": "CFT-0596",
+    "blurb": "An NBC News piece on why 'The Color Purple' — across its novel, film, and musical incarnations — has served as a touchstone for Black healing even as it continues to stir debate within Black communities about how its story of trauma and survival should be told.",
+    "tags": ["Art & Healing", "Storytelling & Narrative", "Racial Equity"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0597",
+    "title_clean": "Tech Afrique Helps Heal Marginalized Communities Through Revolutionary Musical Collaborations",
+    "blurb": "A B Lab profile of Tech Afrique, an initiative pairing marginalized communities with musical collaboration as a means of collective healing and connection.",
+    "tags": ["Art & Healing", "Community Health", "Ritual & Belonging"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title and B Corp framing describe the initiative's purpose, but exact details of how 'Tech Afrique' operates aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0598",
+    "title_clean": "Read an Excerpt of Dust Child by Nguyễn Phan Quế Mai",
+    "blurb": "An excerpt from Dust Child, Nguyễn Phan Quế Mai's novel following the entangled lives of Vietnamese and American families reckoning with the lasting legacy of the Vietnam War.",
+    "tags": ["Art & Healing", "Storytelling & Narrative", "Historical Trauma"],
+    "type_display": "Book Excerpt",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0599",
+    "title_clean": "Celebrated Vietnamese Poet Nguyễn Phan Quế Mai's First Novel in English: An Excerpt from The Mountains Sing",
+    "blurb": "An excerpt from The Mountains Sing, Nguyễn Phan Quế Mai's debut English-language novel tracing one Vietnamese family's survival across decades of war, displacement, and upheaval.",
+    "tags": ["Art & Healing", "Storytelling & Narrative", "Historical Trauma"],
+    "type_display": "Book Excerpt",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0600",
+    "title_clean": "Life Is Hard. Art Helps. | Liana Finck",
+    "blurb": "A TED talk by cartoonist Liana Finck on how making and sharing art — even amid personal struggle — offers a way through hardship and toward connection.",
+    "tags": ["Art & Healing", "Mental Health", "Hope & Empowerment"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0601",
+    "title_clean": "Four Seasons Under One Sky: Arts as a Collective Approach to Creativity and Healing in South Africa",
+    "blurb": "A Wellbeing Project case study on a South African initiative that uses collective, seasonally-structured arts practice to support community creativity, connection, and healing.",
+    "tags": ["Art & Healing", "Community Health", "Ritual & Belonging"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0602",
+    "title_clean": "Art for a New Future: Spotlight on Free Lands Free Peoples",
+    "blurb": "A Justice Arts Coalition spotlight profiling Free Lands Free Peoples, part of a series highlighting artists and collectives who use creative practice to imagine and build toward a more just future.",
+    "tags": ["Art & Healing", "Collective Imagination", "Decolonial Thinking"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "Title identifies this as a spotlight profile from a June 2021 series, but the specific nature of 'Free Lands Free Peoples' isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0603",
+    "title_clean": "Save the Date: OUT BEYOND — A Musical Journey Into Transformation and Healing, May 23",
+    "blurb": "An event announcement from the Center for Healthy Minds for OUT BEYOND, a musical program framed as a collective journey through transformation and healing.",
+    "tags": ["Art & Healing", "Mental Health", "Ritual & Belonging"],
+    "type_display": "Event Announcement",
+    "confidence": "medium",
+    "ambiguous_note": "Title confirms this is an event announcement, but whether it's a live performance, workshop, or hybrid isn't specified."
+  }
+]

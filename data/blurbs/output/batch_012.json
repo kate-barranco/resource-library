@@ -1,0 +1,200 @@
+[
+  {
+    "id": "CFT-0290",
+    "title_clean": "Persevering Through Crisis: The State of Nonprofits",
+    "blurb": "A 2021 report from the Center for Effective Philanthropy surveying nonprofit leaders on how their organizations endured the pandemic's financial and operational strain — and what that resilience revealed about the sector's underlying fragility.",
+    "tags": ["Organizational Wellbeing", "Philanthropy & Funding", "Resilience"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Title and publisher (CEP) make the subject clear, but specific findings and survey methodology are inferred rather than confirmed."
+  },
+  {
+    "id": "CFT-0291",
+    "title_clean": "Foundations Respond to Crisis: A Moment of Transformation?",
+    "blurb": "A Center for Effective Philanthropy report tracking how foundations adjusted their grantmaking — loosening restrictions, increasing payout — amid the crises of 2020, and questioning whether those shifts will outlast the emergency that prompted them.",
+    "tags": ["Philanthropy & Funding", "Systems Change", "Organizational Wellbeing"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "General thrust is clear from CEP's known research on 2020 philanthropy, but exact data points aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0292",
+    "blurb": "A talk on why organizations resist investing in inner work — reflection, presence, self-awareness — and how leaders can build the internal case for making room for it.",
+    "tags": ["Embodied Leadership", "Organizational Wellbeing", "Leadership"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Title is descriptive but the speaker and specific framing of the argument aren't identifiable from the title alone."
+  },
+  {
+    "id": "CFT-0293",
+    "blurb": "An HBR analysis of research showing that organizations with positive, caring cultures see measurably higher engagement, performance, and employee wellbeing than those that prize competition and results alone.",
+    "tags": ["Organizational Wellbeing", "Economy & Wellbeing", "Leadership"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0294",
+    "blurb": "A B Corp community piece on how certified companies pair internal workplace strategies with local community partnerships to widen their social impact.",
+    "tags": ["Organizational Wellbeing", "Social Innovation", "Community Health"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates the general theme of B Corp workplace and community practices, but specific companies or examples cited aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0295",
+    "blurb": "An entry in a leadership-skills series exploring authenticity as a core, learnable capacity for leaders trying to build trust and show up honestly at work.",
+    "tags": ["Leadership", "Embodied Leadership", "Organizational Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title confirms the topic (authenticity in leadership) but this is one entry in a series, so surrounding context is inferred."
+  },
+  {
+    "id": "CFT-0296",
+    "blurb": "A Wellbeing Project reflection distilling seven lessons on how attending to inner mental health and healing can strengthen the outer work of social change and peacebuilding.",
+    "tags": ["Mental Health", "Embodied Leadership", "Social Innovation"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0297",
+    "blurb": "A look at how B Corp-certified companies build worker wellness into their business models, treating employee wellbeing as a driver of stronger business outcomes rather than a cost center.",
+    "tags": ["Organizational Wellbeing", "Community Health", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "General theme is clear, but specific practices or company examples aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0298",
+    "blurb": "A Ms. Magazine piece arguing that sexual and reproductive healthcare providers — who face escalating threats and violence for their work — should be formally recognized and protected as human rights defenders.",
+    "tags": ["Reproductive Justice", "Human Rights", "Gender & Sexuality"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0299",
+    "blurb": "A TED talk making the case that regular reflection — pausing to process experience rather than just accumulating it — is an underrated habit that can accelerate learning and career growth.",
+    "tags": ["Leadership", "Embodied Leadership", "Organizational Wellbeing"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0300",
+    "title_clean": "The New Reason to Work: How to Build a Career That Will Change the World",
+    "blurb": "A book arguing that meaningful, world-changing work is available across every sector and career stage, and offering a practical framework for building a career around impact rather than prestige alone.",
+    "tags": ["Leadership", "Social Innovation", "Economy & Wellbeing"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0301",
+    "title_clean": "Leading from Within: Conscious Social Change and Mindfulness for Social Innovation",
+    "blurb": "A book arguing that mindfulness and inner awareness are essential — not peripheral — capacities for social innovators, since the quality of a leader's inner life shapes the change they're able to create.",
+    "tags": ["Embodied Leadership", "Social Innovation", "Leadership"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0302",
+    "title_clean": "New Work Needs Inner Work: Ein Handbuch für Unternehmen auf dem Weg zur Selbstorganisation",
+    "blurb": "A German-language handbook for organizations moving toward self-organization, arguing that structural change (New Work) can't succeed without a parallel commitment to employees' inner development.",
+    "tags": ["Embodied Leadership", "Organizational Wellbeing", "Leadership"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0303",
+    "blurb": "A Spanish-language Wellbeing Project piece on how business leaders can respond to the mental health crisis affecting their organizations, framing wellbeing as a leadership responsibility rather than an individual problem.",
+    "tags": ["Mental Health", "Leadership", "Organizational Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0304",
+    "blurb": "A TEDx talk in which Joana Breidenbach argues that the New Work movement's push toward flatter, self-organized structures only succeeds when paired with employees' inner, personal development.",
+    "tags": ["Embodied Leadership", "Organizational Wellbeing", "Leadership"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0305",
+    "blurb": "A TEDx talk by Andreas Rickert making the case for civil society's urgent, present-tense relevance — that its power lies not in some future promise but in what it can do right now.",
+    "tags": ["Civic Life", "Social Innovation", "Leadership"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker and general theme (civil society's present relevance) are clear from the title, but the specific argument and examples used are inferred."
+  },
+  {
+    "id": "CFT-0306",
+    "blurb": "A Spanish-language TEDx talk by Mercedes Viola on building an education system that genuinely includes everyone, regardless of background or ability.",
+    "tags": ["Identity & Culture", "Social Innovation", "Youth Co-Design"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Title translates clearly ('Education includes us all'), but the specific inclusion framework or population it centers isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0307",
+    "blurb": "A Forbes piece making the case that nonprofit organizations — often prone to burnout culture — should offer staff sabbaticals, with practical guidance on how to structure and fund them.",
+    "tags": ["Organizational Wellbeing", "Resilience", "Leadership"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0308",
+    "blurb": "A Fast Company piece arguing that neurodivergent people bring distinct strengths to leadership roles, pushing back on workplaces that only value them as individual contributors.",
+    "tags": ["Leadership", "Identity & Culture", "Organizational Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0309",
+    "blurb": "A guide compiling transformative or inner-development skills relevant to leadership and organizational life, likely intended as a practical reference rather than a single argument or narrative.",
+    "tags": ["Leadership", "Embodied Leadership", "Facilitation Tool"],
+    "type_display": "Guide",
+    "confidence": "low",
+    "ambiguous_note": "Title is generic ('Transformative Skills Guide') with no indication of author, audience, or specific skills covered; content is inferred mainly from its category placement."
+  },
+  {
+    "id": "CFT-0310",
+    "blurb": "A framework from Mind Forward Alliance (formerly the City Mental Health Alliance) outlining what organizations need to put in place — culture, systems, leadership behavior — for employees to genuinely thrive at work.",
+    "tags": ["Organizational Wellbeing", "Mental Health", "Framework"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0311",
+    "blurb": "A Substack piece questioning the popular narrative that Gen Z has a uniquely poor work ethic, and asking whether the real shift is generational values rather than generational deficiency.",
+    "tags": ["Gen Z", "Organizational Wellbeing", "Intergenerational"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title signals a contrarian take on the 'Gen Z work ethic' narrative, but the specific argument and evidence used are inferred."
+  },
+  {
+    "id": "CFT-0312",
+    "blurb": "A LinkedIn post breaking down what different generations in today's workforce say they need to achieve work-life balance.",
+    "tags": ["Intergenerational", "Organizational Wellbeing", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "A short LinkedIn post with a generic title; the exact framework, source, and depth of content can't be confirmed without viewing the post itself."
+  },
+  {
+    "id": "CFT-0313",
+    "blurb": "An SSIR piece on how public-sector employers need to rethink workplace culture — flexibility, purpose, growth — if they want to compete for Gen Z talent against the private sector.",
+    "tags": ["Gen Z", "Organizational Wellbeing", "Civic Life"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0314",
+    "blurb": "A Forbes report on research finding that most standard corporate wellbeing programs — apps, webinars, resilience training — had no measurable effect on employee mental health, suggesting the problem lies in job design itself rather than individual coping tools.",
+    "tags": ["Mental Health", "Organizational Wellbeing", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0315",
+    "blurb": "A trend piece on 'micro-retiring' — Gen Z workers taking short, deliberate career breaks throughout their working lives rather than waiting for one retirement at the end — as a mental health strategy.",
+    "tags": ["Gen Z", "Mental Health", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

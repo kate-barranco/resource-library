@@ -1,0 +1,342 @@
+[
+  {
+    "id": "CFT-0423",
+    "title_clean": "The Effects of the 1930s HOLC \"Redlining\" Maps",
+    "blurb": "A Federal Reserve working paper using newly digitized HOLC redlining maps to trace how 1930s-era racial exclusion from mortgage credit shaped neighborhood-level economic outcomes for decades afterward.",
+    "tags": ["Racial Equity", "Historical Trauma", "Economy & Wellbeing"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0424",
+    "blurb": "A United Nations Human Rights Council record of its 2020 decision to hold an urgent debate on systemic racism, police brutality, and the violent suppression of protests against racial injustice, prompted by the killing of George Floyd.",
+    "tags": ["Human Rights", "Racial Equity", "Civic Life"],
+    "type_display": "Press Release",
+    "confidence": "medium",
+    "ambiguous_note": "Title is a literal council-session heading rather than a summary; the exact scope of the resulting debate isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0425",
+    "blurb": "Coverage of the FDA's decision to grant Breakthrough Therapy status to MDMA-assisted psychotherapy for PTSD, a milestone in the Phase 3 clinical trials run by the Multidisciplinary Association for Psychedelic Studies.",
+    "tags": ["Healing Practice", "Trauma-Informed Care", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0426",
+    "blurb": "A Brookings research paper documenting the rise of \"deaths of despair\" — suicide, drug overdose, and alcohol-related illness — among midlife Americans, and what it reveals about the erosion of economic and social stability.",
+    "tags": ["Economy & Wellbeing", "Community Health", "Mental Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0427",
+    "blurb": "Anne Case and Angus Deaton's book tracing how declining wages, eroding institutions, and the loss of stable work have driven a rising tide of despair-related deaths among working-class white Americans, and what it implies for capitalism's future.",
+    "tags": ["Economy & Wellbeing", "Community Health", "Resilience"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0428",
+    "blurb": "The original PNAS study by Case and Deaton documenting a startling reversal — rising midlife mortality among white non-Hispanic Americans, driven by suicide, substance abuse, and chronic liver disease — that reframed how researchers think about despair and inequality.",
+    "tags": ["Economy & Wellbeing", "Community Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0429",
+    "title_clean": "How Redlining's Racist Effects Lasted for Decades",
+    "blurb": "A New York Times analysis of research showing how 1930s federal redlining maps continued to shape neighborhood poverty, segregation, and opportunity generations after the practice was formally outlawed.",
+    "tags": ["Racial Equity", "Historical Trauma"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0430",
+    "blurb": "An account of the famous Rat Park experiments, which challenged the chemical-hook theory of addiction by showing that rats given rich social and physical environments largely rejected morphine that isolated, caged rats consumed compulsively.",
+    "tags": ["Healing Practice", "Community Health"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Sourced from a Wikipedia overview rather than the original studies, so framing reflects the popular summary of the experiments."
+  },
+  {
+    "id": "CFT-0431",
+    "blurb": "A systematic review of the evidence on intergenerational trauma transmission within refugee families, examining how displacement, violence, and loss ripple across generations.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Human Rights"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0432",
+    "blurb": "A study examining whether combat trauma passes from veteran parents to their children, testing the evidence for intergenerational transmission of PTSD-related distress.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Mental Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0433",
+    "blurb": "A study of Ukrainian Holodomor survivors' descendants exploring how the trauma of the 1932-1933 famine-genocide was transmitted across generations as a lasting \"survival mode\" orientation toward scarcity and threat.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0434",
+    "blurb": "A Center for American Progress report linking mass incarceration to elevated stress and infant mortality in Black communities, framing the pattern as a structural-racism health outcome rather than an individual one.",
+    "tags": ["Racial Equity", "Historical Trauma", "Community Health"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0435",
+    "blurb": "A landmark economics paper tracing how childhood socioeconomic status shapes health trajectories over a lifetime, showing that the health gradient by income widens rather than narrows as children age.",
+    "tags": ["Economy & Wellbeing", "Intergenerational Trauma", "Community Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0436",
+    "blurb": "An academic chapter examining how the Holocaust's trauma persists in the memory and identity of survivors' descendants, contributing to the broader literature on intergenerational transmission of historical atrocity.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Title is generic and the source book/chapter context isn't confirmable beyond the publisher listing."
+  },
+  {
+    "id": "CFT-0437",
+    "blurb": "A TIME analysis of data showing residential segregation has intensified rather than eased in recent decades, and how that persistent divide continues to widen the wealth gap between Black and white Americans.",
+    "tags": ["Racial Equity", "Economy & Wellbeing", "Historical Trauma"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0438",
+    "blurb": "William Darity Jr. and A. Kirsten Mullen's comprehensive case for reparations, laying out the economic history of slavery, segregation, and discrimination that produced today's racial wealth gap and proposing a path to close it.",
+    "tags": ["Racial Equity", "Historical Trauma", "Policy Innovation"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0439",
+    "title_clean": "The Inner Work of Racial Justice: Healing Ourselves and Transforming Our Communities Through Mindfulness",
+    "blurb": "Rhonda Magee's book bringing mindfulness practice to the work of racial justice, arguing that healing our own conditioned biases is inseparable from transforming the systems that perpetuate racism.",
+    "tags": ["Racial Equity", "Healing Practice", "Somatics & Embodiment"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0440",
+    "title_clean": "Dying of Whiteness: How the Politics of Racial Resentment Is Killing America's Heartland",
+    "blurb": "Jonathan Metzl's book showing how policies built on racial resentment — from gun deregulation to health-care rollbacks — end up harming the very white communities they're meant to protect, and makes the case for cooperation over supremacy.",
+    "tags": ["Racial Equity", "Community Health", "Economy & Wellbeing"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0441",
+    "title_clean": "Who Is Dying, and Why?",
+    "blurb": "A Harvard Center for Ethics report examining the racial and economic disparities in COVID-19 mortality, asking what the pandemic's uneven toll reveals about structural inequality in American health and society.",
+    "tags": ["Racial Equity", "Community Health", "Historical Trauma"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Author list and Harvard Ethics Center source suggest a pandemic-mortality-disparities report, but the exact scope isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0442",
+    "blurb": "The website for the Collective Trauma Summit, an annual online conference bringing together practitioners and thinkers to explore how societies can recognize and heal shared historical wounds.",
+    "tags": ["Healing Practice", "Historical Trauma", "Community Health"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0443",
+    "blurb": "The homepage of the Pocket Project, a global initiative that trains practitioners and builds community infrastructure for recognizing and healing collective trauma in families, communities, and societies.",
+    "tags": ["Healing Practice", "Historical Trauma", "Community Health"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "The organization's specific programs and approach are inferred from its name and general positioning rather than confirmed page content."
+  },
+  {
+    "id": "CFT-0444",
+    "title_clean": "Healing Collective Trauma: A Process for Integrating Our Intergenerational and Cultural Wounds",
+    "blurb": "Thomas Hübl's book laying out a framework for recognizing and integrating collective trauma passed down through families, cultures, and history, offered as both diagnosis and healing practice.",
+    "tags": ["Historical Trauma", "Healing Practice", "Intergenerational Trauma"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0445",
+    "blurb": "The Garrison Institute's homepage, describing its mission to apply contemplative practice to pressing social and environmental challenges, on the belief that compassionate, effective action requires inner cultivation.",
+    "tags": ["Healing Practice", "Somatics & Embodiment", "Resilience"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0446",
+    "title_clean": "It Didn't Start With You: The Mystery of Inherited Trauma",
+    "blurb": "A Psychology Today piece exploring the growing evidence that trauma can be passed down biologically and behaviorally across generations, and what that means for how we understand inherited suffering.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0447",
+    "blurb": "A TIME roundup of the many documented pathways — from policing to housing to healthcare — through which institutional racism shortens and endangers Black lives in America.",
+    "tags": ["Racial Equity", "Community Health", "Historical Trauma"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0448",
+    "blurb": "A New York Times Magazine feature (part of the 1619 Project) using Atlanta's highway system as a lens on how mid-century infrastructure decisions were used to enforce racial segregation, with consequences still felt in daily commutes today.",
+    "tags": ["Racial Equity", "Historical Trauma", "Civic Life"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0449",
+    "blurb": "An NPR report on a study finding that the racial groups most exposed to air pollution are disproportionately not the ones producing it — a stark illustration of environmental injustice in consumption and harm.",
+    "tags": ["Racial Equity", "Climate Justice", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0450",
+    "blurb": "An Annual Review of Public Health paper laying out the evidence linking environmental hazards to racial and socioeconomic health inequalities, and framing environmental justice as a public health imperative.",
+    "tags": ["Climate Justice", "Racial Equity", "Community Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0451",
+    "blurb": "The CDC's Health Disparities and Inequalities Report, a national data compilation tracking gaps in health outcomes, access, and risk factors across racial, economic, and geographic lines.",
+    "tags": ["Racial Equity", "Community Health", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0452",
+    "blurb": "David Treleaven's resource on trauma-sensitive mindfulness, a modified approach to meditation and mindfulness instruction designed to avoid re-traumatizing practitioners with trauma histories.",
+    "tags": ["Trauma-Informed Care", "Somatics & Embodiment", "Healing Practice"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0453",
+    "title_clean": "Trauma-Sensitive Mindfulness: Practices for Safe and Transformative Healing",
+    "blurb": "David Treleaven's book offering clinicians and meditation teachers a practical framework for adapting mindfulness instruction so it supports rather than destabilizes people carrying trauma.",
+    "tags": ["Trauma-Informed Care", "Somatics & Embodiment", "Healing Practice"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0454",
+    "title_clean": "The Pandemic Experts Are Not Okay",
+    "blurb": "Ed Yong's Atlantic reporting on the burnout facing American public-health experts as the coronavirus surged back, capturing the psychological toll of sustained crisis leadership.",
+    "tags": ["Mental Health", "Community Health", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0455",
+    "title_clean": "Deemed Essential, California Farmworkers Risk Disease and Deportation",
+    "blurb": "A PBS NewsHour report on California farmworkers deemed essential during the pandemic yet left to face illness, economic hardship, and the threat of deportation without adequate protection.",
+    "tags": ["Human Rights", "Community Health", "Racial Equity"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0456",
+    "blurb": "A WBUR report on formerly incarcerated Floridians voting for the first time after the state restored their rights, capturing what re-enfranchisement means for people long excluded from civic life.",
+    "tags": ["Civic Life", "Democracy", "Racial Equity"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0457",
+    "blurb": "The homepage of the Florida Rights Restoration Coalition, an organization working to restore voting rights to people with past felony convictions and end their political disenfranchisement.",
+    "tags": ["Civic Life", "Democracy", "Racial Equity"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0458",
+    "title_clean": "Target Reopens Longfellow Minneapolis Store Looted in 2020 George Floyd Protests",
+    "blurb": "A Bloomberg report on the reopening of the Minneapolis Target store damaged during the 2020 protests following George Floyd's murder, marking a moment of community rebuilding after upheaval.",
+    "tags": ["Civic Life", "Racial Equity", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0459",
+    "title_clean": "Coal Miners' Struggle Against Black Lung Is a Climate Justice Issue",
+    "blurb": "A Jacobin essay by Trish Kahle arguing that Appalachian coal miners fighting black lung disease belong at the center of climate justice organizing, not on its margins.",
+    "tags": ["Climate Justice", "Economy & Wellbeing", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0460",
+    "blurb": "A Harvard Business Publishing Education piece arguing that teaching through crisis demands educators fundamentally rethink their approach, treating trauma-awareness as central to the classroom rather than incidental to it.",
+    "tags": ["Trauma-Informed Care", "Resilience", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Note frames this around healing and education, but the specific pedagogical mindset described isn't fully confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0461",
+    "title_clean": "Why Obama Fears for Our Democracy",
+    "blurb": "An Atlantic interview-driven piece in which Barack Obama voices his concerns about the fragility of American democracy amid deepening polarization and institutional strain.",
+    "tags": ["Democracy", "Civic Life", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0462",
+    "title_clean": "Martin Luther King Jr.'s Riverside Church Speeches, 1961-1967",
+    "blurb": "A Stanford King Institute archive of Martin Luther King Jr.'s speeches at Riverside Church, including his landmark 1967 address connecting the Vietnam War to racism and poverty at home.",
+    "tags": ["Civic Life", "Human Rights", "Storytelling & Narrative"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0463",
+    "title_clean": "Martin Luther King, Jr. Research & Education Institute",
+    "blurb": "The homepage of Stanford's King Institute, which archives and interprets Martin Luther King Jr.'s writings and speeches to advance research and education on his life and legacy.",
+    "tags": ["Civic Life", "Human Rights", "Racial Equity"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0464",
+    "title_clean": "Martin Luther King Jr., 1967: 'My Dream Has Turned Into a Nightmare' (Full Interview)",
+    "blurb": "A 1967 filmed interview in which Martin Luther King Jr. reflects, with striking candor, on how far the country still was from realizing the dream he had articulated years earlier.",
+    "tags": ["Civic Life", "Human Rights", "Historical Trauma"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0465",
+    "title_clean": "Racial Justice Project (New York Law School)",
+    "blurb": "The homepage of New York Law School's Racial Justice Project, a legal advocacy initiative defending civil rights and raising awareness of racism in education, employment, political participation, and criminal justice.",
+    "tags": ["Human Rights", "Racial Equity", "Policy Innovation"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0466",
+    "title_clean": "How Trump Won the Unhappiness Vote",
+    "blurb": "A Stanford HAI piece on research showing that psychological well-being — not just economic or ideological factors — shapes how people vote, linking collective distress to the 2016 election outcome.",
+    "tags": ["Mental Health", "Democracy", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0467",
+    "blurb": "A panel discussion examining the ethical dimensions of \"The Social Dilemma\" and how social media's attention-driven design contributes to collective psychological distress and public health harm.",
+    "tags": ["AI & Technology", "Social Media & Attention Economy", "Digital Wellbeing", "Mental Health"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Title suggests a panel tied to the 'Social Dilemma' documentary, but the specific panelists and framing aren't confirmable from the title alone."
+  }
+]

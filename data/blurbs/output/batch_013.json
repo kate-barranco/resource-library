@@ -1,0 +1,351 @@
+[
+  {
+    "id": "CFT-0320",
+    "blurb": "A resource from the Center for Healthy Minds outlining practices for healing intergenerational trauma, grounded in contemplative science and community-based approaches to wellbeing.",
+    "tags": ["Intergenerational Trauma", "Healing Practice", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title suggests a practice-oriented resource on intergenerational trauma healing, but the exact format (article, program page, or guide) isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0321",
+    "blurb": "WHO's flagship global survey of mental health systems, mapping policy, financing, workforce, and service availability across the world's countries.",
+    "tags": ["Mental Health", "Policy Innovation", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0322",
+    "blurb": "A Lancet Western Pacific analysis documenting how the COVID-19 pandemic widened existing gaps in access to mental health services.",
+    "tags": ["Mental Health", "Community Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0323",
+    "blurb": "A study quantifying the scale and economic cost of mental disorders worldwide, making the case for greater investment in mental health systems.",
+    "tags": ["Mental Health", "Economy & Wellbeing", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Quantifying the global burden of mental disorders and their economic value"
+  },
+  {
+    "id": "CFT-0324",
+    "blurb": "A USAID evidence brief on adapting global mental health interventions to fit local cultural, social, and institutional contexts.",
+    "tags": ["Mental Health", "Policy Innovation", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates a brief on contextualizing interventions, but specific findings or scope aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0325",
+    "blurb": "A USAID brief examining what trauma-informed practice looks like when applied across global mental health programming.",
+    "tags": ["Trauma-Informed Care", "Mental Health", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Trauma-Informed Approaches in Global Mental Health"
+  },
+  {
+    "id": "CFT-0326",
+    "blurb": "A USAID overview of how mental health research is conducted and applied within humanitarian and international development settings.",
+    "tags": ["Mental Health", "Academic Research", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Mental Health Research in Humanitarian and Development Settings"
+  },
+  {
+    "id": "CFT-0327",
+    "blurb": "A USAID evidence brief examining the inconsistent terminology used to describe mental health across disciplines, cultures, and professional fields.",
+    "tags": ["Mental Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0328",
+    "blurb": "A companion USAID brief cataloguing the differing terms and frameworks professionals use to talk about and address mental health globally.",
+    "tags": ["Mental Health", "Framework", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Likely part of a USAID evidence-brief series alongside related terminology pieces, but the exact relationship and content depth aren't confirmable from the title alone.",
+    "title_clean": "Terms and Approaches to Address Mental Health"
+  },
+  {
+    "id": "CFT-0329",
+    "blurb": "A USAID evidence brief tracing how mental health itself has been conceptualized differently across cultures, disciplines, and historical periods.",
+    "tags": ["Mental Health", "Framework", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Part of a USAID evidence-brief series; precise argument and scope inferred from the title rather than confirmed text.",
+    "title_clean": "Conceptualization of Mental Health"
+  },
+  {
+    "id": "CFT-0330",
+    "blurb": "A USAID evidence brief laying out the ethical principles that should guide mental health research and programming in global settings.",
+    "tags": ["Mental Health", "Human Rights", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0331",
+    "blurb": "A companion USAID brief comparing how ethical principles for mental health work are defined and applied across different professional disciplines.",
+    "tags": ["Mental Health", "Human Rights", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Likely paired with the Ethical Principles evidence brief in the same USAID series; exact content inferred from the title.",
+    "title_clean": "Ethical Principles Across Professions"
+  },
+  {
+    "id": "CFT-0332",
+    "blurb": "A USAID review of the mental health treatment models and approaches being used across countries in the Global South.",
+    "tags": ["Mental Health", "Policy Innovation", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0333",
+    "blurb": "USAID's formal position paper laying out its strategy and commitments for integrating mental health into its global development work.",
+    "tags": ["Mental Health", "Policy Innovation", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0334",
+    "blurb": "A USAID-catalogued study examining how stigma and discrimination shape the design and effectiveness of mental health programs worldwide.",
+    "tags": ["Mental Health", "Human Rights", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0335",
+    "blurb": "WHO's landmark World Mental Health Report, calling for a fundamental transformation in how societies understand, protect, and care for mental health for all.",
+    "tags": ["Mental Health", "Policy Innovation", "Human Rights"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0336",
+    "blurb": "A WHO scientific brief summarizing the earliest evidence on how the COVID-19 pandemic affected mental health worldwide.",
+    "tags": ["Mental Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0337",
+    "blurb": "A landmark Lancet study estimating how the COVID-19 pandemic drove a sharp global rise in depressive and anxiety disorders across 204 countries.",
+    "tags": ["Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Global prevalence and burden of depressive and anxiety disorders in 204 countries and territories in 2020 due to the COVID-19 pandemic"
+  },
+  {
+    "id": "CFT-0338",
+    "blurb": "A Global Burden of Disease systematic analysis mapping the scale of 12 mental disorders across 204 countries and territories from 1990 to 2019.",
+    "tags": ["Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Global, regional, and national burden of 12 mental disorders in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019"
+  },
+  {
+    "id": "CFT-0339",
+    "blurb": "A study examining how democratic backsliding in OECD nations poses risks to public health outcomes and institutions.",
+    "tags": ["Democracy", "Community Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Backsliding Among Indicators of Democratic Stability Relevant to Public Health: Risks in OECD Nations"
+  },
+  {
+    "id": "CFT-0340",
+    "blurb": "A PMC-published analysis reimagining global mental health practice in light of how COVID-19 affected low- and middle-income countries.",
+    "tags": ["Mental Health", "Policy Innovation", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "COVID-19 mental health impact and responses in low-income and middle-income countries: reimagining global mental health"
+  },
+  {
+    "id": "CFT-0341",
+    "blurb": "A rapid review examining how COVID-19 policies and restrictions produced mental distress and human rights violations among vulnerable populations.",
+    "tags": ["Mental Health", "Human Rights", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0342",
+    "blurb": "A call-to-action paper framing pandemic-era mental health inequalities through the lens of syndemic theory — where social vulnerability and disease interact and compound.",
+    "tags": ["Mental Health", "Community Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Social Vulnerability and Mental Health Inequalities in the \"Syndemic\": Call for Action"
+  },
+  {
+    "id": "CFT-0343",
+    "blurb": "An empirical study modeling how overlapping marginalized identities compound discrimination and its toll on mental health.",
+    "tags": ["Mental Health", "Identity & Culture", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Marginalized identities, discrimination burden, and mental health: Empirical exploration of an interpersonal-level approach to modeling intersectionality"
+  },
+  {
+    "id": "CFT-0344",
+    "blurb": "A systematic review and meta-analysis establishing the link between food insecurity and poor mental health outcomes.",
+    "tags": ["Mental Health", "Community Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Food insecurity and mental health: a systematic review and meta-analysis"
+  },
+  {
+    "id": "CFT-0345",
+    "blurb": "An article outlining how social determinants of health shaped disproportionate COVID-19 impacts on marginalized populations.",
+    "tags": ["Community Health", "Racial Equity", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0346",
+    "blurb": "The World Economic Forum's annual mapping of the most severe global risks over the coming decade, from environmental collapse to social fragmentation.",
+    "tags": ["Futures Thinking", "Foresight Methodology", "Systems Change"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0347",
+    "blurb": "The 18th edition of the World Economic Forum's annual risk landscape, tracking how converging crises are reshaping the next decade's threats.",
+    "tags": ["Futures Thinking", "Foresight Methodology", "Systems Change"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "The Global Risks Report 2023"
+  },
+  {
+    "id": "CFT-0348",
+    "blurb": "An academic paper applying syndemic theory — the study of interacting epidemics and social conditions — to deepen understanding of severe mental illness.",
+    "tags": ["Mental Health", "Academic Research", "Community Health"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0349",
+    "blurb": "A policy brief arguing for mental health's explicit inclusion in the UN's 2030 Sustainable Development Agenda.",
+    "tags": ["Mental Health", "Policy Innovation", "Systems Change"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0350",
+    "blurb": "A Nature study showing that pairing psychosocial support with capital transfers produces more durable poverty reduction than either intervention alone.",
+    "tags": ["Economy & Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Title and journal context strongly suggest a psychosocial-plus-capital poverty intervention study, but the specific study population and design aren't confirmable without the full text.",
+    "title_clean": "Tackling psychosocial and capital constraints to alleviate poverty"
+  },
+  {
+    "id": "CFT-0351",
+    "blurb": "A UNICEF cost-benefit analysis making the economic case for investing in mental health and psychosocial support programs within school systems worldwide.",
+    "tags": ["Mental Health", "Youth Wellbeing", "Economy & Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0352",
+    "blurb": "A Harvard Medical School news piece reporting on research finding that roughly half of the global population will experience a mental health disorder in their lifetime.",
+    "tags": ["Mental Health", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Half of World's Population Will Experience a Mental Health Disorder"
+  },
+  {
+    "id": "CFT-0353",
+    "blurb": "A United Nations Chronicle piece assessing global mental health in the aftermath of COVID-19 and progress made under WHO's Special Initiative for Mental Health.",
+    "tags": ["Mental Health", "Policy Innovation", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "The State of Mental Health Globally in the Wake of the COVID-19 Pandemic and Progress on the WHO Special Initiative for Mental Health (2019-2023)"
+  },
+  {
+    "id": "CFT-0354",
+    "blurb": "A World Economic Forum and Harvard analysis quantifying the massive economic toll that non-communicable diseases, including mental disorders, impose globally.",
+    "tags": ["Economy & Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0355",
+    "blurb": "A Human Rights Watch investigation documenting the shackling and confinement of people with psychosocial disabilities in institutions and homes worldwide.",
+    "tags": ["Human Rights", "Mental Health", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Living in Chains: Shackling of People with Psychosocial Disabilities Worldwide"
+  },
+  {
+    "id": "CFT-0356",
+    "blurb": "An OHCHR resource laying out the international human rights standards that protect the right to physical and mental health.",
+    "tags": ["Human Rights", "Mental Health", "Policy Innovation"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Page format (standards overview vs. compiled resource hub) inferred from URL structure rather than confirmed content.",
+    "title_clean": "International standards on the right to physical and mental health"
+  },
+  {
+    "id": "CFT-0357",
+    "blurb": "A Lancet Global Health editorial arguing for mental health to be treated as a global health priority, not an afterthought.",
+    "tags": ["Mental Health", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Mental health matters"
+  },
+  {
+    "id": "CFT-0358",
+    "blurb": "An academic review outlining what it means to design mental health policy and care around human rights principles rather than purely clinical ones.",
+    "tags": ["Human Rights", "Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Human Rights-Based Approaches to Mental Health"
+  },
+  {
+    "id": "CFT-0359",
+    "blurb": "USAID's policy framework for strengthening the capacity and leadership of local organizations within its global development partnerships.",
+    "tags": ["Policy Innovation", "Philanthropy & Funding"],
+    "type_display": "Report",
+    "confidence": "low",
+    "ambiguous_note": "Title points to a general USAID localization/capacity-strengthening policy rather than a mental-health-specific document; its relevance to the Global Mental Health Research category is unclear from the title alone."
+  },
+  {
+    "id": "CFT-0360",
+    "blurb": "The annual World Happiness Report ranking countries by subjective wellbeing and examining the social and economic conditions that support human flourishing.",
+    "tags": ["Economy & Wellbeing", "Hope & Empowerment", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "World Happiness Report"
+  },
+  {
+    "id": "CFT-0361",
+    "blurb": "An India Development Review piece examining whether India's mental healthcare system is equipped to address the psychological toll of Islamophobia.",
+    "tags": ["Mental Health", "Identity & Culture", "Human Rights"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Can India's mental healthcare system address Islamophobia?"
+  },
+  {
+    "id": "CFT-0362",
+    "blurb": "A USDA Economic Research Service summary linking food insecurity to higher rates of chronic disease among working-age adults.",
+    "tags": ["Community Health", "Economy & Wellbeing", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0363",
+    "blurb": "A widely cited review synthesizing 35 years of research on burnout, tracing how the concept evolved and what the evidence says about its causes and remedies.",
+    "tags": ["Mental Health", "Organizational Wellbeing", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high",
+    "title_clean": "Burnout: 35 Years of Research and Practice"
+  },
+  {
+    "id": "CFT-0364",
+    "blurb": "A Wellbeing Project report exploring the 'invisible factor' of inner wellbeing among social change leaders and the personal toll of sustaining activist and nonprofit work.",
+    "tags": ["Organizational Wellbeing", "Leadership", "Mental Health"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Bilingual title and org focus point to a report on changemakers' inner wellbeing, but exact content and format aren't confirmable from the title alone.",
+    "title_clean": "El Factor Invisible / The Invisible Factor"
+  }
+]

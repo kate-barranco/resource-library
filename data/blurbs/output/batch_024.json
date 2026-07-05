@@ -1,0 +1,125 @@
+[
+  {
+    "id": "CFT-0756",
+    "title_clean": "We're Divorcing Like It's 1959: The Divorce Rate Is Falling, But So Is the Rate of Americans Saying 'I Do.'",
+    "blurb": "An analysis showing the falling US divorce rate isn't a sign of healthier marriages — it's a sign that fewer Americans are marrying in the first place.",
+    "tags": ["Gen Z", "Identity & Culture", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0757",
+    "blurb": "A newsletter roundup on how Gen Z's relationship to school is shifting, from K-12 disengagement to rising skepticism about the value of a four-year degree.",
+    "tags": ["Gen Z", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title alone is generic; content inferred from the URL slug referencing higher ed and K-12."
+  },
+  {
+    "id": "CFT-0758",
+    "title_clean": "Young Men's Media Landscaping Report",
+    "blurb": "A Movember research report mapping the media ecosystem young men move through — the platforms, creators, and content shaping their ideas about masculinity, mental health, and identity.",
+    "tags": ["Gen Z", "Mental Health", "Identity & Culture", "Social Media & Attention Economy"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0759",
+    "title_clean": "Is Partying Dead, or Are You Just Old?",
+    "blurb": "A New York Times feature questioning the narrative that Gen Z has abandoned nightlife, arguing that partying hasn't disappeared so much as changed shape.",
+    "tags": ["Gen Z", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0760",
+    "blurb": "A Notion-based research hub compiling secondary research on Gen Z connection, digital life, and mental health as part of a project referred to as DCDX.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Community Health"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "DCDX appears to be a youth-research initiative (hosted at genzdesigns.notion.site), but the sponsoring org and full scope of the project aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0761",
+    "blurb": "A companion Notion hub to the same DCDX research project, gathering social-listening findings and content examples that illustrate Gen Z digital culture.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Community Health"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Title indicates a social-listening/content archive linked to the DCDX project, but specifics aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0762",
+    "blurb": "Management professor Suzy Welch argues that Gen Z and millennial burnout has less to do with working harder than prior generations and more to do with a lost sense of hope about the future.",
+    "tags": ["Gen Z", "Hope & Empowerment", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0763",
+    "title_clean": "Are Young People Screwed?",
+    "blurb": "A data-driven look at whether young people today are genuinely worse off economically than previous generations, weighing housing costs, wages, and wealth trends against the popular narrative.",
+    "tags": ["Gen Z", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0764",
+    "blurb": "Rather than adding another hot take, a journalist asks young people directly how AI, the job market, and housing costs shape their sense of whether their generation is 'screwed.'",
+    "tags": ["Gen Z", "AI & Technology", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0765",
+    "blurb": "Harvard's Institute of Politics presents its latest national poll tracking young Americans' political attitudes, institutional trust, and outlook on the country's direction.",
+    "tags": ["Gen Z", "Civic Life", "Democracy"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0766",
+    "blurb": "A Gallup analysis linking rising loneliness among young Americans to growing tolerance for political violence.",
+    "tags": ["Gen Z", "Loneliness", "Polarization", "Democracy"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0767",
+    "title_clean": "Tinx (@tinx): '$120K Remote Job vs. $240K In-Office'",
+    "blurb": "A TikTok from creator Tinx weighing a lower-paying remote job against a higher-paying in-office one, capturing a trade-off many young workers are currently debating.",
+    "tags": ["Gen Z", "Economy & Wellbeing"],
+    "type_display": "Video/Talk",
+    "confidence": "low",
+    "ambiguous_note": "Title only gives two dollar figures with no framing; the video's actual argument is inferred rather than confirmed."
+  },
+  {
+    "id": "CFT-0768",
+    "blurb": "GoFundMe's 2024 report on how giving behavior is changing, including how younger generations are showing up for peer-to-peer and community causes online.",
+    "tags": ["Gen Z", "Philanthropy & Funding"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Report's specific findings are inferred from its title and publisher; the source page is a campaign landing page rather than the report itself."
+  },
+  {
+    "id": "CFT-0769",
+    "blurb": "An Atlantic essay on the writer's growing alarm at rising antisemitism among young Americans and what's fueling it.",
+    "tags": ["Gen Z", "Human Rights", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0770",
+    "blurb": "A New York Times focus group in which eleven Gen Z voters speak candidly about the military, America's role in the world, and their sense of being let down by older generations.",
+    "tags": ["Gen Z", "Civic Life", "Democracy"],
+    "type_display": "Interview",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0771",
+    "blurb": "An interactive tool for choosing among co-creation and participatory-design methods based on a project's goals and constraints.",
+    "tags": ["Facilitation Tool", "Youth Co-Design"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "Tool's exact method set and design criteria are inferred from its title alone, without exploring the interactive app."
+  }
+]

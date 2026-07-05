@@ -1,0 +1,345 @@
+[
+  {
+    "id": "CFT-0711",
+    "blurb": "A report on kids staging virtual protests against ICE raids inside Roblox's Brookhaven town, using a children's gaming platform as an unlikely stage for political dissent.",
+    "tags": ["Gen Z", "Civic Life", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0712",
+    "blurb": "An essay on why Gen Z is retreating from mainstream platforms toward smaller, more intimate social apps and communities, seeking connection without the scale and noise of legacy social media.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0713",
+    "blurb": "A Guardian piece on how 'crashing out' -- Gen Z slang for spiraling under pressure -- became the perfect shorthand for a generation navigating an unusually volatile moment.",
+    "tags": ["Gen Z", "Identity & Culture", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Crashing out: how gen Z adopted the perfect term for our unstable era"
+  },
+  {
+    "id": "CFT-0714",
+    "blurb": "A look at how music festivals are being reshaped by Gen Z audiences demanding more authenticity and sustainability from live events.",
+    "tags": ["Gen Z", "Identity & Culture", "Ritual & Belonging"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0715",
+    "blurb": "Coverage of a UNICEF-linked push showing Gen Z doesn't just want mental health support -- they want a seat at the table in designing it.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Gen Z wants to be part of the solution on mental health"
+  },
+  {
+    "id": "CFT-0716",
+    "blurb": "A report finding that Gen Z adults who keep a regular fitness routine are also more likely to have their financial lives in order, suggesting a link between physical and financial discipline.",
+    "tags": ["Gen Z", "Economy & Wellbeing", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0717",
+    "blurb": "An account of how Gen Z graduates are hitting a stubborn wall in the job market, unemployment climbing even among those with college degrees.",
+    "tags": ["Gen Z", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Gen Z Is Unemployed, Struggling to Get a Job, Despite College Degrees"
+  },
+  {
+    "id": "CFT-0718",
+    "blurb": "UNICEF's 2025 survey of youth mental health perceptions, gathering how young people themselves assess their own emotional wellbeing and the support systems around them.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Gen Z"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "URL is a coalition hub page referencing the report rather than the report itself, so its exact scope and publisher details aren't fully confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0719",
+    "blurb": "Journalist Rachel Janfaza's dispatch on how Gen Z is redefining sex, dating, and intimacy -- often more cautiously and less casually than popular narratives suggest.",
+    "tags": ["Gen Z", "Gender & Sexuality", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "The Sex Lives of Gen Z"
+  },
+  {
+    "id": "CFT-0720",
+    "blurb": "A newsletter poll digging into how Gen Z actually reacted to the killing of a health insurance CEO, complicating the assumption of blanket approval.",
+    "tags": ["Gen Z", "Civic Life", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0721",
+    "blurb": "An essay arguing that Gen Z has lost the practiced art of partying -- the loose, unstructured social ritual older generations took for granted -- and asks what that says about how this generation connects.",
+    "tags": ["Gen Z", "Loneliness", "Ritual & Belonging"],
+    "type_display": "Essay",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0722",
+    "blurb": "A Fortune rebuttal to elite anxiety over Zohran Mamdani's popularity, arguing that billionaires and CEOs are badly misreading what's actually driving Gen Z's politics.",
+    "tags": ["Gen Z", "Democracy", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "The billionaires and CEOs panicking about Zohran Mamdani are wrong about Gen Z"
+  },
+  {
+    "id": "CFT-0723",
+    "blurb": "Kyla Scanlon's essay on how Gen Z is coming of age at the exact moment the assumption of ever-improving material progress breaks down, and what that does to a generation's expectations.",
+    "tags": ["Gen Z", "Economy & Wellbeing", "Hope & Empowerment"],
+    "type_display": "Essay",
+    "confidence": "high",
+    "title_clean": "Gen Z and the End of Predictable Progress"
+  },
+  {
+    "id": "CFT-0724",
+    "blurb": "A PRRI report mapping Generation Z's political and cultural attitudes, from views on generational change to the specific challenges and openings they see ahead for the country.",
+    "tags": ["Gen Z", "Democracy", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "A Political and Cultural Glimpse Into America's Future: Generation Z's Views on Generational Change and the Challenges and Opportunities Ahead"
+  },
+  {
+    "id": "CFT-0725",
+    "blurb": "A Newsweek comparison of how Gen Z approaches trauma therapy differently than Millennials and Boomers, pointing to a generational shift in how emotional injury gets named and treated.",
+    "tags": ["Gen Z", "Intergenerational", "Trauma-Informed Care"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Gen Z's Trauma Therapy Compared to Millennials, Boomers"
+  },
+  {
+    "id": "CFT-0726",
+    "blurb": "A personal essay reflecting on stepping back from constant scrolling in search of something more soulful and present.",
+    "tags": ["Digital Wellbeing", "Social Media & Attention Economy", "Gen Z"],
+    "type_display": "Essay",
+    "confidence": "medium",
+    "ambiguous_note": "Title is a cryptic, informal phrase with no supporting note; the blurb infers content from the Social Media & Attention Economy category tagging."
+  },
+  {
+    "id": "CFT-0727",
+    "blurb": "A look at why dating apps -- once dominant -- are struggling to hold onto a generation increasingly fatigued by swipe culture.",
+    "tags": ["Gen Z", "Loneliness", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0728",
+    "blurb": "An Atlantic essay probing the global rise in unhappiness among young people, asking what's actually behind the decline in wellbeing across so many different countries.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Loneliness"],
+    "type_display": "Essay",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0729",
+    "blurb": "A Financial Times piece surveying what recent data and reporting reveal about Gen Z's outlook, though the specific angle is left open by the headline alone.",
+    "tags": ["Gen Z", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title is generic ('What Gen Z is telling us') with no note to clarify the specific survey or argument being covered."
+  },
+  {
+    "id": "CFT-0730",
+    "blurb": "A Newsweek report finding that most of Gen Z isn't spending money on dates at all, a data point that speaks to both financial caution and shifting dating norms.",
+    "tags": ["Gen Z", "Economy & Wellbeing", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Most of Gen Z Is Not Spending Any Money on Dates"
+  },
+  {
+    "id": "CFT-0731",
+    "blurb": "A Washington Post analysis of how the declining perceived value of a college degree is reshaping how young voters see their economic prospects -- and their politics.",
+    "tags": ["Gen Z", "Democracy", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "How the diminishing value of a college degree is impacting the youth vote"
+  },
+  {
+    "id": "CFT-0732",
+    "blurb": "A piece asking whether Gen Z is showing signs of physical and mental aging faster than their parents did at the same age, and what stress, screens, and economic pressure might have to do with it.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Are Gen Z ageing faster than their parents?"
+  },
+  {
+    "id": "CFT-0733",
+    "blurb": "An eMarketer brief on how humor and music, more than polished messaging, are what actually cut through to capture Gen Z's attention.",
+    "tags": ["Gen Z", "Identity & Culture", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0734",
+    "blurb": "A Quartz report on 'lonely' Gen Z workers avoiding fully remote jobs, suggesting this generation may crave the in-person connection that remote work strips away.",
+    "tags": ["Gen Z", "Loneliness", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "'Lonely' Gen Z workers shun fully remote jobs"
+  },
+  {
+    "id": "CFT-0735",
+    "blurb": "A Vox piece on an emerging split within Gen Z's news habits and political attitudes that could prove decisive in the next election.",
+    "tags": ["Gen Z", "Democracy", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0736",
+    "blurb": "A Bank of America study finding that 72% of young adults, squeezed by rising living costs, are actively taking steps to improve their financial health.",
+    "tags": ["Gen Z", "Economy & Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Confronted with Higher Living Costs, 72% of Young Adults Take Action to Improve their Financial Health, finds BofA Better Money Habits Study"
+  },
+  {
+    "id": "CFT-0737",
+    "blurb": "Rachel Janfaza's reporting on the specific ways Gen Z is choosing to spend, save, and invest, often departing from prior generations' financial habits.",
+    "tags": ["Gen Z", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "How Gen Z spends, saves, and invests"
+  },
+  {
+    "id": "CFT-0738",
+    "blurb": "An analysis of how young men's and young women's political experiences and attitudes have pulled apart, based on early results from recent youth-vote data.",
+    "tags": ["Gen Z", "Gender & Sexuality", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0739",
+    "blurb": "A Business Insider report on why Gen Z's employment slump is hitting young men harder, tracing the gap to a single corner of the job market -- healthcare and tech hiring.",
+    "tags": ["Gen Z", "Economy & Wellbeing", "Gender & Sexuality"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0740",
+    "blurb": "A CNN video on young Democratic organizers borrowing Charlie Kirk's campus-style playbook to try to win over Gen Z voters.",
+    "tags": ["Gen Z", "Democracy", "Polarization"],
+    "type_display": "Video/Talk",
+    "confidence": "high",
+    "title_clean": "These young Democrats are trying to win over Gen Z voters, just like Charlie Kirk"
+  },
+  {
+    "id": "CFT-0741",
+    "blurb": "An Axios report on how Gen Alpha, the youngest consumers, are quietly shaping close to half of household spending decisions through their influence over parents.",
+    "tags": ["Gen Z", "Intergenerational", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title and subject concern Gen Alpha (younger children), not Gen Z, despite being filed under the Gen Z category."
+  },
+  {
+    "id": "CFT-0742",
+    "blurb": "A venture capital founder and mother of five Gen Z kids shares findings from a personal listening tour of 50 young adults, describing a generation hungry to work hard and rewrite what the American Dream even means.",
+    "tags": ["Gen Z", "Hope & Empowerment", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "I'm a VC founder and mother to 5 Gen Z kids. My listening tour of 50 young adults shows a hunger to work hard and rewrite the American Dream"
+  },
+  {
+    "id": "CFT-0743",
+    "blurb": "A LinkedIn post arguing that location-sharing apps like Find My Friends have become Gen Z's real social feed -- the map, not the timeline, is where the social action now happens.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Identity & Culture"],
+    "type_display": "Social Media Post",
+    "confidence": "low",
+    "ambiguous_note": "Source is a single LinkedIn post with only a title fragment and a quoted line ('the social map is the new feed'); the full argument is a best guess."
+  },
+  {
+    "id": "CFT-0744",
+    "blurb": "The CDC's data hub tracking youth tobacco use, including e-cigarettes, with the latest national statistics on how many young people are using tobacco products.",
+    "tags": ["Youth Wellbeing", "Community Health"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0745",
+    "blurb": "Derek Thompson's essay on the sudden American boom in group fitness -- gyms, run clubs, and workout classes -- as a new form of community ritual filling a void left by other kinds of social life.",
+    "tags": ["Ritual & Belonging", "Community Health", "Loneliness"],
+    "type_display": "Essay",
+    "confidence": "medium",
+    "ambiguous_note": "Title doesn't reference Gen Z or youth specifically, despite being filed in this category; connection to the collection's youth focus is inferred from the newsletter framing."
+  },
+  {
+    "id": "CFT-0746",
+    "blurb": "A McKinsey briefing on Gen Z's outsized preoccupation with wellness, framing it as both a generational value shift and a fast-growing market.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Economy & Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0747",
+    "blurb": "A New York Times piece on 'mankeeping' -- the invisible emotional labor women increasingly take on to manage men's social and emotional lives -- and why it's leaving them exhausted.",
+    "tags": ["Gender & Sexuality", "Community Health", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Mankeeping: Why Women Are Weary of the Emotional Labor of 'Mankeeping'"
+  },
+  {
+    "id": "CFT-0748",
+    "blurb": "An essay presenting evidence that smartphones -- usually blamed for harming teens -- may actually be linked to a decline in teen crime, complicating the standard narrative about kids and screens.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "The Smartphone-Induced Teen Crime Decline"
+  },
+  {
+    "id": "CFT-0749",
+    "blurb": "A New York Times feature on why Gen Z has embraced 1990s aesthetics and culture, reading their nostalgia for a decade they never lived through as a reaction to their own uncertain present.",
+    "tags": ["Gen Z", "Identity & Culture", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Why gen Z is resurrecting the 1990s"
+  },
+  {
+    "id": "CFT-0750",
+    "blurb": "A piece on the 'toolbelt generation' -- young people turning away from four-year degrees toward skilled trades -- and what's driving the shift.",
+    "tags": ["Gen Z", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Original title appears to contain a typo ('toolbet'), read here as 'toolbelt,' a known term for Gen Z's trades trend; exact source publication isn't confirmable from the archive link.",
+    "title_clean": "Gen Z is the 'toolbelt' generation"
+  },
+  {
+    "id": "CFT-0751",
+    "blurb": "Deloitte's annual global survey of Gen Z and Millennial attitudes toward work, money, climate, and the future, drawn from tens of thousands of respondents across dozens of countries.",
+    "tags": ["Gen Z", "Intergenerational", "Economy & Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0752",
+    "blurb": "A Progress Network dispatch noting that the gender pay gap in the US, while still wide, keeps narrowing bit by bit.",
+    "tags": ["Gender & Sexuality", "Economy & Wellbeing", "Hope & Empowerment"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Four Cents Closer to Parity: The gender pay gap in the US is shrinking, albeit slowly"
+  },
+  {
+    "id": "CFT-0753",
+    "blurb": "Derek Thompson's essay laying out mounting evidence that AI is already displacing entry-level jobs disproportionately held by young workers.",
+    "tags": ["Gen Z", "AI & Technology", "Economy & Wellbeing"],
+    "type_display": "Essay",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0754",
+    "blurb": "A Gallup poll finding that Gen Z students report feeling more engaged in school and more confident about their future than the discourse around this generation might suggest.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Hope & Empowerment"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0755",
+    "blurb": "An AP report on new cellphone restrictions taking effect in classrooms across 17 states as the new school year begins, part of a broader policy pushback against phones in schools.",
+    "tags": ["Gen Z", "Digital Wellbeing", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]

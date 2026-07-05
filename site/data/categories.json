@@ -1,0 +1,105 @@
+{
+  "_comment": "Category metadata for the Conscious Futures resource library -- color + one-line blurb per category, matching the cluster-color system from the design prototype. Kate can edit color/blurb here without touching site code. Order here also sets category-tile display order.",
+  "categories": [
+    {
+      "name": "Systems Change, Design & Futures Thinking",
+      "color": "#E3A85C",
+      "blurb": "How we imagine, forecast, and design for what's next -- and the frameworks for making change actually happen."
+    },
+    {
+      "name": "Theories of Change & Impact Mapping",
+      "color": "#55C3C9",
+      "blurb": "Frameworks and tools for how change actually happens, and how to know if it did."
+    },
+    {
+      "name": "Social Innovation & Entrepreneurship",
+      "color": "#5AA6D6",
+      "blurb": "Ventures and models built to solve social problems at their root, not just their symptoms."
+    },
+    {
+      "name": "Storytelling for Social Change",
+      "color": "#DD6B6B",
+      "blurb": "How narrative and representation shape what feels possible."
+    },
+    {
+      "name": "Imagination, Play & Creativity",
+      "color": "#D9679E",
+      "blurb": "The raw material of possibility -- and how to keep it alive."
+    },
+    {
+      "name": "Hope & Empowerment",
+      "color": "#E8B84B",
+      "blurb": "What it takes to believe change is possible, and act like it."
+    },
+    {
+      "name": "Relationality, Connection & Community Health",
+      "color": "#63BFA0",
+      "blurb": "The condition of our shared civic and social life, and our capacity to act and belong together."
+    },
+    {
+      "name": "Individual Healing Practice & Applied Somatics",
+      "color": "#C97FD1",
+      "blurb": "Embodied practices for processing what the mind alone can't resolve."
+    },
+    {
+      "name": "Organizational Wellbeing & Embodied Leadership",
+      "color": "#E08652",
+      "blurb": "Leading and working in ways that don't extract from the people doing the work."
+    },
+    {
+      "name": "Global Mental Health Research",
+      "color": "#7CA8E0",
+      "blurb": "The evidence base on mental health and wellbeing, from clinical research to global policy."
+    },
+    {
+      "name": "Intergenerational Trauma & Trauma-Informed Practice",
+      "color": "#B06CD9",
+      "blurb": "How harm travels across generations and systems -- and what trauma-informed practice does about it."
+    },
+    {
+      "name": "Art & Healing",
+      "color": "#C97FD1",
+      "blurb": "Ritual, experience, and creative practice as sites of repair."
+    },
+    {
+      "name": "Gen Z, Youth Experience & Identity",
+      "color": "#63BFA0",
+      "blurb": "What younger generations are actually experiencing, in their own words and data."
+    },
+    {
+      "name": "Social Media, Attention Economy & Youth MH",
+      "color": "#8D7FE3",
+      "blurb": "How platforms designed for attention are reshaping young people's minds and relationships."
+    },
+    {
+      "name": "Tech, AI & Social Change",
+      "color": "#8D7FE3",
+      "blurb": "Where technology, especially AI, is reshaping relationships, work, and society."
+    },
+    {
+      "name": "Economy, Philanthropy & Wellbeing",
+      "color": "#E3A85C",
+      "blurb": "How money moves -- and what it would take for the economy and philanthropy to serve wellbeing rather than the reverse."
+    },
+    {
+      "name": "Spiritual Ecology & Ecological Belonging",
+      "color": "#6FBF8C",
+      "blurb": "Reweaving the human relationship to nature as kinship, not resource."
+    },
+    {
+      "name": "Climate Justice & Eco-Anxiety",
+      "color": "#4FA089",
+      "blurb": "The uneven human toll of the climate crisis, and what it does to our sense of the future."
+    },
+    {
+      "name": "Government, Democracy & Polarization",
+      "color": "#5AA6D6",
+      "blurb": "The health of democratic institutions and civic trust in a polarized moment."
+    },
+    {
+      "name": "Racial Equity, Reproductive Justice & Gender",
+      "color": "#DD6B6B",
+      "blurb": "Structural inequity across race, reproductive rights, and gender -- and the movements confronting it."
+    }
+  ]
+}

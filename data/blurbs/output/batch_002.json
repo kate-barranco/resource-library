@@ -1,0 +1,360 @@
+[
+  {
+    "id": "CFT-0046",
+    "title_clean": "Connecting Hope for Alternative Futures",
+    "blurb": "A Medium essay from OnionCollective exploring how relationship and connection sustain hope when communities try to imagine and build alternative futures together.",
+    "tags": ["Collective Imagination", "Hope & Empowerment", "Futures Thinking"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Part of a Medium essay series on hope and futures work; specific argument inferred from the title and category context rather than the full text."
+  },
+  {
+    "id": "CFT-0047",
+    "title_clean": "Practising Hope for Alternative Futures",
+    "blurb": "Part of a Medium essay series from OnionCollective treating hope not as a feeling but as an active practice for imagining and working toward alternative futures.",
+    "tags": ["Collective Imagination", "Hope & Empowerment", "Futures Thinking"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Companion piece in a series; specific argument inferred from the title and category context rather than the full text."
+  },
+  {
+    "id": "CFT-0048",
+    "title_clean": "Resourcing Hope for Alternative Futures",
+    "blurb": "The third in a Medium essay series from OnionCollective, considering what people, relationships, and energy it takes to keep hope-based futures work resourced and sustained.",
+    "tags": ["Collective Imagination", "Hope & Empowerment", "Futures Thinking"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Final piece in a series; specific argument inferred from the title and category context rather than the full text."
+  },
+  {
+    "id": "CFT-0049",
+    "blurb": "Sasha Costanza-Chock's influential book arguing that design processes must center the people most affected by structural inequality, and offering community-led practices for building more just worlds.",
+    "tags": ["Systems Change", "Social Innovation", "Decolonial Thinking"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0050",
+    "blurb": "A movement and fellowship program, co-founded by Rutger Bregman, that encourages talented professionals to redirect their careers away from prestige and profit and toward society's most pressing problems.",
+    "tags": ["Social Innovation", "Leadership", "Hope & Empowerment"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Organization's mission is well known, but current program details weren't verified beyond the site's homepage title."
+  },
+  {
+    "id": "CFT-0051",
+    "blurb": "A speculative scenario essay imagining how American democracy might evolve, for better or worse, over the next two decades.",
+    "tags": ["Futures Thinking", "Democracy", "Foresight Methodology"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Specific content of the scenario is inferred from the title alone."
+  },
+  {
+    "id": "CFT-0052",
+    "blurb": "A Plan International publication using speculative storytelling to imagine future scenarios for girls' rights and gender equality around the world.",
+    "tags": ["Storytelling & Narrative", "Futures Thinking", "Hope & Empowerment"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Publisher and framing are clear from the title, but specific stories/scenarios inside aren't confirmed."
+  },
+  {
+    "id": "CFT-0053",
+    "blurb": "An essay grappling with how to hold onto imaginative, generative visions of democracy's future even as its present-day institutions appear to be fraying.",
+    "tags": ["Democracy", "Collective Imagination", "Futures Thinking"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Argument inferred from the title; full essay content not reviewed."
+  },
+  {
+    "id": "CFT-0054",
+    "title_clean": "Declaration on Future Generations — UN Summit of the Future",
+    "blurb": "The United Nations' formal declaration from the 2024 Summit of the Future, committing member states to weigh the interests and wellbeing of future generations in today's decisions.",
+    "tags": ["Policy Innovation", "Futures Thinking", "Human Rights"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0055",
+    "blurb": "A WHO guide applying systems-thinking principles to help policymakers and practitioners diagnose and strengthen complex, interconnected health systems.",
+    "tags": ["Systems Change", "Policy Innovation", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0056",
+    "blurb": "The Future Generations Commissioner for Wales's 2025 report assessing how well Welsh public bodies are living up to the Well-being of Future Generations Act.",
+    "tags": ["Policy Innovation", "Futures Thinking", "Impact Measurement"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0057",
+    "title_clean": "Esther Perel: Imagining Our Preferred Future — Where Should We Begin? (Live from SXSW 2025)",
+    "blurb": "A live SXSW 2025 talk in which therapist and podcaster Esther Perel invites the audience to imagine the future they'd actually prefer to live into, and where that work might begin.",
+    "tags": ["Futures Thinking", "Collective Imagination", "Hope & Empowerment"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Talk content inferred from title; full transcript not reviewed."
+  },
+  {
+    "id": "CFT-0058",
+    "blurb": "UNESCO's hub for its Futures Literacy initiative, which teaches individuals and institutions to use the future as a tool for making sense of the present and expanding what's imaginable.",
+    "tags": ["Foresight Methodology", "Futures Thinking", "Facilitation Tool"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0059",
+    "blurb": "An essay arguing that designing better futures depends on better storytelling, and offering ways to bring imagination more deliberately into design practice.",
+    "tags": ["Storytelling & Narrative", "Collective Imagination", "Futures Thinking"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Argument inferred from the title; full essay content not reviewed."
+  },
+  {
+    "id": "CFT-0060",
+    "title_clean": "It's 2040. The Word 'Changemaker' No Longer Exists.",
+    "blurb": "A LinkedIn post imagining a future in which the label 'changemaker' has become obsolete, because the practices it once described have simply become how everyone works.",
+    "tags": ["Futures Thinking", "Systems Change", "Social Innovation"],
+    "type_display": "Social Media Post",
+    "confidence": "low",
+    "ambiguous_note": "Content is a single LinkedIn post; the blurb infers the likely argument from the provocative title alone."
+  },
+  {
+    "id": "CFT-0061",
+    "blurb": "A transition-design seminar assignment applying wicked-problem mapping to trace how a real-world systemic issue evolved over time, using the historical spread of invasive species in a city ecosystem as the case.",
+    "tags": ["Systems Change", "Theory of Change", "Framework"],
+    "type_display": "Case Study",
+    "confidence": "medium",
+    "ambiguous_note": "Title is generic ('wicked problem'); the URL slug suggests the specific subject is invasive species in Pittsburgh, but this isn't confirmed by the title alone."
+  },
+  {
+    "id": "CFT-0062",
+    "title_clean": "Systems Thinking vs. Systems Feeling vs. Systems Being",
+    "blurb": "A LinkedIn post distinguishing systems thinking as an intellectual practice from the deeper, more embodied registers of systems feeling and systems being.",
+    "tags": ["Systems Change", "Somatics & Embodiment", "Framework"],
+    "type_display": "Social Media Post",
+    "confidence": "medium",
+    "ambiguous_note": "Content inferred primarily from the title; the full post wasn't reviewed."
+  },
+  {
+    "id": "CFT-0063",
+    "blurb": "A section of the Wayfinder guide focused on treating ongoing learning and adaptation as a core practice for navigating complex social and ecological change.",
+    "tags": ["Systems Change", "Facilitation Tool", "Ecological Belonging"],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "Wayfinder's broader framework is known by reputation, but this specific section's content is inferred from its title."
+  },
+  {
+    "id": "CFT-0064",
+    "blurb": "A collection of hands-on activities for practicing hopeful, imaginative futurism, designed to help groups envision futures worth working toward.",
+    "tags": ["Futures Thinking", "Facilitation Tool", "Hope & Empowerment"],
+    "type_display": "Toolkit",
+    "confidence": "medium",
+    "ambiguous_note": "Specific activities inside the PDF weren't reviewed; description is based on the title."
+  },
+  {
+    "id": "CFT-0065",
+    "title_clean": "Workbook | Just Visions",
+    "blurb": "A companion workbook from Just Visions offering structured exercises for groups doing hopeful futures and imagination work.",
+    "tags": ["Futures Thinking", "Facilitation Tool", "Hope & Empowerment"],
+    "type_display": "Workbook",
+    "confidence": "medium",
+    "ambiguous_note": "Specific exercises inside weren't reviewed; description is based on the title and organization's apparent focus."
+  },
+  {
+    "id": "CFT-0066",
+    "title_clean": "The Collective Impact Toolkit — Tamarack Institute (2022)",
+    "blurb": "Tamarack Institute's practical toolkit for organizations pursuing collective impact, with guidance and tools for cross-sector collaboration toward shared social change goals.",
+    "tags": ["Systems Change", "Facilitation Tool", "Theory of Change"],
+    "type_display": "Toolkit",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0067",
+    "title_clean": "How Can Your Collaborative Strategy Be Both Structured and Emergent?",
+    "blurb": "A CoCreative podcast episode on how collaborative, cross-sector initiatives can hold both clear structure and room for emergence at the same time.",
+    "tags": ["Systems Change", "Theory of Change", "Facilitation Tool"],
+    "type_display": "Podcast",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0068",
+    "title_clean": "Young Visionaries: A Child Rights and Youth Foresight Report on the Future of Education (2025)",
+    "blurb": "A UNICEF Innocenti report using youth foresight methods to surface young people's rights-based visions for the future of education.",
+    "tags": ["Futures Thinking", "Foresight Methodology", "Gen Z"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Title reconstructed from a slightly garbled version plus the file URL slug ('Young Visionaries'); full report content not reviewed."
+  },
+  {
+    "id": "CFT-0069",
+    "title_clean": "Narrative Strategy Primer for Weaving Our Interconnected Futures",
+    "blurb": "A primer on narrative strategy for movement and systems-change work, outlining an approach to weaving stories that connect seemingly separate struggles into a shared future.",
+    "tags": ["Storytelling & Narrative", "Systems Change", "Collective Imagination"],
+    "type_display": "Guide",
+    "confidence": "low",
+    "ambiguous_note": "Title is garbled/typo-laden and the document is a temporary LinkedIn-hosted file link with no other reviewable context."
+  },
+  {
+    "id": "CFT-0070",
+    "blurb": "A framework from Catalyst Now proposing how organizations and communities can hold present-day needs alongside long-term wellbeing when designing systemic change.",
+    "tags": ["Framework", "Systems Change", "Economy & Wellbeing"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0071",
+    "blurb": "A card-based tool from UN Global Pulse designed to guide groups through collective, imaginative envisioning of possible futures.",
+    "tags": ["Collective Imagination", "Facilitation Tool", "Futures Thinking"],
+    "type_display": "Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0072",
+    "blurb": "An academic paper mapping the key decision points researchers face when designing and running participatory research, and the methodological choices at each stage.",
+    "tags": ["Academic Research", "Facilitation Tool", "Framework"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0073",
+    "blurb": "The World Economic Forum's Youth Pulse report surveying young people's outlook, concerns, and priorities as they face a rapidly changing world.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0074",
+    "title_clean": "Why the Future Is Post-Growth: Donnie Maclurcan on Life Beyond Capitalism (Better Future, Ep. 006)",
+    "blurb": "A Better Future video conversation with Donnie Maclurcan on why he believes economic growth is giving way to post-growth models, and what life beyond capitalism could look like.",
+    "tags": ["Economy & Wellbeing", "Futures Thinking", "Systems Change"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Specific arguments in the conversation are inferred from the title alone."
+  },
+  {
+    "id": "CFT-0075",
+    "blurb": "An interactive mad-libs-style tool that invites people to playfully fill in and imagine their own personal version of the year 2040.",
+    "tags": ["Futures Thinking", "Collective Imagination", "Facilitation Tool"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "URL suggests this specific instance was tied to a Davos 2025 climate-hub context, but that isn't confirmed by the title alone."
+  },
+  {
+    "id": "CFT-0076",
+    "blurb": "A Houston Foresight piece exploring how immersive foresight methods can counter 'defuturing,' the narrowing of imagined futures, and expand what people can envision and build.",
+    "tags": ["Foresight Methodology", "Futures Thinking", "Collective Imagination"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Argument inferred from the title; full piece not reviewed."
+  },
+  {
+    "id": "CFT-0077",
+    "blurb": "A study from The Possibilists examining young people's expectations, hopes, and anxieties about the future economy.",
+    "tags": ["Gen Z", "Economy & Wellbeing", "Futures Thinking"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Title is generic; specific findings and methodology inferred from the associated Gen Z category tag and organization name."
+  },
+  {
+    "id": "CFT-0078",
+    "blurb": "A Stanford d.school futures-thinking tool for K-12 classrooms that has students imagine and write from the perspective of a descendant living in a future they helped shape.",
+    "tags": ["Futures Thinking", "Facilitation Tool", "Identity & Culture"],
+    "type_display": "Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0108",
+    "blurb": "An essay drawing on the Indigenous concept of wetiko, a kind of collective mind-virus, to diagnose capitalism's pathologies and propose cultural and spiritual antidotes for a world in transition.",
+    "tags": ["Decolonial Thinking", "Economy & Wellbeing", "Spiritual Ecology"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0109",
+    "blurb": "An essay by Cash Ahenakew, associated with the Decolonial Futures collective, examining the deep collective 'soul wound' underlying modernity and colonialism, and what healing it might require.",
+    "tags": ["Decolonial Thinking", "Historical Trauma", "Healing Practice"],
+    "type_display": "Essay",
+    "confidence": "medium",
+    "ambiguous_note": "Source was filed as 'Book' but the PDF appears to be a shorter essay or chapter; exact publication context wasn't confirmed."
+  },
+  {
+    "id": "CFT-0110",
+    "blurb": "Geoff Mulgan's UCL working paper diagnosing a crisis in collective and public imagination, and proposing ways institutions might deliberately cultivate more ambitious, shared visions of the future.",
+    "tags": ["Collective Imagination", "Policy Innovation", "Futures Thinking"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0111",
+    "title_clean": "Climate Emotions, Thoughts, and Plans Among US Adolescents and Young Adults: A Cross-Sectional Descriptive Survey and Analysis by Political Party Identification and Self-Reported Exposure to Severe Weather Events",
+    "blurb": "A peer-reviewed Lancet Planetary Health survey of US adolescents' and young adults' climate-related emotions and plans, analyzed by political party affiliation and exposure to extreme weather.",
+    "tags": ["Climate Anxiety", "Gen Z", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0112",
+    "blurb": "Scott Galloway's widely-read essay on the growing crisis facing young men, declining educational and economic outcomes, loneliness, and the vacuum being filled by online influencers, and what might help.",
+    "tags": ["Gender & Sexuality", "Youth Wellbeing", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0113",
+    "blurb": "An academic study examining how adolescents and young adults experience and process eco-emotions such as climate anxiety, grief, and anger.",
+    "tags": ["Climate Anxiety", "Gen Z", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Zenodo record could be a preprint, dataset, or supplementary material; the exact publication format wasn't confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0114",
+    "blurb": "A personal essay reflecting on the self-deceptions and comforting narratives people rely on to avoid confronting harder truths about their lives or the world.",
+    "tags": ["Storytelling & Narrative", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "Title is generic and reflective; the specific subject matter is a best guess based on title and tone alone."
+  },
+  {
+    "id": "CFT-0115",
+    "blurb": "A toolkit equipping educators with existential and psychological frameworks for teaching climate justice without tipping students into despair.",
+    "tags": ["Climate Justice", "Climate Anxiety", "Facilitation Tool"],
+    "type_display": "Toolkit",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0116",
+    "blurb": "A Hidden Brain podcast episode exploring why so many people feel overwhelmed despite a booming wellness industry, and what genuine coping in an age of constant crisis might actually look like.",
+    "tags": ["Mental Health", "Digital Wellbeing", "Resilience"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "Episode content inferred from the title; full transcript not reviewed."
+  },
+  {
+    "id": "CFT-0117",
+    "blurb": "An essay diagnosing why so many people experience modern life as hollow or meaningless, and what might restore a deeper sense of purpose and connection.",
+    "tags": ["Mental Health", "Economy & Wellbeing", "Loneliness"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title is broad and philosophical; specific argument and framing inferred from the title alone."
+  },
+  {
+    "id": "CFT-0118",
+    "title_clean": "Poly Opportunity",
+    "blurb": "A site exploring the opportunities that may be hidden within today's polycrisis, using systemic disruption as a starting point for reimagining what's possible.",
+    "tags": ["Systems Change", "Futures Thinking", "Hope & Empowerment"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "No page title or description was available beyond the bare URL; 'Poly Opportunity' is inferred to relate to finding opportunity within polycrisis based on the site name and category, but this is unconfirmed."
+  },
+  {
+    "id": "CFT-0119",
+    "title_clean": "Global Risks Report 2025: 'Bleak' Outlook for the Decade Ahead",
+    "blurb": "World Economic Forum coverage of its 2025 Global Risks Report, which finds experts anticipate a mostly bleak decade ahead, dominated by misinformation, conflict, and environmental and societal risks.",
+    "tags": ["Systems Change", "Policy Innovation", "Democracy"],
+    "type_display": "Report",
+    "confidence": "high"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "id": "CFT-0177",
+    "blurb": "An essay considering what happens to thought, memory, and culture as society drifts from text-based literacy toward image, video, and voice — and what a 'post-literate' world stands to gain and lose.",
+    "tags": ["Collective Imagination", "AI & Technology", "Storytelling & Narrative"],
+    "type_display": "Essay",
+    "confidence": "low",
+    "ambiguous_note": "Title and publication (a personal newsletter) suggest a media/literacy essay, but there's little further context to confirm its specific argument or scope."
+  },
+  {
+    "id": "CFT-0178",
+    "blurb": "A look inside the Joan Ganz Cooney Center's effort to build a low-stakes 'sandbox' for testing new approaches to children's literacy — a space where educators and technologists can experiment before scaling ideas into classrooms.",
+    "tags": ["Social Innovation", "Youth Co-Design", "Framework"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Publisher and general topic (literacy innovation research) are clear, but the specific format or findings of the 'sandbox' aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0198",
+    "blurb": "A digital toolkit of research-backed activities and prompts designed to help parents and educators nurture children's creative thinking and imaginative play at home.",
+    "tags": ["Youth Co-Design", "Collective Imagination", "Facilitation Tool"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Appears to be a practical activity toolkit for fostering childhood creativity, but the exact publisher and full scope are inferred from the site name alone."
+  },
+  {
+    "id": "CFT-0199",
+    "blurb": "Drawing on social psychology research, this piece argues that imagining shared futures together — not just individually — builds trust and closeness among people in the present.",
+    "tags": ["Collective Imagination", "Futures Thinking", "Civic Life"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0200",
+    "blurb": "A profile of BRAC's Humanitarian Play Lab, which designs play-based interventions for children in crisis and refugee settings, showing how structured play can support psychological healing and resilience.",
+    "tags": ["Healing Practice", "Youth Wellbeing", "Trauma-Informed Care"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0201",
+    "title_clean": "Freedom Dreams: The Black Radical Imagination",
+    "blurb": "Robin D.G. Kelley's landmark study of Black radical movements as sites of imagination — surrealism, Marxism, feminism — arguing that the dream of a different world has always been inseparable from the fight for one.",
+    "tags": ["Collective Imagination", "Racial Equity", "Decolonial Thinking"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0202",
+    "blurb": "A talk by Indra Adnan on 'soft power' as a civic and psychological force — the capacity of shared dreaming, culture, and relationship to shift what's politically possible, apart from coercive or economic power.",
+    "tags": ["Civic Life", "Collective Imagination", "Leadership"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Title and runtime (16:50) suggest a specific recorded talk, but the linked page is Adnan's broader Soft Power Network hub rather than a single video."
+  },
+  {
+    "id": "CFT-0203",
+    "title_clean": "Department of Dreams",
+    "blurb": "A 2020 dispatch from CIVIC SQUARE, the Birmingham-based civic imagination lab, on its 'Department of Dreams' — a participatory effort inviting neighbors to imagine and design the futures they actually want for their community.",
+    "tags": ["Collective Imagination", "Civic Life", "Social Innovation"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "General purpose (a civic dreaming/imagination initiative) is clear from CIVIC SQUARE's known work, but the specific activities described in this post aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0204",
+    "blurb": "A practical toolkit from Forward Together and Culture Strike offering exercises and prompts to help organizers and communities reimagine the world beyond current systems of harm, rooted in narrative and cultural strategy.",
+    "tags": ["Collective Imagination", "Storytelling & Narrative", "Racial Equity"],
+    "type_display": "Facilitation Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0205",
+    "blurb": "A speculative-design exercise inviting participants to conjure a single artifact from a radically different future, then work backward to imagine the world that produced it.",
+    "tags": ["Foresight Methodology", "Collective Imagination", "Facilitation Tool"],
+    "type_display": "Facilitation Tool",
+    "confidence": "medium",
+    "ambiguous_note": "Appears to be an adaptation of the well-known 'Thing From The Future' foresight game, but this specific studio's version and instructions aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0206",
+    "blurb": "The print-and-play edition of 'The Thing From The Future,' Stuart Candy and Jeff Watson's widely used foresight card game that prompts players to invent and describe artifacts from speculative futures.",
+    "tags": ["Foresight Methodology", "Collective Imagination", "Facilitation Tool"],
+    "type_display": "Facilitation Tool",
+    "confidence": "high"
+  }
+]

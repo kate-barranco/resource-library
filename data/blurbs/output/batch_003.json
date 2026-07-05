@@ -1,0 +1,44 @@
+[
+  {
+    "id": "CFT-0120",
+    "title_clean": "Beyond the Horizon: The Nonprofit Sector's Call to Lead in an Era of Cosmic and Social Upheaval",
+    "blurb": "A consultant's call for nonprofit leaders to step into a bolder, more visionary role amid accelerating social and existential upheaval, framing sector leadership itself as a form of futures work.",
+    "tags": ["Leadership", "Systems Change", "Philanthropy & Funding"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Blog post title is evocative rather than descriptive of specific arguments; blurb infers the thesis from the title and category placement, not the full text."
+  },
+  {
+    "id": "CFT-0316",
+    "title_clean": "The Future Generations Policy Roadmap",
+    "blurb": "A policy roadmap from Foundations for Tomorrow laying out concrete steps governments and institutions can take to center the interests of future generations in present-day decision-making.",
+    "tags": ["Policy Innovation", "Futures Thinking", "Intergenerational"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0317",
+    "title_clean": "Track Youth Mental Health: Take Action",
+    "blurb": "A take-action hub tied to a youth mental health tracking initiative, offering visitors concrete ways to engage with or support efforts to monitor and respond to the youth mental health crisis.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Civic Life"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Title is only the raw URL, with no note or category detail beyond it; content is inferred solely from the domain name and the 'take-action' page slug."
+  },
+  {
+    "id": "CFT-0318",
+    "blurb": "A blog post exploring how different generations experience and talk about technology, surfacing shared concerns alongside differing sources of optimism across age groups.",
+    "tags": ["Intergenerational", "AI & Technology", "Digital Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0319",
+    "title_clean": "Unlocking the Full Potential of Behavioural Insights for Policy: From Influencing the Individual to Shaping the System",
+    "blurb": "A European Commission Joint Research Centre paper arguing that behavioural insights should move beyond nudging individuals and instead be used to reshape the systems and institutions that structure policy outcomes.",
+    "tags": ["Policy Innovation", "Systems Change", "Theory of Change"],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "The saved link is a LinkedIn post sharing the paper rather than the paper itself, so scope and content are inferred from the citation title alone."
+  }
+]

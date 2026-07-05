@@ -1,0 +1,20 @@
+{
+  "_comment": "Controlled tag vocabulary for the Conscious Futures resource library. Agents writing blurbs should draw tags from this list first; new tags may be added sparingly and will be reviewed/merged here. Kate can edit this file directly to rename, merge, or retire tags without touching site code -- the rebuild script re-reads it every time.",
+  "tags": [
+    "Systems Change", "Theory of Change", "Foresight Methodology", "Futures Thinking",
+    "Policy Innovation", "Facilitation Tool", "Impact Measurement", "Social Innovation",
+    "Collective Imagination", "Framework",
+    "Gen Z", "Youth Wellbeing", "Youth Co-Design", "Intergenerational", "Identity & Culture",
+    "Mental Health", "Trauma-Informed Care", "Intergenerational Trauma", "Historical Trauma", "Epigenetics",
+    "Healing Practice", "Somatics & Embodiment", "Grief & Loss", "Loneliness", "Community Health",
+    "AI & Technology", "Social Media & Attention Economy", "Digital Wellbeing", "Responsible Tech",
+    "Ecological Belonging", "Spiritual Ecology", "Climate Anxiety", "Climate Justice", "Nature Connection",
+    "Civic Life", "Democracy", "Polarization", "Racial Equity", "Reproductive Justice",
+    "Gender & Sexuality", "Gun Violence", "Human Rights",
+    "Storytelling & Narrative", "Ritual & Belonging", "Art & Healing", "Decolonial Thinking",
+    "Leadership", "Organizational Wellbeing", "Embodied Leadership",
+    "Philanthropy & Funding", "Economy & Wellbeing",
+    "Hope & Empowerment", "Resilience",
+    "Academic Research"
+  ]
+}

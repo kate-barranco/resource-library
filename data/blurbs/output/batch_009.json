@@ -1,0 +1,116 @@
+[
+  {
+    "id": "CFT-0207",
+    "title_clean": "A Pocket Book of Hope",
+    "blurb": "A short collection from the Rapid Transition Alliance gathering real-world stories of rapid, positive change — evidence that transformation is possible even amid crisis.",
+    "tags": ["Hope & Empowerment", "Storytelling & Narrative", "Systems Change"],
+    "type_display": "Guide",
+    "confidence": "medium",
+    "ambiguous_note": "Title suggests a compact collection of hopeful case studies typical of Rapid Transition Alliance's output, but the exact format and contents aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0208",
+    "title_clean": "StreetSmart: A Toolkit for Youth Empowerment",
+    "blurb": "A practical toolkit from the Belgian organization StreetSmart, offering tools and approaches for practitioners supporting young people navigating adversity.",
+    "tags": ["Youth Co-Design", "Hope & Empowerment", "Facilitation Tool"],
+    "type_display": "Toolkit",
+    "confidence": "medium",
+    "ambiguous_note": "Confirmed as a youth-empowerment toolkit from the title, but the specific exercises or population it targets aren't detailed there."
+  },
+  {
+    "id": "CFT-0209",
+    "title_clean": "It's Time to Give Up Hope for a Better Climate and Get Heroic",
+    "blurb": "A Noema essay arguing that clinging to abstract hope for climate salvation can be paralyzing, and that what the moment demands instead is heroic, deliberate action.",
+    "tags": ["Climate Justice", "Hope & Empowerment", "Collective Imagination"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0210",
+    "blurb": "An Inside Higher Ed opinion piece on how educators held space for both hope and grief among students in the aftermath of the 2024 U.S. election.",
+    "tags": ["Hope & Empowerment", "Polarization", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0211",
+    "title_clean": "Hope Research",
+    "blurb": "A research hub from Hopeful Minds summarizing findings on how hope develops and why it matters for wellbeing, aimed at practitioners and educators.",
+    "tags": ["Hope & Empowerment", "Academic Research", "Mental Health"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates a research summary hub; the specific studies or findings covered aren't detailed in the title alone."
+  },
+  {
+    "id": "CFT-0212",
+    "title_clean": "Hopelessness Research",
+    "blurb": "A companion research hub from Hopeful Minds summarizing evidence on hopelessness — its causes, consequences, and implications for mental health and intervention.",
+    "tags": ["Hope & Empowerment", "Mental Health", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates a research summary hub; the specific studies or findings covered aren't detailed in the title alone."
+  },
+  {
+    "id": "CFT-0213",
+    "title_clean": "Empowering Young Change Leaders",
+    "blurb": "A Societal Thinking Academy blog post on how its framework equips young people with the confidence and capability to lead social change in their communities.",
+    "tags": ["Youth Co-Design", "Leadership", "Hope & Empowerment"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Identified as a blog post via newsletter link structure; the specific framework details aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0214",
+    "blurb": "A shared spreadsheet compiling hope research studies published over the past decade — a working bibliography rather than a single publication.",
+    "tags": ["Hope & Empowerment", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Google Sheets link suggests a running bibliography of studies; its full contents can't be verified without opening the document."
+  },
+  {
+    "id": "CFT-0215",
+    "blurb": "A UK-based document titled 'Seeds of Hope,' apparently describing a hope- or community-oriented initiative or program.",
+    "tags": ["Hope & Empowerment", "Community Health"],
+    "type_display": "Document",
+    "confidence": "low",
+    "ambiguous_note": "Hosted as an Adobe Acrobat share link with no accessible preview; the publisher, format, and exact content can't be confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0216",
+    "blurb": "An RMI essay revisiting Amory Lovins's concept of 'applied hope' — treating hope not as a feeling but as a discipline of sustained, practical action toward a better energy future.",
+    "tags": ["Hope & Empowerment", "Systems Change", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0217",
+    "title_clean": "Hope Is the Primary Leadership Need of Followers",
+    "blurb": "A Gallup analytics report finding that hope, more than any other quality, is what followers most need from their leaders, with direct implications for engagement and wellbeing.",
+    "tags": ["Hope & Empowerment", "Leadership", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0218",
+    "blurb": "The text and background of the United Nations resolution establishing an International Day of Hope, framing hope as a global public good worth formal recognition.",
+    "tags": ["Hope & Empowerment", "Democracy"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0219",
+    "title_clean": "Activating Hope Across Life Circumstances in the Face of Adversity: A Concise Review",
+    "blurb": "A concise academic review of how hope can be activated and sustained across varying life circumstances and forms of adversity, published in Applied Research in Quality of Life.",
+    "tags": ["Hope & Empowerment", "Resilience", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0220",
+    "title_clean": "Hope and the Life Course: Results From a Longitudinal Study of 25,000 Adults",
+    "blurb": "A large longitudinal study tracking 25,000 adults to examine how hope changes across the life course and what that trajectory reveals about long-term wellbeing.",
+    "tags": ["Hope & Empowerment", "Academic Research", "Resilience"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  }
+]

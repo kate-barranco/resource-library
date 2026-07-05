@@ -1,0 +1,163 @@
+[
+  {
+    "id": "CFT-0987",
+    "blurb": "A Vox feature on the Squirrel Census, a volunteer-powered count of urban squirrels in city parks, and what the collective delight of watching and tallying wildlife reveals about community and attention to the more-than-human world.",
+    "tags": ["Nature Connection", "Community Health", "Hope & Empowerment"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0988",
+    "title_clean": "Learning From the Climate-Mental Health Convergence",
+    "blurb": "An SSIR essay on the emerging convergence of climate change and mental health, examining how ecological crisis and psychological distress are increasingly intertwined and what that means for practitioners working across both fields.",
+    "tags": ["Climate Anxiety", "Mental Health", "Climate Justice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0989",
+    "blurb": "A podcast exploring the Earthseed Land Collective, a Black-led land and healing collective, and how reclaiming relationship with land is bound up with Black freedom and collective liberation.",
+    "tags": ["Racial Equity", "Ecological Belonging", "Decolonial Thinking"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "The Spotify link is to a show page rather than a single named episode, so the specific host and episode length aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0990",
+    "blurb": "An episode of The Emerald, Emergence Magazine's audio series exploring humanity's relationship with the living land through conversation with land stewards, activists, and cultural workers.",
+    "tags": ["Ecological Belonging", "Storytelling & Narrative", "Nature Connection"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "Title alone doesn't name the guest or specific episode topic; identified as an Emergence Magazine podcast based on the surrounding batch context."
+  },
+  {
+    "id": "CFT-0991",
+    "blurb": "A podcast show centered on the practices and stories of building belonging, likely exploring community, ritual, and connection as antidotes to isolation.",
+    "tags": ["Ritual & Belonging", "Community Health", "Loneliness"],
+    "type_display": "Podcast",
+    "confidence": "low",
+    "ambiguous_note": "Generic show title with no episode-level detail available; description is a best guess from the title and category alone."
+  },
+  {
+    "id": "CFT-0992",
+    "blurb": "An episode of the Emergence Magazine podcast, the publication's audio series featuring writers, scientists, and artists in conversation about ecology, culture, and spirit.",
+    "tags": ["Ecological Belonging", "Spiritual Ecology", "Storytelling & Narrative"],
+    "type_display": "Podcast",
+    "confidence": "low",
+    "ambiguous_note": "Title is just the podcast's name with no episode-specific detail, so this describes the show generally rather than this particular episode."
+  },
+  {
+    "id": "CFT-0993",
+    "blurb": "An episode of the Lifeworlds podcast featuring nature educator Jon Young on how the natural world itself can serve as mentor and teacher, deepening ecological awareness and a sense of reconnection.",
+    "tags": ["Nature Connection", "Ecological Belonging"],
+    "type_display": "Podcast",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0994",
+    "blurb": "A poem celebrating water as a living, sustaining presence, part of a curated series of poems meant to be returned to as companions for daily life.",
+    "tags": ["Nature Connection", "Art & Healing"],
+    "type_display": "Poem",
+    "confidence": "medium",
+    "ambiguous_note": "The poem's full text isn't available from the title alone, so the description is inferred from the site's framing and title."
+  },
+  {
+    "id": "CFT-0995",
+    "blurb": "An Emergence Magazine audio essay by biologist and writer David G. Haskell on the discovery that plants and ecosystems make sound, and what listening to the acoustic life of the more-than-human world reveals about kinship and attention.",
+    "tags": ["Nature Connection", "Ecological Belonging"],
+    "type_display": "Audio Essay",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0996",
+    "title_clean": "Remember (a poem by Joy Harjo)",
+    "blurb": "Joy Harjo's poem \"Remember,\" a meditation on kinship with the sun, moon, stars, and earth as a way of recalling one's place within the larger web of life.",
+    "tags": ["Ecological Belonging", "Nature Connection"],
+    "type_display": "Poem",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0997",
+    "title_clean": "Consolations: The Solace, Nourishment and Underlying Meaning of Everyday Words",
+    "blurb": "David Whyte's collection of short essays that re-examine everyday words — like alone, grief, and gratitude — to reveal the deeper, often overlooked meanings beneath ordinary language.",
+    "tags": ["Art & Healing", "Grief & Loss", "Hope & Empowerment"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0998",
+    "blurb": "Indigenous Yawanawa leader Nixiwaka Yawanawa's TEDx talk on the interdependence of humans and the natural world, drawn from his community's traditional knowledge of the Amazon rainforest.",
+    "tags": ["Nature Connection", "Decolonial Thinking", "Ecological Belonging"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0999",
+    "blurb": "A short talk or film making the case for a new cultural story capable of guiding humanity toward a genuinely viable, sustainable future.",
+    "tags": ["Storytelling & Narrative", "Hope & Empowerment", "Collective Imagination"],
+    "type_display": "Video/Talk",
+    "confidence": "low",
+    "ambiguous_note": "Generic YouTube title with no channel or speaker attribution visible; description is a best guess from the title and category."
+  },
+  {
+    "id": "CFT-1000",
+    "blurb": "A video guide to reconnecting with the natural world as a path back to oneself, framing time spent in nature as a practice for restoring a sense of belonging and inner steadiness.",
+    "tags": ["Nature Connection", "Ecological Belonging", "Mental Health"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "The descriptive title suggests the content clearly, but the specific creator or channel isn't identifiable from the title alone."
+  },
+  {
+    "id": "CFT-1001",
+    "blurb": "Jon Young's TEDx talk arguing that modern emotional isolation is rooted in disconnection from the natural world, and that reawakening deep nature connection — as practiced in indigenous mentoring traditions — can help repair it.",
+    "tags": ["Nature Connection", "Loneliness", "Ecological Belonging"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1002",
+    "blurb": "Data scientist Hannah Ritchie's TED talk reframing the climate narrative, arguing with evidence that this generation could be the first to build a genuinely sustainable world rather than simply the last to inherit an unsustainable one.",
+    "tags": ["Climate Justice", "Hope & Empowerment"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1003",
+    "blurb": "Filmmaker Damon Gameau's TED talk on how the cultural stories we inherit about nature — as resource, backdrop, or threat — shape our relationship to it, and why a new story is needed to change that relationship.",
+    "tags": ["Storytelling & Narrative", "Ecological Belonging", "Collective Imagination"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1004",
+    "blurb": "A Vox report on new research showing that wild elephants use individual, name-like vocalizations to address one another — evidence bearing on debates about animal cognition and personhood.",
+    "tags": ["Nature Connection", "Ecological Belonging"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1005",
+    "title_clean": "Time: A Conversation at London's Architectural Association",
+    "blurb": "An Emergence Magazine podcast conversation recorded at London's Architectural Association exploring how different cultures and disciplines understand and experience time, beyond the clock-driven, linear model of modernity.",
+    "tags": ["Storytelling & Narrative", "Ecological Belonging"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "The title names the venue and publisher but not the specific speakers, so the framing of the conversation's content is inferred from context."
+  },
+  {
+    "id": "CFT-1006",
+    "title_clean": "The Power of Lo-TEK: A Design Movement to Rebuild Understanding of Indigenous Philosophy and Vernacular Architecture",
+    "blurb": "Designer Julia Watson's case for Lo-TEK — indigenous, low-tech vernacular architecture and infrastructure — as a sophisticated design philosophy that Western modernism has historically dismissed, and why it deserves serious re-engagement.",
+    "tags": ["Decolonial Thinking", "Ecological Belonging"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1007",
+    "blurb": "A personal newsletter documenting one person's journey into regenerative living and agriculture, tracking the practical and inner shifts involved in moving toward a more regenerative relationship with land.",
+    "tags": ["Ecological Belonging", "Nature Connection"],
+    "type_display": "Newsletter",
+    "confidence": "low",
+    "ambiguous_note": "Generic personal blog title with no further description available; content and author's specific focus are inferred from the site name and category."
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "id": "CFT-0365",
+    "blurb": "An op-ed arguing that California's newly guaranteed mental health parity should become the national standard, making the case for Congress to close the gap between physical and mental healthcare coverage.",
+    "tags": ["Policy Innovation", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0366",
+    "blurb": "An evaluation report on Minnesota's non-narcotic pain management demonstration projects, assessing alternatives to opioid prescribing for chronic pain.",
+    "tags": ["Policy Innovation", "Mental Health", "Healing Practice"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0367",
+    "blurb": "A local news report on the rising number of young people taking on caregiving roles for family members, and the case for more recognition and support for youth caregivers.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0368",
+    "blurb": "An A-Z glossary from The Wellbeing Thesis, a UK resource site translating academic wellbeing research into practical guidance for doctoral researchers.",
+    "tags": ["Mental Health", "Academic Research", "Resilience"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Site appears to be a doctoral-researcher wellbeing resource, but the specific contents of this A-Z index page can't be confirmed from the title alone."
+  },
+  {
+    "id": "CFT-0369",
+    "blurb": "A chapter of the 2024 World Happiness Report examining how happiness varies across generations, comparing wellbeing trends among younger, middle-aged, and older adults worldwide.",
+    "tags": ["Academic Research", "Intergenerational", "Mental Health"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0370",
+    "blurb": "An academic paper arguing for decolonizing psychiatric diagnosis, challenging the assumptions embedded in the DSM and proposing a fundamental rethinking of how mental illness is classified.",
+    "tags": ["Decolonial Thinking", "Mental Health", "Racial Equity"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0371",
+    "blurb": "Gallup's 2025 World Happiness Report analysis, ranking global wellbeing and tracking the social and economic factors that shape life satisfaction across countries.",
+    "tags": ["Economy & Wellbeing", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0372",
+    "title_clean": "Fostering Mental Healthcare in a Postcolonial Continent with Digital Medicine",
+    "blurb": "A session from the Reframe 2024 conference exploring how digital health tools can expand access to mental healthcare across postcolonial contexts, while grappling with the legacies that shape those care systems.",
+    "tags": ["AI & Technology", "Mental Health", "Decolonial Thinking"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Page describes a conference session; exact arguments made are inferred from the title and event context rather than confirmed content."
+  },
+  {
+    "id": "CFT-0373",
+    "blurb": "A LinkedIn post surfacing trauma-informed approaches to global mental health practice.",
+    "tags": ["Trauma-Informed Care", "Mental Health"],
+    "type_display": "Social Post",
+    "confidence": "low",
+    "ambiguous_note": "Title is a generic topic label for a social media post with no further context on specific claims or content."
+  },
+  {
+    "id": "CFT-0374",
+    "blurb": "Guidance for policymakers on developing and strengthening national mental health policies and strategic action plans.",
+    "tags": ["Policy Innovation", "Mental Health"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0375",
+    "blurb": "A collection of case studies on integrating mental health services into general healthcare systems within humanitarian settings, drawn from the Mental Health Innovation Network.",
+    "tags": ["Mental Health", "Policy Innovation", "Community Health"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0376",
+    "blurb": "Gallup's Global Safety Research Center, tracking how people around the world experience safety and security as a foundation of wellbeing.",
+    "tags": ["Community Health", "Mental Health"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Landing page for a Gallup research center; specific findings and scope beyond the title are inferred."
+  },
+  {
+    "id": "CFT-0377",
+    "blurb": "Gallup's State of the World's Emotional Health Report, mapping how people across the globe experience daily emotions like stress, worry, and joy.",
+    "tags": ["Mental Health", "Economy & Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0604",
+    "blurb": "An essay from Dark Matter Laboratories proposing 'mental wealth' as a way to reframe mental health as a collective resource shaped by the social and economic conditions people live in, illustrated with a diagram of its key drivers.",
+    "tags": ["Mental Health", "Systems Change", "Framework"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Content inferred from the essay title and the noted 'drivers of mental health' diagram; full argument not directly read."
+  },
+  {
+    "id": "CFT-0605",
+    "blurb": "An online training course introducing the NeuroAffective Relational Model (NARM), a body-based approach to healing complex developmental trauma.",
+    "tags": ["Trauma-Informed Care", "Somatics & Embodiment", "Healing Practice"],
+    "type_display": "Course",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0606",
+    "blurb": "A hub connecting mental health innovators, researchers, and practitioners worldwide, sharing evidence and resources to strengthen mental health systems globally.",
+    "tags": ["Mental Health", "Policy Innovation"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0607",
+    "blurb": "Together2Transform (T2T), a global platform for sharing mental health resources and fostering cross-disciplinary, paradigm-shifting mutual learning.",
+    "tags": ["Mental Health", "Systems Change"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Platform's exact scope and offerings inferred from its name and the extra tag text (Paradigm Shift, Mutual Learning, Cross-disciplinary)."
+  },
+  {
+    "id": "CFT-0608",
+    "blurb": "The Global Mental Health Peer Network, an international organization building capacity among people with lived experience of mental health conditions through peer mentorship and mutual support.",
+    "tags": ["Mental Health", "Hope & Empowerment"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0609",
+    "blurb": "The Solutions Journalism Network's youth mental health initiative, supporting journalists in reporting on responses to the youth mental health crisis rather than just its scale.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Storytelling & Narrative"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Initiative page's specific fellowship details are inferred from the title and type variant rather than confirmed."
+  },
+  {
+    "id": "CFT-0610",
+    "blurb": "Spanish-language toolkit downloads from Mental Health America's Young Minds initiative, offering resources to support youth mental health in Spanish-speaking families and communities.",
+    "tags": ["Youth Wellbeing", "Mental Health"],
+    "type_display": "Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0611",
+    "blurb": "A paper on safeguarding practices for people with psychosocial disabilities, addressing the intersection of mental health support and protection from harm.",
+    "tags": ["Mental Health", "Human Rights"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Full scope of the safeguarding recommendations is inferred from the title of this PDF paper rather than the document text."
+  },
+  {
+    "id": "CFT-0612",
+    "title_clean": "Diagram: Integrating Mental Health Support Across Sectors (WHO/UNICEF)",
+    "blurb": "A LinkedIn post sharing a WHO/UNICEF diagram illustrating how mental health support needs to be woven across healthcare, education, and social services so no young person falls through the cracks.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Systems Change"],
+    "type_display": "Social Post",
+    "confidence": "medium",
+    "ambiguous_note": "The original title is the poster's own commentary rather than a formal title; the underlying WHO/UNICEF report isn't directly cited or linked."
+  },
+  {
+    "id": "CFT-0613",
+    "blurb": "A Harvard Business Review piece on 'microstress' — the accumulation of small, everyday stressors from other people that quietly erodes wellbeing and resilience.",
+    "tags": ["Mental Health", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0614",
+    "blurb": "A Harvard Business Review analysis of why some people burn out while others facing the same pressures don't, pointing to personal and organizational factors that build resilience.",
+    "tags": ["Organizational Wellbeing", "Mental Health", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0615",
+    "blurb": "A parting address from the outgoing U.S. Surgeon General, offering a closing set of recommendations for the nation's health as he concludes his second term.",
+    "tags": ["Mental Health", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Specific recommendations in the 'parting prescription' are inferred from the title and the Surgeon General's known focus areas, not confirmed from the full text."
+  },
+  {
+    "id": "CFT-0616",
+    "blurb": "The Lived Experience Commission, an organization centering the perspectives of people with firsthand experience of mental illness and the justice and health systems meant to serve them.",
+    "tags": ["Mental Health", "Hope & Empowerment"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Organization's precise mandate is inferred from its name; the site itself wasn't reviewed in detail."
+  },
+  {
+    "id": "CFT-0617",
+    "title_clean": "As Midterms Approach, 79% of Americans Believe Mental Health Is a Public Health Emergency",
+    "blurb": "A Psychiatry.org news release citing polling that finds nearly four in five Americans see mental health as a public health emergency demanding political attention ahead of the midterms.",
+    "tags": ["Mental Health", "Civic Life", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0618",
+    "blurb": "A LinkedIn post comparing brain activation patterns between neurodivergent and neurotypical people.",
+    "tags": ["Mental Health", "Identity & Culture"],
+    "type_display": "Social Post",
+    "confidence": "low",
+    "ambiguous_note": "Title is a fragment describing an image/post with no further context on the study, source, or specific findings."
+  },
+  {
+    "id": "CFT-0619",
+    "blurb": "A BIPOC Mental Health Month toolkit from Mental Health America, offering resources to support mental health awareness and care within Black, Indigenous, and communities of color.",
+    "tags": ["Racial Equity", "Mental Health"],
+    "type_display": "Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0620",
+    "blurb": "A LinkedIn post outlining the concept of seven distinct types of rest — beyond sleep — needed to prevent burnout.",
+    "tags": ["Mental Health", "Resilience"],
+    "type_display": "Social Post",
+    "confidence": "medium",
+    "ambiguous_note": "Post references a known 'seven types of rest' framework, but the original source isn't cited in the title itself."
+  }
+]

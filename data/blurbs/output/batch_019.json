@@ -1,0 +1,290 @@
+[
+  {
+    "id": "CFT-0558",
+    "blurb": "A talk by Dr. Joy DeGruy on Post Traumatic Slave Syndrome, her framework for understanding how centuries of slavery, institutionalized racism, and violence continue to shape the psychological and behavioral patterns of African American communities today.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Racial Equity", "Healing Practice"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0559",
+    "blurb": "A recorded session from a university's long-running Holocaust and Genocide Lecture Series, examining historical atrocity, memory, and its intergenerational aftermath.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Video/Talk",
+    "confidence": "low",
+    "ambiguous_note": "Generic lecture-series entry with no speaker or specific topic named in the title."
+  },
+  {
+    "id": "CFT-0560",
+    "blurb": "A closing keynote from the SNAICC national conference by Professor Judy Atkinson, whose scholarship on 'trauma trails' traces how historical violence and dispossession continue to shape trauma among Aboriginal and Torres Strait Islander communities.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Decolonial Thinking", "Healing Practice"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0561",
+    "blurb": "A TEDx talk by photographer Matika Wilbur, creator of Project 562, on how erasure and stereotype have shaped perceptions of Native peoples — and her work re-imagining and humanizing Indigenous representation.",
+    "tags": ["Decolonial Thinking", "Identity & Culture", "Historical Trauma", "Storytelling & Narrative"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0562",
+    "blurb": "A recorded session from a university's long-running Holocaust and Genocide Lecture Series, examining historical atrocity, memory, and its intergenerational aftermath.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Video/Talk",
+    "confidence": "low",
+    "ambiguous_note": "Generic lecture-series entry with no speaker or specific topic named in the title."
+  },
+  {
+    "id": "CFT-0563",
+    "blurb": "A talk exploring how the memory of the Holocaust travels and mutates across generations and contexts, becoming a kind of 'traveling ghost' embedded in the collective memory of mass atrocity.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Storytelling & Narrative"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker and full argument inferred from an academic-style title; no note or author context given."
+  },
+  {
+    "id": "CFT-0564",
+    "blurb": "A talk exploring the psychic toll of institutional legitimacy for Black scholars — how the demand to prove worth within predominantly white academic institutions shapes memory, identity, and trauma in the era of Black Studies.",
+    "tags": ["Historical Trauma", "Racial Equity", "Academic Research", "Identity & Culture"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Speaker not named; content inferred from a dense academic title."
+  },
+  {
+    "id": "CFT-0565",
+    "blurb": "A talk by critical race scholar Daniel Solorzano on how everyday microaggressions function as a subtle but cumulative form of racism, drawing on his foundational research on race and education.",
+    "tags": ["Racial Equity", "Historical Trauma", "Academic Research"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0566",
+    "blurb": "A recorded session from a university's long-running Holocaust and Genocide Lecture Series, featuring speaker Lucia Roncalli on historical atrocity and its intergenerational aftermath.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Video/Talk",
+    "confidence": "low",
+    "ambiguous_note": "Speaker is named but their specific topic isn't identifiable from the title alone."
+  },
+  {
+    "id": "CFT-0567",
+    "blurb": "A recorded session from a university's long-running Holocaust and Genocide Lecture Series, examining historical atrocity, memory, and its intergenerational aftermath.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Academic Research"],
+    "type_display": "Video/Talk",
+    "confidence": "low",
+    "ambiguous_note": "Generic lecture-series entry with no speaker or specific topic named in the title."
+  },
+  {
+    "id": "CFT-0568",
+    "blurb": "A psychiatrist's explainer on how historical trauma — the unresolved grief and fear passed down from collective atrocities — continues to live in individuals and communities long after the precipitating events.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "How Historical Trauma Lives in Us All"
+  },
+  {
+    "id": "CFT-0569",
+    "blurb": "An article reframing intergenerational transmission beyond trauma alone, exploring the resilience, values, and strengths that families and cultures also pass down across generations.",
+    "tags": ["Intergenerational", "Resilience", "Intergenerational Trauma"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Intergenerational Strengths That Can Be Passed on Through Generations"
+  },
+  {
+    "id": "CFT-0570",
+    "blurb": "A local news feature on a therapy approach in Kalamazoo designed to reach a population traditionally reluctant to seek mental health support, exploring what it takes to make healing work feel accessible and worthwhile.",
+    "tags": ["Mental Health", "Healing Practice", "Trauma-Informed Care"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title doesn't specify which population is 'usually reluctant' to seek therapy.",
+    "title_clean": "'It's Really Heavy Work': How a Shift in the Traditional Approach to Therapy Supports a Group That's Usually Reluctant to Do It"
+  },
+  {
+    "id": "CFT-0571",
+    "blurb": "A talk by physician and humanitarian Dr. Rola Hallam arguing that personal trauma healing is inseparable from collective and planetary healing — a move from cleverness to wisdom in how we respond to suffering.",
+    "tags": ["Healing Practice", "Resilience", "Hope & Empowerment"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Exact framing of the talk's argument is inferred from the title alone."
+  },
+  {
+    "id": "CFT-0572",
+    "blurb": "A conversation between novelist Nguyễn Phan Quế Mai and Veterans For Peace on the long psychological aftermath of war, bridging Vietnamese and American perspectives on trauma, memory, and reconciliation.",
+    "tags": ["Historical Trauma", "Intergenerational Trauma", "Storytelling & Narrative"],
+    "type_display": "Interview",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0573",
+    "blurb": "A talk by South African psychologist Pumla Gobodo-Madikizela, whose research on the Truth and Reconciliation Commission and the psychology of forgiveness explores how societies metabolize collective trauma.",
+    "tags": ["Historical Trauma", "Healing Practice", "Decolonial Thinking"],
+    "type_display": "Video/Talk",
+    "confidence": "high",
+    "title_clean": "Understanding Trauma"
+  },
+  {
+    "id": "CFT-0574",
+    "blurb": "A talk on trauma-informed funding by Shruti Jayaraman of Chicago Beyond, examining how philanthropic practices can themselves either compound or help heal the trauma experienced by grantee communities.",
+    "tags": ["Philanthropy & Funding", "Trauma-Informed Care", "Systems Change"],
+    "type_display": "Video/Talk",
+    "confidence": "high",
+    "title_clean": "What Is Trauma-Informed Funding?"
+  },
+  {
+    "id": "CFT-0575",
+    "blurb": "A research-based article on the mental health toll of disaster response work, and the resilience factors that help both responders and survivors recover in the aftermath of crisis.",
+    "tags": ["Resilience", "Mental Health", "Trauma-Informed Care"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0576",
+    "blurb": "An Urban Institute research project on trauma-informed housing — how affordable housing design, services, and management can be reshaped to empower residents who have experienced trauma.",
+    "tags": ["Trauma-Informed Care", "Systems Change", "Community Health"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Trauma-Informed Housing: An Approach to Empower Residents in Affordable Housing Design, Services, and Management"
+  },
+  {
+    "id": "CFT-0577",
+    "blurb": "A therapist-informed explainer on how persistent feelings of worthlessness often trace back to unmet needs and wounds from childhood, and what healing that root cause can look like.",
+    "tags": ["Mental Health", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0578",
+    "blurb": "A report on how Alaska Native villages, often without reliable access to law enforcement, have built their own grassroots networks of safety and support for survivors of domestic violence.",
+    "tags": ["Community Health", "Trauma-Informed Care", "Human Rights"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0579",
+    "blurb": "An SSIR essay arguing that unhealed trauma embedded within organizations and systems limits their capacity for social change — and that healing work is itself a lever for systems transformation.",
+    "tags": ["Systems Change", "Trauma-Informed Care", "Theory of Change"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0580",
+    "blurb": "A documentary centered on physician Gabor Maté's approach to trauma — reframing it not as a diagnosis but as a universal human experience whose healing is inseparable from reconnecting with oneself and community.",
+    "tags": ["Healing Practice", "Mental Health", "Trauma-Informed Care"],
+    "type_display": "Documentary Film",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0581",
+    "blurb": "A Doomscroll interview with cultural critic Catherine Liu on how trauma discourse and virtue signaling have become currency among liberal professional elites, and what that reveals about class and politics.",
+    "tags": ["Identity & Culture", "Democracy", "Polarization"],
+    "type_display": "Interview",
+    "confidence": "medium",
+    "ambiguous_note": "Argument summarized from title and knowledge of the guest's other work; exact framing not confirmed.",
+    "title_clean": "Catherine Liu: Trauma, Virtue and Liberal Elites | Doomscroll"
+  },
+  {
+    "id": "CFT-0582",
+    "blurb": "A short animated explainer breaking down how intergenerational trauma is passed from one generation to the next, and how understanding that cycle can support healing.",
+    "tags": ["Intergenerational Trauma", "Healing Practice"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Generic animation title with no creator or source named.",
+    "title_clean": "Intergenerational Trauma Animation"
+  },
+  {
+    "id": "CFT-0583",
+    "blurb": "A research report examining how strong social connectedness during early childhood can buffer, and help interrupt, the transmission of intergenerational trauma.",
+    "tags": ["Intergenerational Trauma", "Loneliness", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0584",
+    "blurb": "An academic book chapter, part of an Oxford University Press volume, addressing themes connected to intergenerational trauma and trauma-informed practice.",
+    "tags": ["Academic Research", "Intergenerational Trauma"],
+    "type_display": "Academic Paper",
+    "confidence": "low",
+    "ambiguous_note": "No title text was captured for this record beyond the raw URL, so the specific chapter, book, and author could not be identified."
+  },
+  {
+    "id": "CFT-0585",
+    "blurb": "A talk exploring what it means to bring trauma-informed principles into higher education — from classroom practice to institutional policy — so colleges better support students carrying trauma.",
+    "tags": ["Trauma-Informed Care", "Community Health", "Academic Research"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "No speaker or institution named; content inferred from a generic title."
+  },
+  {
+    "id": "CFT-0586",
+    "blurb": "An argument for grounding mental health initiatives in liberation psychology — a framework treating psychological wellbeing as inseparable from collective liberation from oppression — rather than individualized clinical models alone.",
+    "tags": ["Mental Health", "Decolonial Thinking", "Systems Change"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0587",
+    "blurb": "An article on psychological flexibility — the capacity to adapt thoughts and behavior in service of one's values — as a foundation for community-level mental health approaches.",
+    "tags": ["Mental Health", "Community Health", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Building Psychological Flexibility for Community Mental Health"
+  },
+  {
+    "id": "CFT-0588",
+    "blurb": "An argument that digital products and interfaces should be designed with trauma-informed principles in mind, since poorly designed tech can retraumatize users while thoughtful design can support healing.",
+    "tags": ["Responsible Tech", "Trauma-Informed Care", "AI & Technology"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0589",
+    "blurb": "A profile of a Pennsylvania teenager's app 'InnerEcho,' built to support youth mental health — a young person's own tech-driven response to the mental health needs of his peers.",
+    "tags": ["Youth Wellbeing", "AI & Technology", "Youth Co-Design"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0590",
+    "blurb": "A Substack essay chronicling how one community approached collective healing in the aftermath of a devastating wildfire, exploring what shared grief and recovery can look like at community scale.",
+    "tags": ["Community Health", "Grief & Loss", "Climate Justice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0591",
+    "blurb": "A project exploring 'unthinkable' futures — grappling honestly with the psychological and collective weight of ecological crisis, and what it takes to face it without turning away.",
+    "tags": ["Climate Justice", "Spiritual Ecology", "Intergenerational Trauma"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Single-word title and homepage give little detail on the project's specific format or offerings; description inferred mainly from its filed categories."
+  },
+  {
+    "id": "CFT-0592",
+    "blurb": "A feature on an IKEA-backed 'trauma-informed' tiny home project for homeless seniors in Texas, an example of design and philanthropy combining to serve a vulnerable population with dignity.",
+    "tags": ["Trauma-Informed Care", "Community Health", "Philanthropy & Funding"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0593",
+    "blurb": "An overview of Healing Hurt People, a hospital-based violence intervention program at Drexel that treats the psychological trauma of violently injured patients to help break cycles of retaliation and re-injury.",
+    "tags": ["Trauma-Informed Care", "Healing Practice", "Community Health"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0594",
+    "blurb": "A news piece on a new Center for Healthy Minds study testing whether mindfulness and community-based support can improve mental health outcomes for people after incarceration.",
+    "tags": ["Mental Health", "Community Health", "Healing Practice"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0595",
+    "blurb": "A practical toolkit from the Segal Family Foundation offering changemakers and social-impact workers resources to sustain their own wellbeing amid demanding, often trauma-adjacent work.",
+    "tags": ["Organizational Wellbeing", "Leadership", "Facilitation Tool"],
+    "type_display": "Tool",
+    "confidence": "high"
+  }
+]

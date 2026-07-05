@@ -1,0 +1,255 @@
+[
+  {
+    "id": "CFT-1025",
+    "title_clean": "How Did Apartheid Happen, and How Did It Finally End?",
+    "blurb": "A TED Talk in which historian Thula Simpson traces the rise and eventual collapse of South African apartheid, drawing out lessons about how entrenched systems of oppression can be built — and dismantled.",
+    "tags": ["Racial Equity", "Democracy", "Systems Change"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1026",
+    "blurb": "An NPR report on Ukraine's efforts to document and prosecute Russian war crimes, and the assistance the U.S. and EU are providing to strengthen those investigations.",
+    "tags": ["Human Rights", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1027",
+    "blurb": "A report on Berkeley Law's Human Rights Center establishing the first international protocol for using social media content as admissible evidence in war crimes prosecutions.",
+    "tags": ["Human Rights", "AI & Technology"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1028",
+    "blurb": "A partisan opinion piece from American Thinker arguing that progressive advocates are using local and state-level channels to advance policies on gender and sexuality in schools without legislative approval.",
+    "tags": ["Polarization", "Gender & Sexuality"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title signals a partisan framing and general topic (school policy on gender/sexuality), but the specific claims and evidence cited aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-1029",
+    "blurb": "A Stanford HAI analysis examining how economic anxiety, dissatisfaction, and a broader sense of unhappiness — more than ideology alone — helped drive support for Trump.",
+    "tags": ["Polarization", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1030",
+    "blurb": "An NPR live-updates piece documenting the devastation discovered in towns around Kyiv after Russian forces withdrew, as evidence of atrocities began to surface.",
+    "tags": ["Human Rights", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1031",
+    "blurb": "A Boston University op-ed applying trauma psychology to the Israeli-Palestinian conflict, exploring how cycles of historical injury and fear shape both sides' perceptions and responses.",
+    "tags": ["Historical Trauma", "Human Rights", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1032",
+    "blurb": "A video exploring the experiences and roles of women in South Africa following the end of apartheid.",
+    "tags": ["Racial Equity", "Gender & Sexuality"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "Title indicates the general subject but gives no detail on format (documentary, panel, interview) or specific focus."
+  },
+  {
+    "id": "CFT-1033",
+    "blurb": "A profile of a human rights investigation guide developed at Berkeley Law, designed to help researchers and advocates verify and use digital evidence — photos, video, social media — in accountability efforts.",
+    "tags": ["Human Rights", "AI & Technology"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1034",
+    "title_clean": "Human Rights Council Resumes Its Forty-Third Session and Holds a General Debate on Human Rights Bodies and Mechanisms",
+    "blurb": "An official UN meeting summary from the Human Rights Council's forty-third session, covering a general debate on the effectiveness and structure of the UN's human rights bodies and mechanisms.",
+    "tags": ["Human Rights", "Democracy"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1035",
+    "blurb": "An academic paper in Nature Medicine examining the links between political polarization and physical and mental health outcomes at the population level.",
+    "tags": ["Polarization", "Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1036",
+    "blurb": "An academic paper examining how foresight practices become institutionalized within policymaking, and what that means for whether futures work actually shapes decisions.",
+    "tags": ["Foresight Methodology", "Policy Innovation", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1037",
+    "title_clean": "A Mindset for the Trump Era: What Dissidents Can Teach Us Now",
+    "blurb": "An Atlantic essay drawing on the psychological survival strategies of dissidents under authoritarian regimes to offer a mindset for navigating the second Trump era.",
+    "tags": ["Polarization", "Resilience"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1038",
+    "blurb": "The homepage of Issue One, a nonpartisan organization working to reduce political corruption and strengthen American democracy through campaign finance, ethics, and election reform.",
+    "tags": ["Democracy", "Policy Innovation"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Link is the organization's homepage rather than a specific piece of content, so scope and current focus areas are inferred from the org's known mission."
+  },
+  {
+    "id": "CFT-1039",
+    "blurb": "A report from the Democracy Funders Network imagining more hopeful, functional futures for American democracy and outlining what it would take to get there.",
+    "tags": ["Futures Thinking", "Democracy", "Collective Imagination"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1040",
+    "blurb": "A Talking Points Memo essay arguing that America's current political coalitions are unstable and predicting a coming realignment — followed, in time, by another one.",
+    "tags": ["Polarization", "Futures Thinking"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1041",
+    "blurb": "A project page from Common Good exploring what \"everyday freedom\" means in practice — the small, lived choices and civic conditions that make people feel free versus constrained.",
+    "tags": ["Civic Life", "Democracy"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Title and org are clear but the specific content or framework behind \"Everyday Freedom\" isn't spelled out in the title alone."
+  },
+  {
+    "id": "CFT-1042",
+    "blurb": "A Foreign Affairs essay charting a possible path toward American authoritarianism, examining what tends to follow once democratic institutions and norms begin to break down.",
+    "tags": ["Democracy", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1043",
+    "title_clean": "\"So This Is How Liberty Dies…\": Making Sense of Trump's First Three Weeks",
+    "blurb": "A Substack essay by epidemiologist Christina Pagel dissecting the rapid pace of executive actions in Trump's first weeks back in office and what they signal for democratic norms.",
+    "tags": ["Democracy", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1044",
+    "blurb": "A New Republic essay arguing that Jeff Bezos's stated views on press freedom and editorial independence reveal a billionaire's self-serving, narrow conception of what freedom means.",
+    "tags": ["Democracy", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1045",
+    "blurb": "A CDC page outlining the agency's current initiatives to protect and improve the nation's mental health, from surveillance data to prevention programs.",
+    "tags": ["Mental Health", "Community Health"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1046",
+    "blurb": "A Tangle newsletter piece reflecting on a moment of political or cultural reckoning — using the image of \"ghosts\" to explore how the past resurfaces in present-day divisions.",
+    "tags": ["Polarization", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "Title \"Seeing Ghosts\" is evocative but not descriptive; the specific subject of this Tangle piece could not be confirmed from the title alone."
+  },
+  {
+    "id": "CFT-1047",
+    "title_clean": "The Weight We're Carrying: State of Us — The Private Struggles Shaping Public Life Today",
+    "blurb": "A Substack report from Murmuration's \"State of Us\" research exploring how private burdens — financial strain, isolation, exhaustion — are quietly reshaping public life and political attitudes.",
+    "tags": ["Economy & Wellbeing", "Loneliness", "Civic Life"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1048",
+    "blurb": "A Guardian investigative feature on \"end times fascism\" — the far-right conviction that societal and ecological collapse is inevitable, and that the only rational response is to seize power and hoard resources for the few.",
+    "tags": ["Polarization", "Climate Anxiety", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1049",
+    "title_clean": "Democracy 2076 — Harmony Labs (January 2025)",
+    "blurb": "A Harmony Labs foresight project imagining the state of American democracy on its 300th anniversary, using scenario work to surface both warning signs and pathways toward a more resilient civic future.",
+    "tags": ["Futures Thinking", "Democracy", "Collective Imagination"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Project name and org are clear, but the exact scope and methodology of this specific Harmony Labs output are inferred rather than confirmed from the title."
+  },
+  {
+    "id": "CFT-1050",
+    "blurb": "A LinkedIn post recapping an interview with Aditi (likely from a First Mondays webinar) discussing survey data showing that public narratives about democracy's future skew heavily toward harmful or dystopian versions rather than hopeful ones.",
+    "tags": ["Democracy", "Futures Thinking", "Storytelling & Narrative"],
+    "type_display": "Interview",
+    "confidence": "low",
+    "ambiguous_note": "Source is a LinkedIn post summarizing a webinar interview; speaker's full identity, the webinar's host organization, and the specific data referenced aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-1051",
+    "title_clean": "The West's Manufactured Fear: How Media Made the Middle East the Enemy",
+    "blurb": "An essay arguing that decades of Western media coverage manufactured a distorted, fear-driven image of the Middle East, shaping public perception and policy toward the region.",
+    "tags": ["Storytelling & Narrative", "Polarization", "Human Rights"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1052",
+    "blurb": "A Foreign Policy Research Institute book examining how ordinary Americans perceive the military — the trust, distance, and assumptions that shape civilian views of those who serve.",
+    "tags": ["Civic Life", "Democracy"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1053",
+    "title_clean": "Do You Often Complain About the State of Our Country? Here's How to Change It.",
+    "blurb": "A USA Today opinion piece featuring actor Rainn Wilson and the 92nd Street Y, making the case that channeling frustration with the country's direction into local civic action is more effective than complaint alone.",
+    "tags": ["Civic Life", "Hope & Empowerment"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1054",
+    "blurb": "A civic engagement toolkit from 92NY's Belfer Center for Innovation & Social Impact, offering practical tools for people who want to move from frustration to constructive civic participation.",
+    "tags": ["Civic Life", "Facilitation Tool"],
+    "type_display": "Tool",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1055",
+    "blurb": "A curriculum framework from the American Historical Association offering guidance for teaching U.S. history in secondary schools amid heightened political scrutiny of how the past is taught.",
+    "tags": ["Civic Life", "Identity & Culture"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1056",
+    "blurb": "The core framework from Educating for American Democracy, a roadmap of inquiry-based approaches to civics and history education aimed at preparing students for informed democratic participation.",
+    "tags": ["Civic Life", "Democracy", "Policy Innovation"],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1057",
+    "blurb": "A New Yorker essay revisiting an earlier American era when democracy nearly collapsed, drawing parallels between past crises of legitimacy and today's democratic strain.",
+    "tags": ["Democracy", "Polarization"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1058",
+    "blurb": "The landmark study by Erica Chenoweth and Maria Stephan showing that nonviolent civil resistance movements are, historically, significantly more likely to succeed than violent ones in achieving lasting political change.",
+    "tags": ["Democracy", "Civic Life", "Human Rights"],
+    "type_display": "Book",
+    "confidence": "high"
+  }
+]

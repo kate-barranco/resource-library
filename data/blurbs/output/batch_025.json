@@ -1,0 +1,338 @@
+[
+  {
+    "id": "CFT-0785",
+    "blurb": "A video exploring the ethical questions raised by the documentary The Social Dilemma, tracing how social media's design choices ripple outward into public health outcomes.",
+    "tags": ["Social Media & Attention Economy", "AI & Technology", "Mental Health"],
+    "type_display": "Video/Talk",
+    "confidence": "medium",
+    "ambiguous_note": "YouTube title suggests a discussion or lecture built around The Social Dilemma documentary, but the specific speaker or event isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0786",
+    "blurb": "A Milken Institute report translating research on youth online safety into concrete actions for the communities, policymakers, and organizations working to protect young people's wellbeing.",
+    "tags": ["Youth Wellbeing", "Social Media & Attention Economy", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Protecting Youth Online: Insights and Actions for Communities, Policymakers, and Organizations"
+  },
+  {
+    "id": "CFT-0787",
+    "blurb": "A Hopelab-hosted webinar pushing social media companies past symbolic gestures toward concrete, evidence-based practices for supporting user mental health.",
+    "tags": ["Social Media & Attention Economy", "Mental Health", "Responsible Tech"],
+    "type_display": "Video/Talk",
+    "confidence": "high",
+    "title_clean": "How Social Media Companies Should Address Mental Health: Moving Beyond Good Intentions to Best Practices (Hopelab Webinar)"
+  },
+  {
+    "id": "CFT-0788",
+    "blurb": "UCLA Center for Scholars & Storytellers' annual survey of teen media habits, tracking how young people are actually using screens and what they say about it.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Teens & Screens 2024 Report (UCLA Center for Scholars & Storytellers)"
+  },
+  {
+    "id": "CFT-0789",
+    "blurb": "A newsletter post from Ben Miller's Mental Health 411 substack reflecting on a recurring, seemingly perennial challenge in youth mental health tied to social media and attention.",
+    "tags": ["Mental Health", "Youth Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "Title 'The Perennial Issue' is generic; the exact subject is inferred only from the newsletter's usual mental-health/youth focus, not confirmable without reading the post."
+  },
+  {
+    "id": "CFT-0790",
+    "blurb": "A New Yorker piece looking closely at how teenagers actually live inside their phones — what they're doing, feeling, and losing there.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title implies a close, ethnographic look at teen phone use, but the specific angle or argument isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0791",
+    "blurb": "A website hub confronting the ethical dilemmas of digital life, likely gathering scenarios, cases, or discussion tools around social media, AI, and their effects on civic life.",
+    "tags": ["Social Media & Attention Economy", "AI & Technology", "Democracy"],
+    "type_display": "Resource Hub",
+    "confidence": "low",
+    "ambiguous_note": "Title is just the bare URL with no descriptive text; the site's exact content and format are inferred from its name and cross-category tagging only."
+  },
+  {
+    "id": "CFT-0792",
+    "blurb": "Coverage of the FX docuseries Social Studies, in which the filmmaking team argues that banning phones in schools could push teens back toward other forms of in-person socializing.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Title references a docuseries team's video comments; the full context of the discussion isn't confirmable from the title alone.",
+    "title_clean": "Social Studies Team on Banning Teens' Phones in School: It Would Let Them 'Find Other Ways to Socialize'"
+  },
+  {
+    "id": "CFT-0793",
+    "blurb": "Jonathan Haidt's testimony before the Senate Judiciary Committee's Subcommittee on Technology, Privacy, and the Law, laying out his case that social media is driving the youth mental health crisis and what regulation could do about it.",
+    "tags": ["Social Media & Attention Economy", "Youth Wellbeing", "Policy Innovation"],
+    "type_display": "Transcript",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0794",
+    "blurb": "An After Babel op-ed pressing Congress to pass the Kids Online Safety Act before year's end, arguing that Meta's lobbying is the last thing standing in the way.",
+    "tags": ["Social Media & Attention Economy", "Policy Innovation", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0795",
+    "blurb": "Pew Research Center's annual survey tracking which platforms teens use, how often, and how their habits and attitudes toward social media are shifting.",
+    "tags": ["Gen Z", "Social Media & Attention Economy", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0796",
+    "blurb": "An academic handbook bringing together researchers across disciplines to synthesize what's known about children's screen use and its effects on development, health, and wellbeing.",
+    "tags": ["Youth Wellbeing", "Academic Research", "Social Media & Attention Economy"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0797",
+    "blurb": "A Stanford Social Innovation Review piece on how the Skoll Foundation is rethinking monitoring, learning, and evaluation to better fuel collective action across the social change field.",
+    "tags": ["Impact Measurement", "Philanthropy & Funding", "Systems Change"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0798",
+    "blurb": "An After Babel analysis applying the Bradford Hill criteria — the classic epidemiological test for causation — to the evidence linking social media use with adolescent mental health decline.",
+    "tags": ["Social Media & Attention Economy", "Youth Wellbeing", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0799",
+    "blurb": "An academic paper critiquing 'techno-legal solutionism' in U.S. children's online safety regulation, arguing that laws like KOSA lean on flawed technical fixes rather than addressing root causes.",
+    "tags": ["Social Media & Attention Economy", "Policy Innovation", "Youth Wellbeing"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0800",
+    "blurb": "A Power User podcast episode digging into whether social media is really the driving force behind declining youth mental health, or a more complicated story.",
+    "tags": ["Social Media & Attention Economy", "Youth Wellbeing", "Mental Health"],
+    "type_display": "Podcast",
+    "confidence": "medium",
+    "ambiguous_note": "The episode title poses the question but doesn't reveal the guests or conclusion; content inferred from framing alone."
+  },
+  {
+    "id": "CFT-0801",
+    "blurb": "A Computer History Museum talk tracing the prehistory of social media — the early online communities, bulletin boards, and networks that set the stage for today's platforms.",
+    "tags": ["Social Media & Attention Economy", "AI & Technology"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0802",
+    "blurb": "danah boyd argues that the Kids Online Safety Act, despite its name, is built around assumptions and mechanisms that won't actually protect children online.",
+    "tags": ["Social Media & Attention Economy", "Policy Innovation", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0803",
+    "blurb": "danah boyd distinguishes between risk and harm in debates over youth and social media, arguing that conflating the two leads to misguided policy responses.",
+    "tags": ["Social Media & Attention Economy", "Youth Wellbeing", "Policy Innovation"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Author inferred from the zephoria.org domain (danah boyd's site); not stated explicitly in the title."
+  },
+  {
+    "id": "CFT-0804",
+    "blurb": "A YIP Institute policy brief examining the U.S. Surgeon General's call for a social media warning label, and what it would take to implement and enforce one.",
+    "tags": ["Social Media & Attention Economy", "Policy Innovation", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high",
+    "title_clean": "Social Media Warning Label by the Surgeon General"
+  },
+  {
+    "id": "CFT-0805",
+    "blurb": "Pew Research Center rounds up eight data points on how Americans use TikTok, who's on it, and how attitudes toward the app have shifted amid the ban debate.",
+    "tags": ["Social Media & Attention Economy", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0806",
+    "blurb": "An After Babel piece arguing that TikTok's design and scale amount to industrial-level harm to children, not just isolated incidents of misuse.",
+    "tags": ["Social Media & Attention Economy", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0807",
+    "blurb": "Freya India argues that the culture of publicly narrating one's mental health struggles online may be deepening distress rather than relieving it.",
+    "tags": ["Mental Health", "Social Media & Attention Economy", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0808",
+    "blurb": "Wired Human's curriculum resources for teaching digital wellbeing and healthy relationships with technology, designed for use with young people in educational settings.",
+    "tags": ["Digital Wellbeing", "Youth Wellbeing", "Facilitation Tool"],
+    "type_display": "Curriculum",
+    "confidence": "medium",
+    "ambiguous_note": "Title names the curriculum but not its exact audience or delivery format; inferred from the organization's name and page context."
+  },
+  {
+    "id": "CFT-0809",
+    "blurb": "A book by education researchers Rebecca Winthrop and Jenny Anderson diagnosing why so many teens are quietly disengaged from school, and offering a framework for re-engaging them in learning and life.",
+    "tags": ["Youth Wellbeing", "Gen Z", "Mental Health"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0810",
+    "blurb": "Mike Pepi's critique of platform capitalism, tracing how the utopian promises of the early internet curdled into extractive, centralized digital infrastructure — and what it would take to build alternatives.",
+    "tags": ["AI & Technology", "Responsible Tech", "Social Media & Attention Economy"],
+    "type_display": "Book",
+    "confidence": "medium",
+    "ambiguous_note": "Content inferred from the title and known subject matter of the book; specific arguments not verified beyond the title.",
+    "title_clean": "Against Platforms: Surviving Digital Utopia"
+  },
+  {
+    "id": "CFT-0811",
+    "blurb": "A Fortune piece on the staggering frequency of American phone-checking, with practical tips for cutting back on compulsive screen time.",
+    "tags": ["Digital Wellbeing", "Social Media & Attention Economy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0812",
+    "blurb": "A Psychology Today piece on research showing that expressions of hostility toward out-groups are disproportionately rewarded with virality online, fueling polarization.",
+    "tags": ["Polarization", "Social Media & Attention Economy", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0813",
+    "blurb": "Eli Pariser's influential book on how personalized algorithms quietly wall each of us into our own version of the internet, narrowing what information and perspectives we ever encounter.",
+    "tags": ["Social Media & Attention Economy", "Democracy", "AI & Technology"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0814",
+    "blurb": "A Washington Post investigation into how TikTok's algorithm appears to serve markedly different political content to users based on gender, especially as elections approach.",
+    "tags": ["Social Media & Attention Economy", "Polarization", "Democracy"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0815",
+    "blurb": "An Atlantic piece arguing that the collapse of reliable metrics and platforms for tracking virality has left even researchers unable to say what's actually trending or true online.",
+    "tags": ["Social Media & Attention Economy", "AI & Technology"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "The title's argument is clear in outline, but the specific evidence and examples cited aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0816",
+    "blurb": "An Atlantic essay on how the collapse of traditional media gatekeepers has turned ordinary people into de facto broadcasters, and what that does to journalism's identity and authority.",
+    "tags": ["Social Media & Attention Economy", "Storytelling & Narrative", "Democracy"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Blurb inferred from title and URL slug ('you-are-the-media-now'); the essay's specific argument and examples aren't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0817",
+    "blurb": "ReThink is an app developed by youth anti-bullying advocate Trisha Prabhu that flags potentially hurtful messages before teens send them, giving a moment's pause to reconsider before posting.",
+    "tags": ["Digital Wellbeing", "Youth Co-Design", "Responsible Tech"],
+    "type_display": "Tool",
+    "confidence": "medium",
+    "ambiguous_note": "Identified from the product name and known context (Trisha Prabhu's ReThink app); not independently confirmed from the bare title alone."
+  },
+  {
+    "id": "CFT-0818",
+    "blurb": "A sociological paper examining how citizens are increasingly compelled into digital participation and datafication, with little real choice about being tracked and quantified by the systems they must use.",
+    "tags": ["AI & Technology", "Civic Life", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0819",
+    "blurb": "The UN Committee on the Rights of the Child's authoritative General Comment interpreting how children's existing rights — privacy, protection, participation — apply in digital environments.",
+    "tags": ["Human Rights", "Youth Wellbeing", "Policy Innovation"],
+    "type_display": "Policy Document",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0820",
+    "blurb": "A Berkman Klein Center report mapping the skills young people need for constructive 'digital citizenship' — going beyond safety messaging to civic participation, information literacy, and critical engagement online.",
+    "tags": ["Youth Co-Design", "Civic Life", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0821",
+    "blurb": "A report exploring how digital technologies are reshaping the future of health for young people, part of the Governing Health Futures 2030 initiative on digital health governance.",
+    "tags": ["AI & Technology", "Youth Wellbeing", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Title is a standalone caps heading with little context; contents inferred from the URL's affiliation with the Governing Health Futures 2030 initiative."
+  },
+  {
+    "id": "CFT-0822",
+    "blurb": "Arne Hintz's book examining what digital citizenship means once nearly every civic and social interaction generates data to be collected, analyzed, and monetized.",
+    "tags": ["Civic Life", "AI & Technology", "Academic Research"],
+    "type_display": "Book",
+    "confidence": "high",
+    "title_clean": "Digital Citizenship in a Datafied Society"
+  },
+  {
+    "id": "CFT-0823",
+    "blurb": "A WHO PMNCH report weighing the opportunities and threats digital transformation poses for adolescent wellbeing worldwide.",
+    "tags": ["Youth Wellbeing", "AI & Technology", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high",
+    "title_clean": "Digital Transformations: Opportunities and Threats for Adolescent Well-Being"
+  },
+  {
+    "id": "CFT-0824",
+    "blurb": "Ilona Kickbusch's keynote at a European high-level ministerial conference on the meaning of citizenship, ethics, and health data in an increasingly digitized health system.",
+    "tags": ["Civic Life", "AI & Technology", "Policy Innovation"],
+    "type_display": "Transcript",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0825",
+    "blurb": "The Lancet and Financial Times Commission's landmark report on governing health futures to 2030, examining what it means for children to grow up in a fully digital world and how health systems must adapt.",
+    "tags": ["Youth Wellbeing", "AI & Technology", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0826",
+    "blurb": "Ruth Lister's foundational feminist theory essay reworking the concept of citizenship to account for gender, care, and the informal work traditionally excluded from public and political life.",
+    "tags": ["Civic Life", "Gender & Sexuality", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0827",
+    "blurb": "A Pediatrics journal article on how digital and social media can support — rather than undermine — youth civic participation and positive development when used for participatory politics.",
+    "tags": ["Youth Co-Design", "Civic Life", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0828",
+    "blurb": "A WHO Europe position statement laying out the region's ambition to become the healthiest online environment for children, with recommended actions for member states.",
+    "tags": ["Youth Wellbeing", "Policy Innovation", "AI & Technology"],
+    "type_display": "Policy Document",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0829",
+    "blurb": "A Family Online Safety Institute report on promoting wellbeing in a digital world, with policy and practice recommendations for families, platforms, and institutions.",
+    "tags": ["Digital Wellbeing", "Youth Wellbeing", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high"
+  }
+]

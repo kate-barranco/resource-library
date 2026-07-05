@@ -1,0 +1,336 @@
+[
+  {
+    "id": "CFT-0468",
+    "title_clean": "U.S. Census Bureau Reports Poverty Rate Down, But Millions Still Poor",
+    "blurb": "NPR reporting on Census Bureau data showing the U.S. poverty rate declined in 2018 — even as tens of millions of Americans remained below the poverty line, a reminder of how partial 'good news' economic statistics can be.",
+    "tags": ["Economy & Wellbeing", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0469",
+    "blurb": "The U.S. Census Bureau's annual report on income, earnings, inequality, and poverty, drawing on the 2019 Current Population Survey — the primary federal data source for tracking who is and isn't sharing in economic growth.",
+    "tags": ["Economy & Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0470",
+    "blurb": "A Slate piece on the surge in U.S. food insecurity heading into the 2020 pandemic-era Thanksgiving, framing hunger as a public health crisis unfolding in parallel with COVID-19.",
+    "tags": ["Economy & Wellbeing", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0471",
+    "blurb": "A Health Affairs study documenting the links between food insecurity and worse physical and mental health outcomes, making the case for treating hunger as a driver of downstream healthcare costs.",
+    "tags": ["Economy & Wellbeing", "Community Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0472",
+    "title_clean": "Impact of Food Insecurity and SNAP Participation on Healthcare Utilization and Expenditures",
+    "blurb": "A University of Kentucky Center for Poverty Research discussion paper modeling how food insecurity and SNAP enrollment shape healthcare use and spending, with implications for how anti-hunger policy is valued.",
+    "tags": ["Economy & Wellbeing", "Policy Innovation", "Academic Research"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0473",
+    "blurb": "A CDC reference page listing the health conditions and demographic factors that put people at higher risk of severe illness from COVID-19, used widely as a guide for who needed extra protection during the pandemic.",
+    "tags": ["Community Health"],
+    "type_display": "Fact Sheet",
+    "confidence": "medium",
+    "ambiguous_note": "Title is a generic CDC page fragment rather than a proper headline; content inferred from the URL and category context."
+  },
+  {
+    "id": "CFT-0474",
+    "blurb": "The website of the Happiness Research Institute, a Danish think tank studying the drivers of subjective wellbeing and quality of life across societies.",
+    "tags": ["Economy & Wellbeing", "Hope & Empowerment"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0475",
+    "blurb": "A Roosevelt Institute working paper modeling how different student debt forgiveness plans would affect Black borrowers and the racial wealth gap, arguing that relief policy should be designed around who is worst harmed.",
+    "tags": ["Racial Equity", "Economy & Wellbeing", "Policy Innovation"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0476",
+    "title_clean": "Student Debt Is a Racial Equity Issue. Here's How Mass Debt Relief Can Address It.",
+    "blurb": "A Roosevelt Institute explainer making the case that student debt is a racial equity issue, and that broad-based debt cancellation — not narrowly targeted relief — is what would meaningfully close the racial wealth gap.",
+    "tags": ["Racial Equity", "Economy & Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0477",
+    "blurb": "An Atlantic interview with Rev. William Barber on whether America can heal, in which he names five interlocking injustices — systemic racism, systemic poverty, ecological devastation, the war economy, and religious nationalism — that must be addressed through concrete policy, not just rhetoric.",
+    "tags": ["Civic Life", "Democracy", "Racial Equity"],
+    "type_display": "Interview",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0478",
+    "title_clean": "Raptors, Celtics Players Jointly Discussing Boycott, Other Measures Following Jacob Blake Shooting",
+    "blurb": "ESPN reporting on NBA players' 2020 boycott discussions after the police shooting of Jacob Blake, capturing athletes using their platform to push for concrete change rather than symbolic gestures alone.",
+    "tags": ["Racial Equity", "Civic Life", "Human Rights"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0479",
+    "blurb": "Reporting on a 2020 nationwide general strike in India involving an estimated 250 million workers, protesting agricultural and labor reforms seen as harmful to farmers and laborers.",
+    "tags": ["Civic Life", "Democracy", "Human Rights"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0480",
+    "blurb": "Mark Wolynn's widely-read book on how unresolved family trauma gets passed down across generations — showing up as inherited fears, patterns, and symptoms — and offering a path to interrupt the cycle.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Healing Practice"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0481",
+    "title_clean": "Transcending Adversity: Trauma-Informed Educational Development",
+    "blurb": "Educator and neuroscientist Mays Imad's essay on building trauma-informed practice into higher education, arguing that understanding adversity's effects on learning is essential to supporting student growth.",
+    "tags": ["Trauma-Informed Care", "Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0482",
+    "blurb": "An interview with philosopher Olúfẹ́mi Táíwò exploring the underexamined psychological toll of climate apartheid and climate colonialism — the ways ecological breakdown compounds historical and ongoing injustice.",
+    "tags": ["Climate Justice", "Decolonial Thinking", "Climate Anxiety"],
+    "type_display": "Interview",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0483",
+    "blurb": "Harvard Kennedy School's Spring 2021 youth poll, tracking how young Americans were feeling and engaging politically amid the pandemic — finding elevated depression alongside a marked rise in political activity.",
+    "tags": ["Gen Z", "Youth Wellbeing", "Mental Health", "Civic Life"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0484",
+    "blurb": "A Southern Poverty Law Center podcast telling the stories of people and communities confronting hate — and the solutions they're building in response.",
+    "tags": ["Polarization", "Human Rights", "Storytelling & Narrative"],
+    "type_display": "Podcast",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0485",
+    "blurb": "The site for the Jewish Psychedelic Summit, a conference and community exploring psychedelic-assisted healing through the lens of Jewish spiritual practice and tradition.",
+    "tags": ["Healing Practice", "Identity & Culture", "Ritual & Belonging"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0486",
+    "blurb": "Plenary session materials from AACU's 2020 Institute on Truth, Racial Healing & Transformation, which trains campus centers to lead racial healing and reconciliation work in higher education.",
+    "tags": ["Racial Equity", "Historical Trauma", "Healing Practice"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "Page appears to be a conference/plenary landing page rather than a single resource; exact contents (recordings vs. program) aren't fully clear from the title alone."
+  },
+  {
+    "id": "CFT-0487",
+    "blurb": "The hub for NeuroArts Blueprint, an initiative building the evidence base for how the arts affect the brain, body, and health — mapping a new interdisciplinary field at the intersection of neuroscience and creative practice.",
+    "tags": ["Art & Healing", "Healing Practice", "Academic Research"],
+    "type_display": "Resource Hub",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0488",
+    "blurb": "Scott Ellsworth's history of the Tulsa Race Massacre and the century-long fight to acknowledge and account for it, tracing one American city's uneven search for truth and justice.",
+    "tags": ["Historical Trauma", "Racial Equity", "Storytelling & Narrative"],
+    "type_display": "Book",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0489",
+    "blurb": "A practitioner-oriented explainer distinguishing trauma-aware, trauma-sensitive, trauma-informed, and trauma-responsive approaches — clarifying a continuum of practice often used interchangeably and imprecisely.",
+    "tags": ["Trauma-Informed Care", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0490",
+    "blurb": "The research profile of Abigail Powers Lott and the Grady Trauma Project, an Atlanta-based research program studying the effects of trauma exposure and resilience in low-income, urban populations.",
+    "tags": ["Trauma-Informed Care", "Academic Research", "Mental Health"],
+    "type_display": "Resource Hub",
+    "confidence": "medium",
+    "ambiguous_note": "This is a lab/researcher profile page listing multiple studies rather than a single publication; scope inferred from the lab's known focus."
+  },
+  {
+    "id": "CFT-0491",
+    "blurb": "A National Geographic feature on the physiological link between chronic stress and racial trauma, explaining how repeated exposure to racism produces measurable, cumulative harm to the body.",
+    "tags": ["Racial Equity", "Historical Trauma", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0492",
+    "blurb": "A National Geographic explainer on the emerging science of epigenetics — examining evidence for whether and how trauma can be biologically inherited across generations through gene expression changes.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Academic Research"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0493",
+    "blurb": "A Hidden Brain episode on post-traumatic growth, exploring the psychological research behind how some people emerge from adversity not just intact, but transformed.",
+    "tags": ["Mental Health", "Resilience", "Healing Practice"],
+    "type_display": "Podcast",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0494",
+    "blurb": "A talk by Youk Chhang, director of the Documentation Center of Cambodia, on how Cambodia has worked to preserve memory and rebuild collective identity in the aftermath of the Khmer Rouge genocide.",
+    "tags": ["Historical Trauma", "Storytelling & Narrative", "Human Rights"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0495",
+    "title_clean": "The Trauma Expert: How Seven Generations of Trauma Live in Your Body, and How to Break Free — Dr. Mariel Buqué",
+    "blurb": "A Lewis Howes podcast conversation with psychologist Dr. Mariel Buqué on how intergenerational trauma is stored somatically across seven generations, and practical approaches to interrupting inherited patterns.",
+    "tags": ["Intergenerational Trauma", "Healing Practice", "Somatics & Embodiment"],
+    "type_display": "Podcast",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0496",
+    "blurb": "A TED Talk examining the rise of the 'trauma essay' in college admissions — questioning what it means for teenagers to feel they must package their hardship as a credential to get into school.",
+    "tags": ["Youth Wellbeing", "Mental Health", "Storytelling & Narrative"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0497",
+    "blurb": "An NPR Goats and Soda story on how Martin Luther King Jr.'s legacy inspired a program that changed the trajectory of a homeless child's life in Kenya, tracing an unlikely thread between the U.S. civil rights movement and global youth work.",
+    "tags": ["Hope & Empowerment", "Youth Wellbeing"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0498",
+    "title_clean": "Flourishing in a World of Disasters: An Indigenous Perspective on Historical Trauma — Dr. Anton Treuer",
+    "blurb": "A 2012 talk by Ojibwe scholar Dr. Anton Treuer on historical trauma from an Indigenous perspective, examining how communities can flourish in the aftermath of colonization and ongoing disaster.",
+    "tags": ["Historical Trauma", "Decolonial Thinking", "Resilience"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0499",
+    "blurb": "Part one of a talk by Judy Atkinson and Caroline Atkinson on 'Educaring,' an approach rooted in Aboriginal Australian knowledge for healing generational trauma stemming from colonization.",
+    "tags": ["Historical Trauma", "Decolonial Thinking", "Healing Practice"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0500",
+    "blurb": "Part two of a talk by Judy Atkinson and Caroline Atkinson on 'Educaring,' an approach rooted in Aboriginal Australian knowledge for healing generational trauma stemming from colonization.",
+    "tags": ["Historical Trauma", "Decolonial Thinking", "Healing Practice"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0501",
+    "blurb": "Part three of a talk by Judy Atkinson and Caroline Atkinson on 'Educaring,' an approach rooted in Aboriginal Australian knowledge for healing generational trauma stemming from colonization.",
+    "tags": ["Historical Trauma", "Decolonial Thinking", "Healing Practice"],
+    "type_display": "Video/Talk",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0502",
+    "title_clean": "Income and Poverty in the United States: 2018",
+    "blurb": "The U.S. Census Bureau's annual report on income, earnings, inequality, and poverty, drawing on the 2019 Current Population Survey — the primary federal data source for tracking who is and isn't sharing in economic growth.",
+    "tags": ["Economy & Wellbeing"],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0503",
+    "title_clean": "Mortality and Morbidity in the 21st Century",
+    "blurb": "Anne Case and Angus Deaton's landmark paper documenting rising 'deaths of despair' — from suicide, drug overdose, and alcohol-related disease — among white working-class Americans, reframing declining life expectancy as an economic and social story.",
+    "tags": ["Economy & Wellbeing", "Mental Health", "Academic Research"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0504",
+    "title_clean": "'Lifelong' Healing Journey: Rotorua Woman Honoured for Violence Prevention Work",
+    "blurb": "Te Ao Māori News profile of a Rotorua woman recognized for decades of work preventing family violence, framing her efforts as part of a lifelong personal and community healing journey.",
+    "tags": ["Healing Practice", "Historical Trauma", "Community Health"],
+    "type_display": "Article",
+    "confidence": "medium",
+    "ambiguous_note": "Specific details of the honoree's program are inferred from the headline; full scope of her work isn't confirmable from the title alone."
+  },
+  {
+    "id": "CFT-0505",
+    "title_clean": "Advice From a Therapist on Breaking Free From Intergenerational Trauma",
+    "blurb": "Psychologist Mariel Buqué's condensed guidance, adapted from her book, on recognizing inherited trauma patterns and practical steps for breaking the cycle across generations.",
+    "tags": ["Intergenerational Trauma", "Healing Practice", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0506",
+    "title_clean": "California Program Trains Undocumented Residents to Become Therapists and Serve Those in the Shadows",
+    "blurb": "MindSite News reporting on a California initiative training undocumented residents as mental health providers, addressing a care gap by preparing therapists who share the lived experience of the immigrant communities they'll serve.",
+    "tags": ["Mental Health", "Community Health", "Identity & Culture"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0507",
+    "blurb": "A Harvard Negotiation & Law Review article proposing 'reconciliation systems design' — a structured, systems-level methodology for pursuing collective healing and repair in societies emerging from mass conflict.",
+    "tags": ["Historical Trauma", "Systems Change", "Healing Practice"],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0508",
+    "title_clean": "The Intergenerational Wisdom of Anxiety",
+    "blurb": "A Psychology Today essay reframing inherited anxiety not merely as dysfunction but as encoded ancestral wisdom — a nervous system's adaptive response passed down to protect the next generation.",
+    "tags": ["Intergenerational Trauma", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0509",
+    "blurb": "A Glasswing International report on introducing trauma-informed teaching practices into Guatemalan schools, aiming to help educators support students affected by violence, migration, and poverty.",
+    "tags": ["Trauma-Informed Care", "Youth Wellbeing", "Community Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0510",
+    "title_clean": "Vietnam War Veterans Reunite With the Children They Left Behind",
+    "blurb": "A USA Today opinion piece on Vietnam War veterans reconnecting decades later with children born during the war and left behind — a story of delayed reckoning, inherited loss, and cross-generational reunion.",
+    "tags": ["Intergenerational Trauma", "Grief & Loss", "Storytelling & Narrative"],
+    "type_display": "Article",
+    "confidence": "low",
+    "ambiguous_note": "Original title was only a raw URL; the headline and framing here are reconstructed from the URL slug rather than confirmed page content."
+  },
+  {
+    "id": "CFT-0511",
+    "blurb": "McLean Hospital's patient-facing explainer covering the basics of trauma and PTSD — symptoms, causes, and treatment approaches — intended as an accessible entry point for people newly encountering these terms.",
+    "tags": ["Mental Health", "Trauma-Informed Care"],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-0512",
+    "blurb": "A Washington Post feature explaining the science of how trauma passes from one generation to the next — and what current research suggests about interrupting that transmission through conscious healing.",
+    "tags": ["Intergenerational Trauma", "Historical Trauma", "Mental Health"],
+    "type_display": "Article",
+    "confidence": "high"
+  }
+]
