@@ -1,7 +1,7 @@
 {
   "model": "Xenova/all-MiniLM-L6-v2",
   "dim": 384,
-  "count": 1092,
+  "count": 1107,
   "ids": [
     "CFT-0001",
     "CFT-0002",
@@ -1094,7 +1094,22 @@
     "CFT-1092",
     "CFT-1093",
     "CFT-1094",
-    "CFT-1095"
+    "CFT-1095",
+    "CFT-1096",
+    "CFT-1097",
+    "CFT-1098",
+    "CFT-1099",
+    "CFT-1100",
+    "CFT-1101",
+    "CFT-1102",
+    "CFT-1103",
+    "CFT-1104",
+    "CFT-1105",
+    "CFT-1106",
+    "CFT-1107",
+    "CFT-1108",
+    "CFT-1109",
+    "CFT-1110"
   ],
   "hashes": [
     "d7de1be6c6ca52b1",
@@ -2188,6 +2203,21 @@
     "f04c546e39a84fed",
     "27173d1bd81d3f5e",
     "6f3ca85d74f139a5",
-    "8e2e9c904f9380d8"
+    "8e2e9c904f9380d8",
+    "57c48aea3374503f",
+    "412e1efea53db884",
+    "056dc16cf26c819e",
+    "be013561fd17fb89",
+    "ab9f0bc40afdfab8",
+    "7d4e141d7f815ec4",
+    "4ca8dc5e75c75ba2",
+    "b5cd23d78b577e49",
+    "d752ebe9e3da1377",
+    "d9e3a820e2de203f",
+    "0c23f5f70da43b5f",
+    "e8c9b71167dc8e7c",
+    "3281260e13b3b658",
+    "76fe3041d50ea66b",
+    "ba607d54fc79d241"
   ]
 }

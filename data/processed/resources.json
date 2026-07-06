@@ -30214,5 +30214,419 @@
     ],
     "type_display": "Academic Paper",
     "confidence": "high"
+  },
+  {
+    "id": "CFT-1096",
+    "title": "Welcome to Postnormal Times",
+    "url": "https://doi.org/10.1016/j.futures.2009.11.028",
+    "primary_category": "Systems Change, Design & Futures Thinking",
+    "categories": [
+      "Systems Change, Design & Futures Thinking"
+    ],
+    "type_normalized": "Academic Paper",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2010",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "Ziauddin Sardar's foundational 2010 essay introducing \"postnormal times\" -- the in-between period marked by complexity, chaos, and contradictions where old certainties have collapsed and new ones haven't yet emerged -- and arguing that navigating it requires humility, imagination, and an ethical compass rather than control.",
+    "tags": [
+      "Futures Thinking",
+      "Foresight Methodology",
+      "Framework"
+    ],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1097",
+    "title": "Position Paper for the Planetary Civics Inquiry: A New Framework for Planetary Futures",
+    "url": "https://cdn.prod.website-files.com/668400197070c499d03bb489/67124296cf139c5400cf85d8_PCI_PositionPaper_A%20New%20Framework%20for%20Planetary%20Futures%20(2).pdf",
+    "primary_category": "Systems Change, Design & Futures Thinking",
+    "categories": [
+      "Systems Change, Design & Futures Thinking"
+    ],
+    "type_normalized": "Report",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2024",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "A position paper by Zehra Zaidi and Indy Johar proposing a new framework for \"planetary civics\" -- governance models capable of responding to cascading, interconnected global risks -- developed by Dark Matter Labs with RMIT, RISD, and Politics for Tomorrow as part of the Planetary Civics Inquiry.",
+    "tags": [
+      "Systems Change",
+      "Futures Thinking",
+      "Framework",
+      "Policy Innovation"
+    ],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1098",
+    "title": "World Happiness Report 2026: Happiness and Social Media",
+    "url": "https://www.worldhappiness.report/ed/2026/",
+    "primary_category": "Global Mental Health Research",
+    "categories": [
+      "Global Mental Health Research"
+    ],
+    "type_normalized": "Report",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2026",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "The 2026 edition of the World Happiness Report, focused on the complex relationship between social media and wellbeing -- finding that platforms built for genuine connection tend to support happiness while those driven by algorithmically curated content tend to undermine it, especially among young people.",
+    "tags": [
+      "Mental Health",
+      "Social Media & Attention Economy",
+      "Youth Wellbeing",
+      "Academic Research"
+    ],
+    "type_display": "Report",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1099",
+    "title": "Commission Presents First-Ever Strategy on Intergenerational Fairness",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_535",
+    "primary_category": "Government, Democracy & Polarization",
+    "categories": [
+      "Government, Democracy & Polarization"
+    ],
+    "type_normalized": "Article",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2026",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "The European Commission's first-ever Strategy on Intergenerational Fairness (March 2026), committing the EU to long-term policymaking tools like a \"youth check\" and an Intergenerational Fairness Index to ensure today's decisions don't shortchange younger and future generations.",
+    "tags": [
+      "Policy Innovation",
+      "Intergenerational",
+      "Democracy",
+      "Futures Thinking"
+    ],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1100",
+    "title": "The Futures We Build: A Playbook for Long-Term Thinking",
+    "url": "https://perkinswill.com/news/the-futures-we-build/",
+    "primary_category": "Systems Change, Design & Futures Thinking",
+    "categories": [
+      "Systems Change, Design & Futures Thinking"
+    ],
+    "type_normalized": "Tool/Framework",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "A playbook distilling seven opportunities for long-term thinking in the built environment, developed through roundtables convened by Perkins&Will and the Royal College of Art's superFUTURES program with designers, clients, and civic leaders.",
+    "tags": [
+      "Futures Thinking",
+      "Foresight Methodology",
+      "Facilitation Tool",
+      "Framework"
+    ],
+    "type_display": "Framework",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1101",
+    "title": "Framings in Indigenous Futures Thinking: Barriers, Opportunities, and Innovations",
+    "url": "https://link.springer.com/article/10.1007/s11625-024-01615-1",
+    "primary_category": "Systems Change, Design & Futures Thinking",
+    "categories": [
+      "Systems Change, Design & Futures Thinking"
+    ],
+    "type_normalized": "Academic Paper",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2025",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "A systematic review by Cheok et al. identifying four framings of Indigenous futures thinking -- adaptation-oriented, participatory, culturally grounded, and Indigenising -- and the conditions (co-design, Indigenous leadership, decolonial and trauma-informed methods) that make futures work with Indigenous communities most generative.",
+    "tags": [
+      "Futures Thinking",
+      "Decolonial Thinking",
+      "Framework",
+      "Academic Research"
+    ],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1102",
+    "title": "Is There Really a Transatlantic Divide in Foresight Practice?",
+    "url": "https://www.linkedin.com/pulse/really-transatlantic-divide-foresight-practice-pierre-volosin-pyejc/",
+    "primary_category": "Systems Change, Design & Futures Thinking",
+    "categories": [
+      "Systems Change, Design & Futures Thinking"
+    ],
+    "type_normalized": "Article",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2026",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "Pierre Volosin argues that the real transatlantic divide in foresight practice isn't about methodology -- both regions use similar tools -- but about institutional focus, with European foresight oriented toward governance and policy and U.S. foresight toward strategy and innovation, and that the field's future lies in synthesizing both traditions.",
+    "tags": [
+      "Foresight Methodology",
+      "Futures Thinking",
+      "Policy Innovation"
+    ],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1103",
+    "title": "The Democracy Audience Map — Harmony Labs",
+    "url": "https://harmonylabs.org/project/democracy-audiences",
+    "primary_category": "Government, Democracy & Polarization",
+    "categories": [
+      "Government, Democracy & Polarization"
+    ],
+    "type_normalized": "Other",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "A Harmony Labs project mapping the audiences of American democracy -- how different segments of the public relate to civic life and democratic institutions -- to inform narrative and engagement strategy for pro-democracy work.",
+    "tags": [
+      "Democracy",
+      "Civic Life",
+      "Storytelling & Narrative"
+    ],
+    "type_display": "Report",
+    "confidence": "medium",
+    "ambiguous_note": "Project name and org are clear, but the exact scope and methodology of this specific Harmony Labs audience-mapping project weren't independently verified beyond the page title."
+  },
+  {
+    "id": "CFT-1104",
+    "title": "Operationalizing Imagination",
+    "url": "https://www.newamerica.org/insights/operationalizing-imagination/",
+    "primary_category": "Imagination, Play & Creativity",
+    "categories": [
+      "Imagination, Play & Creativity"
+    ],
+    "type_normalized": "Article",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2026",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "An essay by Kate Barranco for New America's Future Security Scenarios Lab arguing that younger generations are losing the capacity to imagine alternatives to crisis, and that imagination must be treated as essential civic infrastructure -- deliberately cultivated through storytelling, planning, and education to navigate complex planetary challenges.",
+    "tags": [
+      "Collective Imagination",
+      "Futures Thinking",
+      "Framework"
+    ],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1105",
+    "title": "Why It's Easier to Joke About the Apocalypse Than Imagine a Better Community",
+    "url": "https://timeleft.com/essays/why-its-easier-to-joke-about-the-apocalypse-than-imagine-a-better-community",
+    "primary_category": "Imagination, Play & Creativity",
+    "categories": [
+      "Imagination, Play & Creativity"
+    ],
+    "type_normalized": "Article",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "An essay by Kate Barranco on why cynicism and dark humor have become the default response to civilizational anxiety, introducing \"protopia\" -- incremental, imperfect progress -- as an antidote, and calling for rebuilding community and intergenerational dialogue as practices for reclaiming collective imagination.",
+    "tags": [
+      "Collective Imagination",
+      "Hope & Empowerment"
+    ],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1106",
+    "title": "Is Gen Z Too Emotionally Literate to Feel?",
+    "url": "https://thred.com/culture/is-gen-z-too-emotionally-literate-to-feel/",
+    "primary_category": "Gen Z, Youth Experience & Identity",
+    "categories": [
+      "Gen Z, Youth Experience & Identity"
+    ],
+    "type_normalized": "Article",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "An essay by Kate Barranco questioning whether Gen Z's fluency in therapy-speak -- terms like \"gaslighting\" and \"trauma-dumping\" picked up from social media -- helps them process emotion or instead lets them intellectualize feelings without actually feeling them.",
+    "tags": [
+      "Gen Z",
+      "Identity & Culture",
+      "Mental Health"
+    ],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1107",
+    "title": "Ecological Belonging: Reweaving Ourselves, Each Other, and the Natural World",
+    "url": "https://networkofwellbeing.org/2024/03/05/ecological-belonging-reweaving-ourselves-each-other-and-the-natural-world/",
+    "primary_category": "Spiritual Ecology & Ecological Belonging",
+    "categories": [
+      "Spiritual Ecology & Ecological Belonging"
+    ],
+    "type_normalized": "Article",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2024",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "An essay by Kate Barranco arguing that humanity has lost meaningful connection to nature through forgotten stories, rituals, and knowledge-sharing practices, and inviting readers to help \"remember, renew, and reweave\" ecological belonging as inseparable from human wellbeing.",
+    "tags": [
+      "Ecological Belonging",
+      "Nature Connection",
+      "Community Health"
+    ],
+    "type_display": "Article",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1108",
+    "title": "The Digital Crossroads: Media Literacy and the Future of Youth Online",
+    "url": "https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000876",
+    "primary_category": "Social Media, Attention Economy & Youth MH",
+    "categories": [
+      "Social Media, Attention Economy & Youth MH"
+    ],
+    "type_normalized": "Academic Paper",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2025",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "A PLOS Digital Health opinion piece by Kate Barranco and Kendall Bryant (Red House, Georgetown University) examining media literacy as a critical skill for young people navigating an increasingly complex, algorithmically shaped online environment.",
+    "tags": [
+      "Social Media & Attention Economy",
+      "Digital Wellbeing",
+      "Youth Wellbeing",
+      "Academic Research"
+    ],
+    "type_display": "Academic Paper",
+    "confidence": "medium",
+    "ambiguous_note": "Full abstract text wasn't retrievable from the journal page; blurb is based on title, authors, and journal context rather than the complete article text."
+  },
+  {
+    "id": "CFT-1109",
+    "title": "Transforming Higher Education: Building Trauma-Informed Communities for Healing and Intergenerational Wellbeing",
+    "url": "https://www.advancejournal.org/article/94666-transforming-higher-education-building-trauma-informed-communities-for-healing-and-intergenerational-wellbeing",
+    "primary_category": "Intergenerational Trauma & Trauma-Informed Practice",
+    "categories": [
+      "Intergenerational Trauma & Trauma-Informed Practice"
+    ],
+    "type_normalized": "Academic Paper",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "2024",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "A journal article by Mays Imad, Byron Bitanihirwe, and Kate Barranco on building trauma-informed, healing-centered communities in higher education -- examining institutional betrayal and arguing that trauma-informed teaching and learning benefits both current students and future generations.",
+    "tags": [
+      "Trauma-Informed Care",
+      "Intergenerational",
+      "Healing Practice",
+      "Academic Research"
+    ],
+    "type_display": "Academic Paper",
+    "confidence": "high"
+  },
+  {
+    "id": "CFT-1110",
+    "title": "The Journey Framework",
+    "url": "https://indd.adobe.com/view/11ad3a3f-a931-40c1-a758-4b643b2785a6",
+    "primary_category": "Theories of Change & Impact Mapping",
+    "categories": [
+      "Theories of Change & Impact Mapping"
+    ],
+    "type_normalized": "Tool/Framework",
+    "type_raw_variants": [],
+    "note": "",
+    "extra_tag_text": "",
+    "hub": "",
+    "year": "",
+    "source_sheets": [
+      "Hand-added (Kate request — PDFs & links, 2026-07-06)"
+    ],
+    "merged_from_count": 1,
+    "blurb": "A framework developed with Red House at Georgetown University mapping the arc of a wellbeing or community-health initiative from design through impact.",
+    "tags": [
+      "Framework",
+      "Theory of Change",
+      "Community Health"
+    ],
+    "type_display": "Framework",
+    "confidence": "medium",
+    "ambiguous_note": "This is an interactive Adobe InDesign document that didn't render its text content for verification; the title and authorship context come from the Ideas & Recognition page listing. Worth a quick confirmation from Kate that this description matches."
   }
 ]
