@@ -30605,8 +30605,9 @@
     "id": "CFT-1110",
     "title": "The Journey Framework",
     "url": "https://indd.adobe.com/view/11ad3a3f-a931-40c1-a758-4b643b2785a6",
-    "primary_category": "Theories of Change & Impact Mapping",
+    "primary_category": "Intergenerational Trauma & Trauma-Informed Practice",
     "categories": [
+      "Intergenerational Trauma & Trauma-Informed Practice",
       "Theories of Change & Impact Mapping"
     ],
     "type_normalized": "Tool/Framework",
@@ -30619,14 +30620,14 @@
       "Hand-added (Kate request — PDFs & links, 2026-07-06)"
     ],
     "merged_from_count": 1,
-    "blurb": "A framework developed with Red House at Georgetown University mapping the arc of a wellbeing or community-health initiative from design through impact.",
+    "blurb": "The Red House Journey Framework is a systems-change toolkit developed over five years by an interdisciplinary team led by Red House Director Randall Bass, PhD, with Dr. Mays Imad, Dr. Kathy Powers, Pulitzer Prize-winning journalist Kate Woodsome, and research associates including Kate Barranco, Kendall Bryant, Ijeoma Njaka, and Duncan Peacock. It gives changemakers practical tools to identify, disrupt, and repair cascading cycles of trauma at the individual, communal, and systemic level, centered on \"rehumanization\" -- restoring dignity within degrading institutional conditions -- as the mechanism for turning generational patterns of harm into generational healing.",
     "tags": [
-      "Framework",
-      "Theory of Change",
-      "Community Health"
+      "Systems Change",
+      "Trauma-Informed Care",
+      "Intergenerational Trauma",
+      "Framework"
     ],
     "type_display": "Framework",
-    "confidence": "medium",
-    "ambiguous_note": "This is an interactive Adobe InDesign document that didn't render its text content for verification; the title and authorship context come from the Ideas & Recognition page listing. Worth a quick confirmation from Kate that this description matches."
+    "confidence": "high"
   }
 ]
